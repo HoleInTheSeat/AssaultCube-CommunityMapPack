@@ -1,0 +1,4 @@
+License:
+        1) It is NOT allowed to edit the map, nor to modify the map's name, mapmsg or this config file.
+        2) Including this map into a package requires the author's permission.
+        3) Point 1) and 2) do not apply in case the map is considered being included into packages of the OFFICIAL AssaultCube distribute.

@@ -1,0 +1,3399 @@
+// AC server vita database
+// autosaved Mon Oct  2 09:52:55 2023
+// (don't edit this file, while the server is running)
+
+PUBKEY 01e42cc1341ee1568bf42511ce1436889384ca023ff1c2044a47ce3f1a858c9d
+	NAME TheJared308
+	IP 181.66.137.104
+	STAT first:28225793 last:28248531 minconn:1 minact:1
+
+PUBKEY 0120cf4e8e97458fbd257f3773ac2e7056a03c0857967ab26458b3154e37cb56
+	NAME fascist
+	IP 191.17.15.82
+	STAT first:28178063 last:28179615 minconn:10 minact:9 flags:5 frags:8 deaths:15 suicides:1 damage:1293
+
+PUBKEY 04482acd217b5e15768e0fb0084119db6fece0550f61bd7dadb5a51085019848
+	NAME Villa-Lobos
+	IP 152.237.247.220 152.237.245.3
+	STAT first:28190915 last:28258424 minconn:9 minact:8 flags:2 frags:17 deaths:12 tks:1 damage:2302 ff:96
+
+PUBKEY 0448b4f440a3827573e97dc1a24cb669a20c354483ca096659101ca45f1acba5
+	NAME Mr.Hero
+	IP 37.156.156.37
+	STAT first:28190526 last:28190526 minconn:1 minact:1 frags:1 deaths:1 damage:80
+
+PUBKEY 05f89b521d482f0a7d21eb7634c4244b7801401457b259bbfcb9bbf739c32340
+	NAME negrogamer
+	IP 200.8.226.91
+	STAT first:28181740 last:28181740 minconn:6 minact:6 frags:8 deaths:17 damage:656
+
+PUBKEY 08c8036fb8c6758e21c48e8468338b0f51a8dc7e05058274cbf0307cb1c3e8b7
+	NAME Microsoft_$ucks
+	IP 47.148.193.80
+	STAT first:28221171 last:28221174 minconn:3 minact:3 frags:4 deaths:5 damage:648 ff:25
+
+PUBKEY 09b8cf4e114e1e8599f88485ebbc9117f61040cb217e94c10212ae2934cb7f6b
+	NAME ****@
+	IP 223.187.19.175
+	STAT first:28190532 last:28190532 minconn:3 minact:3 frags:6 deaths:4 damage:693
+
+PUBKEY 0a282da0258a43e642c51afc52683ed66a99f407c318ca3dc099dde5fefed8ae
+	NAME Cancer
+	IP 5.197.250.235
+	STAT first:28211712 last:28211712 minconn:50 minact:50 flags:3 frags:84 deaths:209 tks:2 suicides:1 damage:15726 ff:178
+
+PUBKEY 0fec4a6a6893eeeabbf29aa1c119e37cd2d12cb308ff972c019597f1f643c345
+	NAME VAN
+	IP 37.160.1.84 37.160.137.84 37.161.100.49 37.161.83.42
+	STAT first:28182010 last:28228142 minconn:55 minact:55 flags:2 frags:25 deaths:56 damage:3580 ff:48
+
+PUBKEY 10b07c6951242f4221e5ac87dac757b54391c05f89692c6430fd52882c5707a6
+	NAME Nomad
+	IP 91.37.87.149
+	STAT first:28200409 last:28200409 minconn:6 minact:6 frags:11 deaths:23 damage:1956 ff:153
+
+PUBKEY 104450601cf24bcd133b5219b8fff3e54a146275186f44b1245d27e3b143d8e4
+	NAME Hanni
+	IP 77.25.14.76
+	STAT first:28190984 last:28190984
+
+PUBKEY 11a46fff7b140bc9612ee1a31d6d1760d720fd0c93c3a7c646f3e0701fa0c479
+	NAME unarmed
+	IP 191.6.124.11
+	STAT first:28211759 last:28211784 minconn:16 minact:14 deaths:31 tks:1 ff:88
+
+PUBKEY 12f42a2fb122c79e425720857f2e73e395fc40ee9997b362d2410f74da9d5e10
+	NAME Tatakae
+	IP 190.176.51.138 190.176.56.7 190.176.23.179 190.176.85.194
+	STAT first:28185096 last:28215429 minconn:182 minact:171 flags:18 frags:307 deaths:421 tks:5 suicides:6 damage:52265 ff:1292
+
+PUBKEY 1444cba1547db60eca7919dcb930ee870c45147531bacee432d61c8908f83536
+	NAME SJDGF
+	IP 61.19.79.94
+	STAT first:28211484 last:28211484 minconn:2 minact:2 flags:5
+
+PUBKEY 1794ebca492eb1de235a96df0063af349d064506b39f16f162363389024b5c9c
+	NAME connex unarmed
+	IP 186.247.199.156
+	STAT first:28229998 last:28242550 minconn:51 minact:48 frags:224 deaths:169 tks:5 suicides:2 damage:35422 ff:973
+
+PUBKEY 17f4591743e023299fbc884546088ccceb249a1d899f8e61fb3c3907907718bc
+	NAME ty
+	IP 73.94.162.201
+	STAT first:28206830 last:28206830
+
+PUBKEY 1730bfa2fdd74eac2ddaa095d483ec0e4264c866a048b6d93ceae8dc74ad8fe5
+	NAME unarmed
+	IP 181.176.209.242
+	STAT first:28192383 last:28192383 minconn:11 minact:11 flags:5 frags:8 deaths:8 damage:1055
+
+PUBKEY 1734dc94778b59e3e6859f362bb37277c6b032b0bf16de914ccb6f97ef6a79bd
+	NAME ZZ|Turkey
+	IP 203.63.200.53 118.102.90.103 124.170.49.126 203.63.200.167
+	STAT first:28178109 last:28270621 minconn:80 minact:75 flags:10 frags:221 deaths:212 tks:3 damage:30311 ff:436
+
+PUBKEY 1a608a8bd79a07118b6397167dfd04ebfed0a6f616f54d0f15c0ef619da3b0f2
+	NAME julio
+	IP 190.103.28.97
+	STAT first:28265935 last:28265935 minconn:1 minact:1
+
+PUBKEY 1cb8745937ab8dd6b71816e29cff6b3ec50a33309294a2cadcf5e4b96d6dc6cd
+	NAME zlnnco
+	IP 68.150.69.51
+	STAT first:28179312 last:28179336 minconn:17 minact:17 frags:57 deaths:26 tks:5 damage:5552 ff:440
+
+PUBKEY 1d08c2b3dd639095d8d1db3648d2bffa4ffdfdb45684a103a155ef1841921a0d
+	NAME unfapped
+	IP 79.115.20.118
+	STAT first:28179558 last:28179558 minconn:9 minact:8 frags:25 deaths:25 damage:3083 ff:16
+
+PUBKEY 1ef452fc981517c44cdabc35ecf76517ace6b40cd02d4b0b6861405ea04416d4
+	NAME salama
+	IP 75.155.151.19
+	STAT first:28188012 last:28201902 minconn:7 minact:5 frags:5 deaths:2 damage:800
+
+PUBKEY 1fb437f370b55f213bf21f855ff848a7f01cb22d8b76b1bade14cc7654f51272
+	NAME IgnaCho
+	IP 207.248.206.43
+	STAT first:28207697 last:28258715 minconn:67 minact:65 flags:5 frags:263 deaths:166 tks:3 suicides:1 damage:38636 ff:643
+
+PUBKEY 1fc044ad0871dae790e7e09042dcfecde4b25df20e3dacfe7cedd9ca998c3206
+	NAME xGamer626
+	IP 74.195.251.244
+	STAT first:28201923 last:28201923 minconn:1 minact:1 frags:6 deaths:4 damage:814
+
+PUBKEY 2004b639879b0407a8383928157853fcda1f39a7f9ba16c41bd214480732d29a
+	NAME kip
+	IP 37.101.157.114
+	STAT first:28211771 last:28211771 minconn:25 minact:25 frags:64 deaths:52 tks:5 damage:10349 ff:598
+
+PUBKEY 215c04585d7a7e882136dbe7bf01a3974c132d8649dfff7687ce6a49190feb12
+	NAME unarmed
+	IP 36.68.9.51
+	STAT first:28221363 last:28221363 minconn:2 minact:2
+
+PUBKEY 216c7bab7b229a8e55fbf95edbed8d683c5edc64841489034de9011da5e77b4b
+	NAME r0p3r
+	IP 76.103.218.179 104.176.189.211
+	STAT first:28180354 last:28258537 minconn:125 minact:125 flags:10 frags:257 deaths:389 tks:11 suicides:1 damage:37388 ff:1367
+
+PUBKEY 22e06439043202f3ba57ac635669dfa8a62cd4dfff2c428d409ec970c55d8e84
+	NAME Wy6!O'
+	IP 178.221.226.173 109.92.189.46
+	STAT first:28230756 last:28236588 minconn:21 minact:21 flags:1 frags:44 deaths:56 damage:6039 ff:105
+
+PUBKEY 246c6f758c2c15b0a71c3d79353dab64bd4efdc47235d2bc3150c70c8c5748ab
+	NAME Library
+	IP 177.224.177.72
+	STAT first:28238161 last:28238162 minconn:2 minact:2 frags:2 deaths:4 damage:407
+
+PUBKEY 24c8e18a599b12ea8398352d1593d717b8b6fe25e61a70223b3bf8680a3fa0fd
+	NAME dony_mojo
+	IP 74.40.78.12
+	STAT first:28179295 last:28181768 minconn:72 minact:70 flags:1 frags:131 deaths:132 tks:1 damage:12368 ff:82
+
+PUBKEY 25c8436049ceb58d869ddd48372b926cc5255141a15e93960d65b6acc7f96469
+	NAME Grimley
+	IP 98.180.40.30
+	STAT first:28268995 last:28268995 minconn:20 minact:20 frags:65 deaths:27 suicides:1 damage:6576
+
+PUBKEY 2538f42baba67510b9dcd935e12176761a27ba6d411e0bb86199695f13119ad7
+	NAME drewisacumhe drewisacumh drewisacum cumhead
+	IP 73.26.82.172
+	STAT first:28176731 last:28176731 minconn:113 minact:113 frags:177 deaths:193 tks:5 suicides:10 damage:18612 ff:732
+
+PUBKEY 2660da75639dfacef0e663c5e04830a54afdb83e8510cc472e02f07728a76ac2
+	NAME orindo1945
+	IP 103.186.213.9
+	STAT first:28207699 last:28207699 minconn:1 minact:1 deaths:2
+
+PUBKEY 26f86bbbcaa0e420352dd7dd9a69159a647b822489e2ca07ed365ef120b76af5
+	NAME damir
+	IP 88.165.188.181
+	STAT first:28188032 last:28211767 minconn:15 minact:14 flags:1 frags:48 deaths:23 tks:3 suicides:1 damage:7113 ff:362
+
+PUBKEY 27f0de3fa9cc783562148a90d75eab001095837ec593e80fc6911b61c33cf27e
+	NAME Parabellum
+	IP 207.253.147.62
+	STAT first:28179457 last:28192330 minconn:109 minact:108 flags:24 frags:255 deaths:225 tks:7 damage:28276 ff:980
+
+PUBKEY 2fc4a8db89f6b15fc493c3fe3c0d58ebe63ae607f2221b0685d36a2aaade644f
+	NAME unarmed
+	IP 95.233.152.1
+	STAT first:28239573 last:28239573
+
+PUBKEY 3054e4d21d1158ac241664c9794651dadf3e3f01618fd951d984e839adfd545d
+	NAME unarmed
+	IP 131.196.168.32
+	STAT first:28192356 last:28192356 deaths:1
+
+PUBKEY 31203a5618832284cb2dccee968c49e7826c0f04fe299df50afe893c69fe95a9
+	NAME |VEN|Chubby
+	IP 190.103.30.77 190.120.253.48
+	STAT first:28177326 last:28201900 minconn:91 minact:88 flags:14 frags:181 deaths:244 tks:5 suicides:1 damage:25019 ff:1125
+
+PUBKEY 31902138cfb57f87696a1a63a0c198658892371c8adb70c37c0d89cb2893eec2
+	NAME Alx_gzzz
+	IP 201.230.62.76
+	STAT first:28176784 last:28176784 minconn:1 deaths:1 ff:22
+
+PUBKEY 32f04419c927d6113ca7e111686e591a3815f7bada530504df188d5c23847a4d
+	NAME SHIKARI|
+	IP 181.176.209.242
+	STAT first:28192390 last:28192390 minconn:4
+
+PUBKEY 33e892aa429aa1244a853c7b4f76e0f0542b4ef3715d2ece2e0186f3b990ff4f
+	NAME NakedGermanLove
+	IP 92.206.190.27
+	STAT first:28201889 last:28201898 minconn:5 minact:5 frags:3 deaths:5 tks:1 suicides:1 damage:503 ff:125
+
+PUBKEY 334c2763d6330418e4ce41cccc3f854f00f19b8a302a12caf3476b2f43dba1ce
+	NAME spoingus
+	IP 205.185.110.104
+	STAT first:28192251 last:28192251 minconn:15 minact:15 frags:34 deaths:37 damage:3222 ff:198
+
+PUBKEY 35dcd4c47de04092ea92bebb7c2854b6c6296e4aa0906da2bac3b4916c3ad7c7
+	NAME MccThiccens
+	IP 68.96.107.144
+	STAT first:28176739 last:28176739 minconn:4 minact:4 frags:4 deaths:6 damage:328
+
+PUBKEY 3854cf351ae4a3634dce688c5076e669766a50f4cc4eec6360e7e161678a0bb5
+	NAME lemi
+	IP 95.180.106.206
+	STAT first:28211641 last:28211762 minconn:73 minact:72 flags:22 frags:134 deaths:206 tks:4 suicides:1 damage:22295 ff:799
+
+PUBKEY 392c5495fb056bca64f2e2047056886fe473defe731f39733c43c4f1c446c644
+	NAME PingaLoca ataque InterMiami Susana
+	IP 146.241.217.151 146.241.195.219 146.241.209.146 37.160.14.50
+	STAT first:28190525 last:28211747 minconn:52 minact:48 flags:5 frags:138 deaths:119 tks:4 damage:19567 ff:1094
+
+PUBKEY 3db0ed227af2fea084c95bf0f5913cae7213893a2a3a7e55ab5d24f12cd5512a
+	NAME Sniper
+	IP 41.60.124.221
+	STAT first:28258382 last:28258423 minconn:33 minact:31 flags:3 frags:61 deaths:66 tks:1 suicides:1 damage:7448 ff:286
+
+PUBKEY 3d08c408d9b11554afd26eb712c6e1a5daac2c986c1167c7e85a0ac7cc08bf39
+	NAME Naninha
+	IP 200.66.124.15
+	STAT first:28190877 last:28190877 minconn:5 minact:5 frags:9 deaths:23 damage:1455 ff:16
+
+PUBKEY 41c840ecbb85861ac8ddaf7805dd35cbc31688a9c2f5822898e7c149d0bb7ea0
+	NAME mauriciobr
+	IP 200.203.0.53
+	STAT first:28258411 last:28258411 minconn:2 minact:2 frags:2 deaths:1 damage:264
+
+PUBKEY 46dc0e7cb1390b3e5206ae872f8308d83024ac62f49ca9099fd59712e34a9e32
+	NAME Epoch`1 Epoch`
+	IP 71.92.91.36
+	STAT first:28179374 last:28258549 minconn:63 minact:62 flags:14 frags:139 deaths:157 tks:6 damage:17838 ff:435
+
+PUBKEY 47740fd1aab3ab3669ad388d7256df15473e1fbdd65e3736e9871faa043a96d7
+	NAME unarmed
+	IP 179.221.200.227
+	STAT first:28258402 last:28258402 minconn:2 minact:2 frags:1 deaths:3 damage:176 ff:154
+
+PUBKEY 485cb563e069fdf3e38cc687588d01703afc7d85079a4cea6d44c12dd6261f68
+	NAME EricD
+	IP 77.171.2.176
+	STAT first:28190524 last:28190524 minconn:12 minact:12 frags:23 deaths:30 tks:6 damage:4434 ff:991
+
+PUBKEY 4bf44ea73f4f094ffa540dd2e0fec7682a1e98b8dec737c67afc7aad12704dd3
+	NAME deadave
+	IP 75.251.200.134
+	STAT first:28269998 last:28269998 minconn:2 minact:2
+
+PUBKEY 4c58095e63b8586a789b310bdfa4aed6eb13865645f8e2e6e411ff000221d3af
+	NAME molamola
+	IP 221.110.128.249
+	STAT first:28186885 last:28186885 minconn:3 minact:3 frags:1 deaths:4 damage:110
+
+PUBKEY 4d6caeb38298203c82d71c27004c747be0019ab7786c6852faef7eefbe04884d
+	NAME eveready
+	IP 80.229.250.80
+	STAT first:28258570 last:28258570 minconn:31 minact:31 flags:3 frags:110 deaths:75 tks:5 damage:12986 ff:266
+
+PUBKEY 4d189a6ed6f960378997b55f2ff9f09b5df6cd043ce13d2a9f911f2ad6931268
+	NAME HenkG
+	IP 81.225.33.188
+	STAT first:28230640 last:28233512 minconn:22 minact:21 flags:2 frags:35 deaths:35 damage:5243
+
+PUBKEY 4d4889bdf3a1f915545bb87e1a392f066ef629304bd8e599669a8f909daf12ec
+	NAME Tiv
+	IP 37.47.76.249
+	STAT first:28187314 last:28187314
+
+PUBKEY 4ea06a57347cc6e0ca0b0f5ac6c9546397fc6790bc16b2b67b951b8b4a896161
+	NAME Pseudo
+	IP 90.218.70.219
+	STAT first:28211694 last:28211694 minconn:16 minact:15 flags:16 antiflags:1 frags:34 deaths:32 tks:3 damage:4718 ff:252
+
+PUBKEY 50c043f802e577c4c7374fdfe58819840e2e2aa302f48c2b014e9e5a24a4eda9
+	NAME Eichimit
+	IP 200.219.2.30
+	STAT first:28188044 last:28188044 minconn:18 minact:18 frags:41 deaths:41 damage:5132 ff:88
+
+PUBKEY 5740bee2a9153728ccf3c0a44c8e13bb68985fc770f09725953c2e208ab305d4
+	NAME ryker
+	IP 76.178.191.155
+	STAT first:28258517 last:28258517 minconn:11 minact:11 frags:11 deaths:18 tks:1 damage:1706 ff:148
+
+PUBKEY 5724b6e5037ac16291933e4f95473d37799d20bb5f42578f116772f1a372380d
+	NAME DreamStealer Tyrannix
+	IP 79.184.232.34 79.184.233.198
+	STAT first:28181750 last:28230773 minconn:11 minact:11 flags:1 frags:17 deaths:23 damage:2946 ff:16
+
+PUBKEY 5984868b01484b8c866053f1b78557924200277eb89790f96fd9356399832a36
+	NAME Awesome JohnRambo JohnRambo(1) [tk]Hacker
+	IP 45.162.20.52
+	STAT first:28258566 last:28258618 minconn:75 minact:75 flags:6 frags:101 deaths:199 tks:5 suicides:1 damage:15462 ff:939
+
+PUBKEY 59c84c38a47d882531acb1394b62a72925323dfae4ebcb40ea71f90f18fcc3ef
+	NAME asdasfa
+	IP 162.206.108.155
+	STAT first:28215320 last:28215320 minconn:2 minact:2
+
+PUBKEY 59d08901032cdda1903439d82636d1c6907fe0f50f7f95a61f9f423eb4c8a3d9
+	NAME HoleBoi
+	IP 173.25.55.41
+	STAT first:28176719 last:28179476 minconn:294 minact:288 flags:11 antiflags:1 frags:596 deaths:493 tks:14 suicides:16 damage:73513 ff:2040
+
+PUBKEY 5a7cf0790cfee743f63d4c53c2065da99889a8238b9307f499e3da5c3405b191
+	NAME DeadMouse
+	IP 82.142.13.1
+	STAT first:28230771 last:28230771 minconn:21 minact:21 flags:6 frags:39 deaths:28 tks:1 damage:5116 ff:206
+
+PUBKEY 5b783964e152b076b613e33b333ba49610b107213e50293fcd0c0e625d7b87be
+	NAME Dr.P2
+	IP 134.19.65.11 134.19.64.15
+	STAT first:28191923 last:28199023 minconn:3 minact:3 frags:1 deaths:2 damage:267
+
+PUBKEY 5d2c535db8675fc8417675da3d4140475fdd6e647bab9be152edb5c3f4330a57
+	NAME Psionyx
+	IP 32.210.169.236
+	STAT first:28179492 last:28179492 minconn:2 minact:2 frags:5 deaths:6 damage:524 ff:88
+
+PUBKEY 5e78f6ac85b36720f5a6e182a3c1d02b76209dd5ec85e02264c5beadc5572b5d
+	NAME mastew
+	IP 47.29.51.211
+	STAT first:28202755 last:28202757 minconn:6 minact:6 deaths:16 damage:240
+
+PUBKEY 5f009e96953ba24bcf19a7e0fa2be9077a3c93de972f938f459ee2a7d258558b
+	NAME sali
+	IP 106.194.198.175
+	STAT first:28211798 last:28211798 minconn:7 minact:7 deaths:11 tks:1 damage:198 ff:110
+
+PUBKEY 61e4edc932f3cccb1eb7dd7e44553ae685ad05b1178700829a8b32719f7dbf8a
+	NAME DDR4wd
+	IP 152.169.224.254
+	STAT first:28215469 last:28215469 minconn:5 minact:5 frags:4 deaths:12 suicides:1 damage:530 ff:135
+
+PUBKEY 62d83bfca7796d175f0915cb3b31d511fae1cc91cec303bedbf2858fb1b5048f
+	NAME krv unarmed
+	IP 83.76.189.228
+	STAT first:28179470 last:28179537 minconn:97 minact:49 flags:3 frags:128 deaths:99 tks:2 damage:16465 ff:461
+
+PUBKEY 64a0147bcfcdcca4162c4271dd1c73225ff59390bab427086f87161ae6b9d790
+	NAME Anonymus88
+	IP 164.163.101.190
+	STAT first:28254283 last:28254285 minconn:6 minact:6 flags:1 frags:13 deaths:18 damage:1664 ff:16
+
+PUBKEY 669813f6bbac82e6ccb77b86a1fa8392264054f550d74098b226de2d4770715a
+	NAME Clue
+	IP 58.163.94.182
+	STAT first:28179615 last:28179615 minconn:1 minact:1 deaths:1 damage:32
+
+PUBKEY 6688ae2033edfeb2027b1122f78ec33758e5f2287f07b357c3c0a67402e22249
+	NAME Tryzer
+	IP 91.46.110.102
+	STAT first:28176744 last:28176744 minconn:3 minact:3 frags:4 deaths:7 damage:328
+
+PUBKEY 679849125dd57a8dcf4e52cd399bdb2b22222b8d55bfded7836686abdaf20136
+	NAME tib7531
+	IP 41.103.88.227 41.103.167.234 41.102.43.8 41.103.134.106
+	STAT first:28181739 last:28270398 minconn:24 minact:23 flags:3 frags:62 deaths:60 tks:2 damage:5844 ff:304
+
+PUBKEY 68cc3a18ba30718867fc02a2c44cdc72efe0daa2b2f2f5c6b79997f8868a8236
+	NAME pop_so_pop
+	IP 103.178.176.74
+	STAT first:28176852 last:28177305 minconn:1 frags:1 deaths:3 damage:82
+
+PUBKEY 69e878a5fab1860b4c07ebd7c2d8b3b62ad79e703e0ed47c5bdbb61e0d619955
+	NAME DEADPOOL Berlin
+	IP 117.210.160.46
+	STAT first:28269204 last:28269419 minconn:1
+
+PUBKEY 69f4212ec5be3d9c8e69490d39013664dfda4aa9caca3ff64614337eb2f061ff
+	NAME IROD
+	IP 83.234.245.2
+	STAT first:28190545 last:28201925 minconn:32 minact:32 flags:3 frags:27 deaths:70 tks:1 damage:5430 ff:174
+
+PUBKEY 6a24ed8665edfa4d2e2c1539888935a522006ef4af55d9e0c1f0b31c7060ac7a
+	NAME MohamBangsGoats
+	IP 89.247.160.194
+	STAT first:28256739 last:28256739 minconn:1 minact:1
+
+PUBKEY 6c7444b1642071c906f40bc991f33592e81655bf61b17e057e27c64bd9608d6e
+	NAME Diove.cs
+	IP 152.206.237.38
+	STAT first:28258494 last:28258501 minconn:9 minact:7 frags:1 deaths:17 tks:1 damage:233 ff:154
+
+PUBKEY 6fec6df29abd0fedafd1f6d2b5c5fc0933e2c6ade1d41f3b86fe01a81b324405
+	NAME IseeYou
+	IP 99.111.199.95 170.51.109.85 186.106.25.160
+	STAT first:28190918 last:28191025 minconn:105 minact:103 flags:9 frags:288 deaths:278 tks:2 suicides:3 damage:37698 ff:1116
+
+PUBKEY 718c407aaef383fa3759b198b00da58d4157cac0af9a41e45f12ec04c589295c
+	NAME rooney
+	IP 189.62.45.133
+	STAT first:28258502 last:28258502 minconn:34 minact:30 flags:5 frags:104 deaths:90 tks:2 damage:13046 ff:544
+
+PUBKEY 723c1175174feb7db11ba0f805cafae3afd986e2ffa10c6fc46ad1da56608f05
+	NAME nomad
+	IP 173.27.72.149
+	STAT first:28211280 last:28211312 minconn:40 minact:39 flags:5 frags:72 deaths:57 tks:5 damage:9103 ff:874
+
+PUBKEY 7508102610582d7254182afde0ffbb8633b751a9381a09181ed7d6a71fe3686c
+	NAME Pax
+	IP 151.26.81.119
+	STAT first:28201924 last:28201924 minconn:4 minact:4 frags:6 deaths:4 damage:616
+
+PUBKEY 78409b00d7a7b1df4c2cffddc031167d63a76cc4b8a1d0118696cbbc9a2b6837
+	NAME Red.Milano
+	IP 62.216.203.24
+	STAT first:28188177 last:28188177 minconn:27 minact:25 frags:46 deaths:59 tks:1 damage:3644 ff:82
+
+PUBKEY 78ec1af4d6e54b63ab79734194b22ef6a6c164b2b5631146a13ab378f5335d43
+	NAME Tatakae
+	IP 190.176.35.189
+	STAT first:28179193 last:28179387 minconn:4 minact:3 frags:4 deaths:5 damage:660
+
+PUBKEY 7a8c705cc24e5df717d40d96201d07e0610d13a2a28f04cf8ad0b02b058b9ff8
+	NAME gopuff
+	IP 50.79.193.218
+	STAT first:28209880 last:28209880 minconn:18 minact:18 frags:12 deaths:53 damage:1034
+
+PUBKEY 7ac807fd7dc8d6633ef262174d7a13d5d30da5bfbbdbb2d0a3b7b99308e953f2
+	NAME ossuruk
+	IP 176.220.197.129
+	STAT first:28190985 last:28190985 minconn:8 minact:7 frags:4 deaths:18 tks:1 damage:1056 ff:104
+
+PUBKEY 7bbce495359ddf048c9b1835d3966ad4fb071227e29920c951496bc4e78fe39b
+	NAME LIZ
+	IP 46.114.34.53
+	STAT first:28204615 last:28204615 minconn:6 minact:6 flags:1 frags:3 deaths:5 damage:384 ff:16
+
+PUBKEY 826811d68facd574666c55073ea2f0c612728838d4774034a492e94d9d11aa45
+	NAME Phantom
+	IP 184.170.72.100
+	STAT first:28188011 last:28188011 minconn:1
+
+PUBKEY 83088760524e3b27efc55e01509f0b37a1ede4d3f3b7e40f18d0ae8f09b7cb42
+	NAME Tigercub
+	IP 142.127.4.184
+	STAT first:28226730 last:28226730 minconn:2 minact:2 deaths:3 damage:139
+
+PUBKEY 843c3f1f08c6f8b8396b7addfd870583496d20f1918f5faca416483f5a290967
+	NAME unarmed aimless
+	IP 83.76.189.228
+	STAT first:28190726 last:28192313 minconn:36 minact:36 flags:1 frags:77 deaths:40 damage:8604
+
+PUBKEY 850049adf2ab8a859074d5e279afb5580667f4eb770589a34844af8be8b6e8af
+	NAME FORTNITEPRO
+	IP 81.166.149.10
+	STAT first:28211799 last:28211799 minconn:7 minact:6 flags:2 frags:17 deaths:11 damage:2016
+
+PUBKEY 8540fd4a73c9274d5e3730b0940f1a6b22c7376c9474a71011d2b8857bbad7b4
+	NAME Beardionado
+	IP 86.40.240.55
+	STAT first:28179473 last:28179473 minconn:3 minact:2 frags:4 deaths:6 damage:1052
+
+PUBKEY 85e063f4efe5bd1b7796aabb9bb808cb9648580e84b4ab315c98f3e3d648d906
+	NAME BuwungHantu
+	IP 182.253.242.70 182.253.242.78
+	STAT first:28177291 last:28215482 minconn:152 minact:136 flags:51 frags:415 deaths:338 tks:7 suicides:2 damage:49287 ff:1016
+
+PUBKEY 87287069c3c39a64601abe8610ea8d0de5cebb64759a011ae9cdf94256e2277d
+	NAME MrOrange
+	IP 62.170.243.216
+	STAT first:28239597 last:28239597 minconn:1
+
+PUBKEY 8b082ee6e31e3d97695643bce25602a5fad00d7668d07f484fac3f7536fa06e6
+	NAME OLDBOY
+	IP 117.253.24.71 117.222.247.186 117.223.224.46 117.241.112.68
+	STAT first:28209893 last:28270417 minconn:52 minact:51 flags:8 antiflags:1 frags:49 deaths:74 suicides:2 damage:9120 ff:316
+
+PUBKEY 8dec0defd3fb408c36a4cdba69d9cdfbf5f34686593d10b9e9730abd747a0b09
+	NAME rimad
+	IP 186.48.132.173 186.48.197.20
+	STAT first:28239576 last:28258493 minconn:48 minact:48 flags:15 antiflags:1 frags:260 deaths:111 tks:3 damage:30896 ff:860
+
+PUBKEY 8e98cc8fc1be9ab97c68ed915d3e098f4fd41f44002363a5180d42db2fb9a630
+	NAME kys
+	IP 185.125.7.217
+	STAT first:28177319 last:28177319
+
+PUBKEY 8fc0b0be083d5556c837fac3464fcd19967c30caac72069674a7fdb6d9532af5
+	NAME Rosalia
+	IP 201.163.47.3
+	STAT first:28179536 last:28195109 minconn:50 minact:50 flags:6 frags:123 deaths:144 tks:4 suicides:3 damage:20238 ff:1088
+
+PUBKEY 911439ad064d6c29771fe7c94b216dc65b48d6512604b86988717b29ffa84992
+	NAME bruh
+	IP 96.49.245.103
+	STAT first:28232673 last:28232673
+
+PUBKEY 918c7532d34290d5ddb42de33e2d0f51dad96047995982ef9eb768aaa826d53e
+	NAME .|fp
+	IP 37.47.155.3
+	STAT first:28230771 last:28230771 minconn:9 minact:8 flags:4 frags:14 deaths:11 suicides:1 damage:2758 ff:88
+
+PUBKEY 92246cc0ffe763ec8e294c7a498c12b218517395dfb8795c650899a97cf29283
+	NAME elSatan96
+	IP 192.141.244.109 192.141.244.133 192.141.244.139
+	STAT first:28179538 last:28182489 minconn:17 minact:17 frags:12 deaths:30 damage:1569 ff:20
+
+PUBKEY 93e81daa16cf723804ab50a98c0188254f6042ce8a5c10b87e6ca8425f1b4019
+	NAME sikici
+	IP 220.99.175.187 182.21.252.153
+	STAT first:28185589 last:28195749 minconn:4 minact:2 frags:3 deaths:8 damage:986
+
+PUBKEY 95ac1c5d110970595a086d9f09272887dba0d4c7522bf9440e3fa6ec8b8d3bfb
+	NAME M4J0R
+	IP 189.41.9.59
+	STAT first:28226747 last:28226752 minconn:11 minact:11 flags:6 frags:29 deaths:23 tks:1 damage:3542 ff:22
+
+PUBKEY 9720df6c56e334a06344fe70c9b4df96f6688fe3a80aedf29be7176fe56088ed
+	NAME ImJustTestMyCre ImJustTestingMy Entroyerd Blyat
+	IP 179.118.189.113
+	STAT first:28258533 last:28258695 minconn:33 minact:18 flags:1 frags:7 deaths:35 tks:1 damage:933 ff:86
+
+PUBKEY 98e0c63d56cdc7eb37b010990c1bd21e1ba83e74e1173c1af62e3c39573efc96
+	NAME GlennS
+	IP 75.170.46.86
+	STAT first:28215503 last:28215503 minconn:3 minact:3 deaths:7 tks:1 damage:154 ff:396
+
+PUBKEY 99f07176cf22af60b266cdc5192a054409df2de10a433877a2973589905a1793
+	NAME unarmed
+	IP 157.40.85.42
+	STAT first:28229981 last:28229981 minconn:11 minact:10 frags:1 deaths:10 damage:370
+
+PUBKEY 9aac7f6b38f36a2c480b44fefb98602c0c52ed324fea9fcebebac140ff087f14
+	NAME Piter
+	IP 37.8.230.137 37.8.230.60
+	STAT first:28181823 last:28230759 minconn:9 minact:8 flags:3 frags:13 deaths:19 damage:2310
+
+PUBKEY 9ba4b2fa97e6b86835f70ffe5108c74d1b1422e2d1d44dafaa8c3dc06a7c4770
+	NAME dony_mojo dany Ruger_air_hawk
+	IP 74.40.78.12 138.199.50.102
+	STAT first:28188030 last:28258437 minconn:8 minact:7 flags:3 frags:14 deaths:25 damage:1786 ff:64
+
+PUBKEY a040c1bbee10461756d78c45e15da150fdea97417c7e9cbb61549a33d96f791d
+	NAME hasnain-dev
+	IP 202.47.51.121
+	STAT first:28218723 last:28218723 minconn:3 minact:3 flags:5
+
+PUBKEY a2c0c4783b29195837b4f135378603ee94397c4417a84f8d74e5d60610b0f7a8
+	NAME Deer
+	IP 90.16.237.66
+	STAT first:28268317 last:28268317 minconn:10 minact:10 frags:20 deaths:19 suicides:1 damage:2958
+
+PUBKEY a25cca0ef9352fff01c98957231a6b0f9b7fb72c84f30fe50fa1c4ef947374e8
+	NAME N0tiK
+	IP 159.196.199.194
+	STAT first:28190998 last:28191000 minconn:4 minact:2 frags:4 deaths:6 damage:418
+
+PUBKEY a4ac9c30d00530acbdbfa0badd3499f4fc5b0f5261de36ecd94d39e61bf07009
+	NAME Reptiloid
+	IP 92.219.93.5 109.43.113.198 84.56.216.223
+	STAT first:28211779 last:28270382 minconn:51 minact:51 flags:5 frags:156 deaths:157 tks:4 damage:26088 ff:358
+
+PUBKEY a7143af1b6384d01449449ba4560269095cdf02368c84dad8da7f0768cce8683
+	NAME elCrack
+	IP 45.230.242.66
+	STAT first:28190537 last:28190537 minconn:10 minact:10 flags:2 frags:29 deaths:20 damage:3776
+
+PUBKEY a73821a73b20aa4ec49e14cd350e4a08bb0976e34c25a11a021bb23a2a1e6532
+	NAME Damiahn
+	IP 191.95.171.164 191.95.170.27 191.95.171.28 191.95.148.7
+	STAT first:28179414 last:28258382 minconn:131 minact:130 flags:9 frags:507 deaths:274 tks:3 suicides:1 damage:61678 ff:1293
+
+PUBKEY af9c747399d30ffe547201db2707443260b0e06109402a3627b773a804ea7946
+	NAME Axel
+	IP 176.184.87.15
+	STAT first:28268324 last:28268327 minconn:5 minact:5 frags:6 deaths:11 damage:895 ff:60
+
+PUBKEY b0f0b3a8b7eb87d8373be3d73f6f8ca68bbc1ba97c05245af8fde590f343e472
+	NAME AliensInHell
+	IP 66.131.188.9
+	STAT first:28207650 last:28207650 minconn:66 minact:65 frags:100 deaths:127 tks:2 damage:9352 ff:492
+
+PUBKEY b3d8d7c7d892acca8bbf32a18bb6248727e2d7ed9427c3b556c2e2005c5ce8b1
+	NAME Rocky Rocky2
+	IP 45.226.136.67 45.226.136.2 45.226.136.71 45.226.136.72
+	STAT first:28187847 last:28258451 minconn:111 minact:110 flags:10 frags:103 deaths:239 tks:4 suicides:1 damage:15449 ff:879
+
+PUBKEY b3e0095d404371bdf8850805faedc89a903007dd07165d489a4decd5cff54597
+	NAME LiveWire SabbraCadabra U-Armed BlackCatBones
+	IP 186.219.252.89 186.219.252.119 186.219.252.47 186.219.252.88
+	STAT first:28179391 last:28258718 minconn:300 minact:295 flags:48 frags:675 deaths:717 tks:21 suicides:6 damage:102699 ff:4782
+
+PUBKEY b53c4d26d54d7baddc366970bbbb38d98ef7ba5f35d204d4b9ae083394a1ca6f
+	NAME Omaiga
+	IP 187.192.232.26
+	STAT first:28192295 last:28192295 minconn:6 minact:6 frags:7 deaths:15 damage:350
+
+PUBKEY b6982b08d594355eb3df53102e7053e9f947a2b32d20512cb4fab5969d607eff
+	NAME J
+	IP 195.3.247.205
+	STAT first:28181814 last:28201895 minconn:79 minact:79 flags:4 frags:102 deaths:181 tks:4 suicides:3 damage:20390 ff:838
+
+PUBKEY b8ac7c8bf11bcb376a469e1d1cce6125e8087051659321d41eb3e892d06b7c6e
+	NAME unarmed
+	IP 187.39.90.15
+	STAT first:28215071 last:28215071 minconn:4 minact:4 deaths:12 damage:880 ff:66
+
+PUBKEY b8ec38a743348df2aea4ce79db3fe34ea88506f283663f40f13e751f6e77238c
+	NAME Counter
+	IP 5.130.156.146
+	STAT first:28204619 last:28233501 minconn:18 minact:18 flags:2 frags:140 deaths:61 damage:16682
+
+PUBKEY b9dc022a03d91fdba5375fc576474c688af02d92f6d1fa784410fbcbbe76f441
+	NAME P4NT4NO ---mio---
+	IP 177.97.182.80 189.26.53.139 189.114.186.181 201.22.19.62
+	STAT first:28177349 last:28270017 minconn:463 minact:455 flags:158 antiflags:2 frags:793 deaths:759 tks:15 suicides:11 damage:122880 ff:3084
+
+PUBKEY bb28ad8860163cb2dad7ff031b2b0737d134deda2636d8c0fc9a98cb44c29659
+	NAME harps{TyD}
+	IP 193.69.196.62
+	STAT first:28258377 last:28258377
+
+PUBKEY bbb47d7dc3c1674e37f4e58ba1a2c979f0cb00b8fcd5c9f2b3c6f90a73c769ef
+	NAME f1
+	IP 112.135.66.175
+	STAT first:28238921 last:28238926
+
+PUBKEY bfa00d985cdf2bc8b5c7e91b7498c7458797cbb369eb4e5f2bfe691bf60a04c4
+	NAME mmmmmm
+	IP 190.79.220.190
+	STAT first:28228146 last:28228146 minconn:1 minact:1 frags:1 damage:123
+
+PUBKEY c468ca8c36c0f19d1148898231ec0e67eed77ce353a25760bb1d3545f85abcd8
+	NAME Yp$iL0n
+	IP 85.156.210.117
+	STAT first:28225831 last:28225831 minconn:5 minact:5 frags:32 deaths:19 damage:3344
+
+PUBKEY c4381ec3e624c03713fc492824550c2359946048561fed2fe49ef34f0c73b372
+	NAME Spenders
+	IP 76.35.196.9
+	STAT first:28186976 last:28186976 minconn:4 minact:4 frags:1 deaths:10 damage:82
+
+PUBKEY c6f0fc705dd00623d390570748da2cc30c11577643433b981cbb60205257e272
+	NAME mercenario
+	IP 38.25.10.230
+	STAT first:28235729 last:28235731 minconn:18 minact:18 flags:5 frags:15 deaths:43 tks:2 damage:2416 ff:60
+
+PUBKEY c6ccc22aa100313a4188bd7492af523db8466567d2c5cd4fc414a81d7c5efa87
+	NAME Hellforces USB Theserver Aliehual
+	IP 190.86.135.55 190.62.15.72 190.86.135.57 190.62.14.39
+	STAT first:28187997 last:28258429 minconn:187 minact:186 flags:66 antiflags:1 frags:416 deaths:405 tks:13 suicides:4 damage:58861 ff:3189
+
+PUBKEY c6ec48a6c456a7b7591e70d6831327f9acd79e3e24db74a0dbd2a89c460b8dc6
+	NAME |IDG|TATUZzzZz8 TATUZzzZz8
+	IP 170.245.27.130 170.245.27.63
+	STAT first:28183226 last:28239644 minconn:27 minact:16 frags:47 deaths:38 damage:5744
+
+PUBKEY caaca19b416673ad0f7139f6ff0d8ef29b0997b630b97d94a53bbcab8cfac6ef
+	NAME **OVERLORD**SRB
+	IP 109.245.193.109 109.245.193.124 109.245.195.224
+	STAT first:28192258 last:28258468 minconn:41 minact:41 flags:2 frags:160 deaths:140 tks:5 damage:19722 ff:945
+
+PUBKEY ccb858221f03326208d86a8961e4998d9a472d243edda49210cba64cf62efde5
+	NAME KNEE-GROW
+	IP 24.13.23.40
+	STAT first:28179342 last:28179342 minconn:1 minact:1 deaths:2
+
+PUBKEY cddc67132a2427b4a45e72db664d1fe5bc3c32e474b9d1adc534b3d0a3a0adcc
+	NAME lPinochol
+	IP 207.248.199.206
+	STAT first:28258387 last:28267487 minconn:15 minact:15 frags:49 deaths:56 suicides:1 damage:8254 ff:50
+
+PUBKEY ce20c53084e68be243888379350b6ec5abbfcced0cb4db5fb17dcce01c223708
+	NAME thelamb
+	IP 72.178.71.100
+	STAT first:28207996 last:28207996 minconn:4 minact:4 deaths:1
+
+PUBKEY d07063cbf15ccafc1e204c68aa1cb255c3f1b932b63d7c665a5077f838899243
+	NAME wtfCOBRA
+	IP 186.251.161.152
+	STAT first:28190519 last:28190549 minconn:12 minact:11 flags:2 frags:31 deaths:30 damage:3952 ff:32
+
+PUBKEY d528545a5da4768f9a471164c2079b74f7ca868d87e9b7d7db10ce5d21c4f20f
+	NAME m-y
+	IP 5.116.142.86
+	STAT first:28231070 last:28231070 minconn:3 minact:3 frags:5 deaths:10 damage:378
+
+PUBKEY d65c411600b4c640492c1cfce8ac96c3f2ba4cd3f3f1d3f2170bc4ed59dd6087
+	NAME thebeast
+	IP 207.161.234.129
+	STAT first:28270443 last:28270443 minconn:3 minact:3 frags:7 deaths:6 damage:1082
+
+PUBKEY d850fc0ffe097a8378d6ed36d1b501c08cfd50a4283c30c9a933148699731be4
+	NAME unarmed
+	IP 181.53.12.81
+	STAT first:28195109 last:28195109
+
+PUBKEY d9102d256502eacd1aa70ce1e89ff9a9434bb2aa000020182b856146f5a55035
+	NAME AKIRASAI
+	IP 189.123.220.81
+	STAT first:28190940 last:28190940 minconn:10 minact:10 frags:2 deaths:24 damage:104
+
+PUBKEY da6c2c2d9910c0add3953b03c3a7389035231e181bdaeacd5fbb4f852594937f
+	NAME beginner
+	IP 81.166.149.10
+	STAT first:28215031 last:28215031 minconn:26 minact:26 flags:17 frags:87 deaths:31 damage:15496
+
+PUBKEY dd9861cca95134d998c66003058cebec570414e5d098f53b3eb844a1d7ce0bac
+	NAME dgargano
+	IP 120.149.107.143
+	STAT first:28189831 last:28189831
+
+PUBKEY ddd4f84d93add5752a1d4d3087aa6f9ae3a2b7ff58c5252aedd2c650feec3c9d
+	NAME Altair
+	IP 37.40.224.215
+	STAT first:28177347 last:28177347
+
+PUBKEY de68a97650db5be52a4e573867bb8c27eeff5313db152d001deb872f5fad396e
+	NAME Rahaman
+	IP 157.40.124.109
+	STAT first:28183223 last:28183223 minconn:10 minact:10 frags:37 deaths:45 suicides:1 damage:4634
+
+PUBKEY df04a390d10be6d9cc79dddc573c4631c3b9b4d02f1dd32fccee34683aa293a1
+	NAME Farcalito
+	IP 39.40.22.172 182.177.61.230 39.62.147.19
+	STAT first:28207659 last:28270447 minconn:41 minact:40 flags:5 frags:84 deaths:115 tks:2 damage:10234 ff:234
+
+PUBKEY e0a8b61788cdb4548f69003006415c9779d8d9aa1819b7d51344b5f8fef5a625
+	NAME the_real_nigga
+	IP 189.33.66.59
+	STAT first:28188160 last:28192292 minconn:133 minact:117 frags:234 deaths:253 tks:5 damage:22181 ff:622
+
+PUBKEY e1b87a490c4aad2e4c377fe8181848cd1a7ec306e012f6640040a68ed2e97b8f
+	NAME Medusa MellowYellow
+	IP 82.217.35.83 84.25.217.235
+	STAT first:28211746 last:28270651 minconn:13 minact:8 flags:1 frags:12 deaths:18 damage:1840 ff:80
+
+PUBKEY e478f9a479dd53cb0313b3e4e0423eff7a5d68fdeee2eb67141c05bcbf092ef8
+	NAME noobsunite
+	IP 188.69.71.121
+	STAT first:28197144 last:28197144 minconn:1 minact:1
+
+PUBKEY e5d0537c1d317e37e657d5ea6d4ddf5361d036a8af108423dad44fcbfc83e0af
+	NAME unarmed
+	IP 180.242.194.179
+	STAT first:28209610 last:28209610 minconn:1 minact:1
+
+PUBKEY e678e3441c875a40c7687cbea7868e0baf2fbd9037faac4a475acc67992d180b
+	NAME mediocer no
+	IP 76.178.30.25
+	STAT first:28179417 last:28182411 minconn:22 minact:22 flags:2 frags:27 deaths:47 tks:1 damage:5408 ff:181
+
+PUBKEY e87011136b888eed5d27d535a599c37100bc5a5a134ff45ea839c5b7b2df28c3
+	NAME alin
+	IP 103.205.177.121
+	STAT first:28270427 last:28270427 minconn:1 minact:1 deaths:1 damage:22
+
+PUBKEY e8f81c65526b74cdc602e3316c3d854270b18a91326a5a0e601883cd6734f820
+	NAME Test
+	IP 88.120.212.78
+	STAT first:28211676 last:28211676 minconn:2 minact:2 frags:9 deaths:7 damage:958
+
+PUBKEY e8980ed00c73bfef65957aac946cbe4effc25408dec992873227bfcad8632a82
+	NAME GonzHunter66
+	IP 94.31.84.209
+	STAT first:28204612 last:28204612 minconn:7 minact:7 flags:1 frags:12 deaths:6 damage:1290
+
+PUBKEY e82048ab1dfb822e8435d8495257929257d24e7a693ae8c0e9329bcab9edd940
+	NAME --2hot2shoot--
+	IP 213.143.112.210 178.115.239.125
+	STAT first:28200389 last:28232118 minconn:28 minact:28 flags:9 antiflags:2 frags:56 deaths:44 tks:1 suicides:1 damage:8847 ff:215
+
+PUBKEY e8908dbdf85592acdb8abad43b857640e344a35ae10e42b60e7c3f5448aa20c7
+	NAME Mavck Ratin_[BRAZIL]
+	IP 177.130.185.209
+	STAT first:28193713 last:28200399 minconn:2 minact:2 flags:3
+
+PUBKEY ebf0a670225608868b715d5142e114bd04a3725e0ec1f6d012a344c1b17d87bc
+	NAME polatalemdar
+	IP 88.230.133.67 88.230.132.209
+	STAT first:28230751 last:28239599 minconn:8 minact:8 flags:1 frags:5 deaths:12 damage:532
+
+PUBKEY eb547d68aaef3b5d0624cf5c050df9ccaf202c0a16c229a725d718b1e8157cea
+	NAME [SODY]goodside
+	IP 68.52.88.174
+	STAT first:28178106 last:28192328 minconn:15 minact:15 flags:1 frags:10 deaths:29 suicides:3 damage:1609 ff:103
+
+PUBKEY ec24eed2bc36b7e1d2d7f46db42810542f39456dd4982f54ad7cb884479932d1
+	NAME gleiber
+	IP 38.51.181.33
+	STAT first:28198234 last:28198234
+
+PUBKEY ed886b5bee5ac1d975735a413ad720c063db4369887adc56cd3a87111d670ccb
+	NAME you idkwhatimdoing
+	IP 35.148.188.135
+	STAT first:28188034 last:28188072 minconn:36 minact:35 flags:2 frags:50 deaths:79 tks:5 damage:6560 ff:570
+
+PUBKEY eda81cb4acae89b288fb61de2b2f6730e8f78ce46362c00c399c949590da4ce1
+	NAME unarmed
+	IP 5.13.97.227
+	STAT first:28186265 last:28190508 minconn:18 minact:17 deaths:6 suicides:1 damage:189
+
+PUBKEY edc8047924a22db447e65535178a95c15453c90f5d0c4826190878a3dd6d6bc9
+	NAME Wy6|Bloodsport
+	IP 210.54.34.158
+	STAT first:28179434 last:28267518 minconn:97 minact:97 flags:13 frags:324 deaths:300 tks:2 damage:44198 ff:366
+
+PUBKEY eff8ba0ce98bef7011100c2e6c19861cd3bdedcee542117a740037e6af67856f
+	NAME Cube
+	IP 97.94.144.131
+	STAT first:28211659 last:28211659 minconn:15 minact:15 flags:5 frags:79 deaths:32 tks:2 damage:9506 ff:150
+
+PUBKEY f148c19468e78a7e1bee08ecd0b49972650d216fe1f38c307a25472f61f2b1df
+	NAME unarmed
+	IP 188.163.7.178
+	STAT first:28215096 last:28215096
+
+PUBKEY f17c115b666d913446cffa7cc6baef3cdf121aac5033d9c571ec231c7f247cea
+	NAME Ping
+	IP 187.106.34.236
+	STAT first:28177344 last:28177344 minconn:1 frags:1 damage:115
+
+PUBKEY f24c22258b6282988839525b201b2094996a36ac50f196671364d2d556faef0a
+	NAME JANEK
+	IP 188.147.108.41
+	STAT first:28177093 last:28177093 minconn:2 minact:2
+
+PUBKEY f45c741342e8abc3d619c2e865eb5bb74957f667edbf625d7e465b5c04c7c867
+	NAME vnarmed Wy6!LS
+	IP 82.155.123.3
+	STAT first:28194889 last:28232125 minconn:22 minact:20 flags:8 frags:85 deaths:39 tks:1 damage:11535 ff:118
+
+PUBKEY f7cc978a5f2f968c166de54aaff2a8b8f2db7198a7663e7cdcd691e559f8d908
+	NAME Vy |
+	IP 173.255.170.43 173.195.15.124 209.127.24.14
+	STAT first:28188005 last:28188198 minconn:18 minact:16 flags:8 frags:73 deaths:20 tks:2 damage:12320 ff:246
+
+PUBKEY f80c8849864175557cb3eff086a565566e579d826140046276cbb61fc8ef4e24
+	NAME panzerfaust
+	IP 167.100.12.44
+	STAT first:28247088 last:28266891 minconn:8 minact:8 flags:3 frags:5 deaths:9 damage:971 ff:160
+
+PUBKEY f804a0c779d9290d94937547b2c60a8882a419ae6ba263a913c040cb1e5c6d83
+	NAME amogus
+	IP 91.22.228.201
+	STAT first:28194907 last:28195027 minconn:70 minact:70 flags:1 frags:105 deaths:136 suicides:5 damage:11071
+
+PUBKEY fcd0b8c0a0f5cde712ad53ee8d13b46ab2aedd7c20a7cd5ff8a08df2ecf32200
+	NAME Ball-e
+	IP 181.32.150.80 191.104.24.145
+	STAT first:28215468 last:28258601 minconn:44 minact:43 flags:1 frags:48 deaths:160 tks:1 damage:8302 ff:98
+
+PUBKEY fd9424d4c0a13817fcfefaf368241086a1929fa5516134de531cb94a989f5eaa
+	NAME Scda
+	IP 187.26.179.80 179.242.251.10 179.242.236.225 200.173.57.100
+	STAT first:28179465 last:28215482 minconn:181 minact:179 flags:18 frags:302 deaths:374 tks:17 suicides:7 damage:48932 ff:1995
+
+PUBKEY fe5845c6e4ebe3c1ae9202a6bfaec0e0e4982f540d30f9900f42ac8f2f62d7fb
+	NAME rekoj
+	IP 172.8.22.206
+	STAT first:28186943 last:28194456 minconn:44 minact:44 flags:3 frags:100 deaths:97 tks:2 damage:13246 ff:562
+
+PUBKEY ffa04708d49e20b7f98802847ca07c79d891333120eb3760df9ee14e7753d575
+	NAME Tech
+	IP 92.53.35.53
+	STAT first:28258441 last:28258441 minconn:33 minact:33 flags:3 frags:217 deaths:91 tks:3 damage:29418 ff:490
+
+PUBKEY fffc62918a22720ae657abd00e6f092ce247b128b6c6841e48dcc56b72c07306
+	NAME sql ZZzZ fushi-na-sonzai
+	IP 109.131.210.74 106.68.184.87 103.130.154.225
+	STAT first:28179399 last:28258582 minconn:33 minact:33 flags:7 frags:102 deaths:95 tks:2 damage:13225 ff:351
+
+PUBKEY 017dcddc82606c449f38afe5b16bb5165b925b895aa619c37b9e47541321c970
+	NAME CrashOverride
+	IP 189.169.110.178 189.169.104.169 189.203.106.21
+	STAT first:28179531 last:28205200 minconn:46 minact:46 flags:4 frags:55 deaths:79 suicides:1 damage:7304 ff:225
+
+PUBKEY 0205f26c0bc6707bdadb24a58de4f12f9f6a0e86788fa70e8479cd7675de0375
+	NAME PT13
+	IP 138.97.187.53
+	STAT first:28254292 last:28258734 minconn:19 minact:19 flags:8 frags:76 deaths:39 tks:1 damage:11394 ff:146
+
+PUBKEY 0255da88d4581f4c63998fb9cc1a0b3a7995144662d98c0f9c95066714f2feb3
+	NAME unarmed
+	IP 5.65.247.160
+	STAT first:28225256 last:28225256
+
+PUBKEY 06d918fc44ff317d202c1df45b41cd080b5a0733ce5c59df0ff95e21402e2a38
+	NAME Martincho
+	IP 190.210.32.213
+	STAT first:28254379 last:28258674 minconn:38 minact:38 flags:1 frags:41 deaths:103 tks:3 damage:6752 ff:772
+
+PUBKEY 08dd596a5331e10801f7ea54990b317f19a148fcfc132a6c8a8e8b2b881e340a
+	NAME BYEBETCH
+	IP 140.0.197.191
+	STAT first:28211673 last:28211673 minconn:1 minact:1 frags:3 deaths:1 damage:300
+
+PUBKEY 08052c98c3c6cc31aedf0aca12ba149c68ec9bac456e5c1375d2dc91a800546e
+	NAME unarmed
+	IP 68.196.108.239
+	STAT first:28186962 last:28186962 minconn:23 minact:16 flags:12 frags:32 deaths:20 tks:1 damage:3556 ff:176
+
+PUBKEY 0a85a115d1a0130e62df68c2c769efb9b1c0f851134fcc3ec9d78b629e87fc8f
+	NAME Lefa*
+	IP 77.141.36.74
+	STAT first:28239598 last:28239598 minconn:10 minact:10 frags:9 deaths:9 damage:2982
+
+PUBKEY 0b415800a9b241d6a165b7de153cd04436d5be5d1b476a26fbdfd2bd9aa90ca8
+	NAME Lfw
+	IP 120.244.140.94
+	STAT first:28179826 last:28179826
+
+PUBKEY 0f8d2c1eb940131ba82e0e4e08c2c5fe1aec6cd4a1382e1c52381ab9c8c08f24
+	NAME unarmed Angel
+	IP 75.44.85.26
+	STAT first:28211280 last:28211310 minconn:40 minact:40 flags:2 frags:52 deaths:85 tks:3 damage:7196 ff:575
+
+PUBKEY 12b160f6c9506c892a6c764810ea1b851659bc1319fe5f7cda840dbfe505bf38
+	NAME unarme
+	IP 38.171.244.121
+	STAT first:28238634 last:28238648 minconn:15 minact:14 flags:3 frags:11 deaths:21 damage:1293
+
+PUBKEY 1201e54f7e1cc7e5a21b2cfc5cca5cbf54953318e2ff6e668460b90e27b5cdca
+	NAME Exooom
+	IP 82.8.239.250
+	STAT first:28209873 last:28209873 minconn:1 minact:1 deaths:1
+
+PUBKEY 167d4d7d0820a9c2e3495ae23671f611ce30e45e77aa65f960072e8b85bffb37
+	NAME Dozer
+	IP 92.239.168.150
+	STAT first:28181818 last:28181818 minconn:11 minact:11 frags:15 deaths:23 tks:1 damage:2792 ff:82
+
+PUBKEY 1b95a3d6c021e269c293848eaabbae169015d0742d1e0442b5963324dd40051d
+	NAME ForaDilma
+	IP 187.34.138.176 187.34.191.76 191.19.79.232 189.19.150.77
+	STAT first:28192298 last:28268321 minconn:126 minact:124 flags:15 frags:304 deaths:229 tks:12 suicides:4 damage:46657 ff:2678
+
+PUBKEY 1eb5695bdd03c25e55ed47fccda9c335383b631bcdc7ed6430561ce1149a9520
+	NAME starlord
+	IP 82.132.217.32
+	STAT first:28232127 last:28232127 minconn:4 minact:4 frags:1 deaths:7 damage:120 ff:60
+
+PUBKEY 1f798e37f6bddea5dfc57d4a3084d7e4def568393fde3925345b50bb5bb2d220
+	NAME takebala
+	IP 187.90.165.46
+	STAT first:28234108 last:28234108 minconn:1 minact:1 frags:1 damage:154
+
+PUBKEY 22f5cfd1b5bb4b32d3ea984f9c19f5338aa4325d3867c2604daa43d8038a44ec
+	NAME carl|kurpops
+	IP 185.193.64.170
+	STAT first:28185103 last:28185103 minconn:30 minact:30 frags:44 deaths:50 suicides:6 damage:6996
+
+PUBKEY 223956d9de512f51caeed37fd658af84ef4dec963a129728c4fb884889fb0f68
+	NAME unnom
+	IP 103.43.200.107 103.43.200.104
+	STAT first:28179532 last:28270644 minconn:63 minact:63 flags:6 frags:176 deaths:174 tks:8 damage:23026 ff:1025
+
+PUBKEY 24fdfbf3f20f1a1fd6e1de603b07ada86139c295592bbba1c58f1cb89a118a5d
+	NAME UKO
+	IP 112.135.67.158
+	STAT first:28178805 last:28178805
+
+PUBKEY 256d3bd572f53d712b41fcf1f60ec9ce5b2f07cac60f9141fb30a8997b318996
+	NAME Hash
+	IP 34.105.94.94
+	STAT first:28206825 last:28206825 minconn:14 minact:14 flags:4 frags:31 deaths:22 tks:1 damage:3888 ff:344
+
+PUBKEY 264d6e77c4deca0a0603c4af384bd5f08f4d4eccc9c9105ad20774ca266d612f
+	NAME HrC|~0n3~ WorstACPlayer unarmed ~0n3~
+	IP 177.240.146.49 177.240.146.145 177.240.144.121 177.240.144.73
+	STAT first:28178121 last:28270601 minconn:518 minact:478 flags:161 frags:1667 deaths:888 tks:9 suicides:10 damage:227885 ff:1987
+
+PUBKEY 28eda7905e0e192dcf3eef0b6fab2bd304656795e76ba6b54e315a364190401b
+	NAME Brimmy
+	IP 104.188.117.201
+	STAT first:28211751 last:28211751 minconn:14 minact:14 flags:1 frags:47 deaths:39 tks:5 damage:6804 ff:572
+
+PUBKEY 2ce56422647998086812511864172ad11f5d19c212e6061f06dcff4b2c913018
+	NAME 3K0M4
+	IP 189.35.121.45
+	STAT first:28190923 last:28190936 minconn:26 minact:25 flags:3 frags:86 deaths:65 tks:6 suicides:1 damage:10408 ff:387
+
+PUBKEY 2f45a764b7327f9796c4b0f6c155690f202e23cfcef03249ec84ef01ff5305b3
+	NAME Zorin-Joe
+	IP 79.194.175.185 80.141.186.202
+	STAT first:28201924 last:28258418 minconn:73 minact:73 flags:5 frags:120 deaths:214 tks:4 damage:21384 ff:444
+
+PUBKEY 33a5c95ca3e60b07efbaca7c1dcdaae887758c4b406825595b51f2bedd241471
+	NAME YA$$A
+	IP 154.179.209.179
+	STAT first:28184708 last:28184708
+
+PUBKEY 3641771cd19dbfcea72fc78290b6956d1a7d994677e975739c0fae5ea877300f
+	NAME goon
+	IP 75.136.233.34
+	STAT first:28254232 last:28254352 minconn:6 minact:5 frags:2 deaths:10 damage:240
+
+PUBKEY 37fd25be3655936afc0b0c045e4efeddfe08f742d4091e444a5b4f388747a309
+	NAME HUGO
+	IP 188.193.226.189
+	STAT first:28190526 last:28190526 minconn:35 minact:34 flags:8 frags:62 deaths:82 tks:1 damage:10587 ff:98
+
+PUBKEY 3809cc6210575ef2b5adc85869afbc2595d1877eb2e540254704a8bd9d47b79e
+	NAME oso
+	IP 84.125.139.184
+	STAT first:28190525 last:28190525 minconn:8 minact:8 flags:1 frags:30 deaths:26 tks:1 damage:4049 ff:224
+
+PUBKEY 3a412cb60a3c3161cf6904da2f1ebfa95e2e76084cdd7b8fa5aaf3f557121eec
+	NAME Fikumiku
+	IP 31.0.91.167 31.0.89.129
+	STAT first:28241598 last:28270669 minconn:23 minact:22 flags:6 frags:45 deaths:72 tks:1 suicides:2 damage:6712 ff:327
+
+PUBKEY 3d1d6addc5ca672e57a8b2122fde2b5a8423eee43883fe0bdcc8e6a5329f963c
+	NAME monkeyjoe
+	IP 132.170.55.255
+	STAT first:28215615 last:28215615 minconn:3 minact:2 deaths:3 tks:1 damage:22 ff:62
+
+PUBKEY 3d4d488f6690f2acde0ea1d502ef89901c0c6400bdf71396f97e1dd8c1d08f2c
+	NAME Dogman(*
+	IP 5.25.54.204 176.238.98.196 5.25.99.182
+	STAT first:28211756 last:28270652 minconn:59 minact:59 flags:8 frags:238 deaths:177 tks:3 suicides:4 damage:29513 ff:833
+
+PUBKEY 3db9175c3e79ba9a21f42a5957231528ed51d367ad6f693a599789a00b1e5367
+	NAME f1
+	IP 76.176.1.28
+	STAT first:28176860 last:28215479 minconn:28 minact:28 frags:65 deaths:74 tks:1 damage:13504 ff:323
+
+PUBKEY 3e65aa73825d022aa3440501ed4c10cdf836399c6288af67878906772b72bfdf
+	NAME zzzk
+	IP 180.254.66.212
+	STAT first:28267497 last:28267497 minconn:10 minact:10 frags:4 deaths:17 damage:716
+
+PUBKEY 3f11015ac43d2da6a9a9875b1138e9bbeae0ab5f8eed8c88016abcacb50968f3
+	NAME willary namory nazarrone gallow
+	IP 177.37.251.167
+	STAT first:28253706 last:28258516 minconn:23 minact:21 flags:1 frags:33 deaths:56 tks:8 damage:3491 ff:1744
+
+PUBKEY 3fd951023dbd6b5c839e72c0f2c46942a0aa8e7f06fb4db7b2b14b9b31e4c0f2
+	NAME aaaggguuu
+	IP 186.12.187.29
+	STAT first:28179350 last:28179436 minconn:13 minact:12 frags:8 deaths:33 tks:3 suicides:1 damage:1518 ff:259
+
+PUBKEY 4331312f35b3c156447bfe4a3e394f3c3a9a7d44d4a62cf8e163bfe979b1b62c
+	NAME chatoul
+	IP 173.24.188.97
+	STAT first:28254335 last:28254335
+
+PUBKEY 430576d99f2f36a92f40365d27ce7669ec51e7f690965e965b71cc6540acd254
+	NAME gato_Hey Philip Trends Trend
+	IP 45.231.1.70 190.123.194.190
+	STAT first:28179382 last:28192394 minconn:17 minact:17 flags:2 frags:30 deaths:48 tks:1 damage:4558 ff:160
+
+PUBKEY 4c7d4ad022891936a523c18f2f60728473fbe29a736d8dde78be1f2e90260d27
+	NAME foodmonster
+	IP 66.219.203.205
+	STAT first:28247147 last:28247147 minconn:1 minact:1
+
+PUBKEY 4ee1c208a5af7301e12b897d730b32bc9853e28335ef6165a07f9104f9c30adf
+	NAME laycan
+	IP 177.37.177.103
+	STAT first:28258563 last:28258563 minconn:29 minact:28 flags:4 frags:106 deaths:53 tks:4 damage:13710 ff:773
+
+PUBKEY 4e7d1bac647a53469a084a4bb167d03f58b79251968e4ea03d87ada6c4a2cd8c
+	NAME Enguerrand
+	IP 46.193.69.1
+	STAT first:28231066 last:28231066 minconn:1 minact:1 frags:2 deaths:2 damage:164
+
+PUBKEY 4fa15886a490b311268d6c9d71e04c062a3a55adc0ef2a2c30ff43d231236af2
+	NAME Xros
+	IP 84.46.39.169
+	STAT first:28258724 last:28258724 minconn:4 minact:4 frags:11 deaths:8 tks:1 damage:1376 ff:80
+
+PUBKEY 4fdd6a5ea62dab87f97d65c13ca9b87c94fb91c4fe98b4f376338d0b3bc25ac6
+	NAME VillageIdiot f2theworld
+	IP 73.208.127.87
+	STAT first:28188022 last:28230769 minconn:44 minact:43 flags:2 frags:122 deaths:107 tks:7 suicides:1 damage:16607 ff:858
+
+PUBKEY 5069f25655138a3d9cd389fa61be0cd29a79af722d77c3a0148c3c6dcd89becd
+	NAME na.rC|issus
+	IP 178.46.88.208 178.46.102.182 94.51.155.141
+	STAT first:28205183 last:28268341
+
+PUBKEY 5239ca245f677cb320c33d34decc93ae3df71b8947968dff3232a1dad727b1fb
+	NAME Stone_Wall
+	IP 99.25.97.167
+	STAT first:28258622 last:28258708 minconn:128 minact:127 flags:8 frags:270 deaths:290 tks:9 suicides:1 damage:37080 ff:1608
+
+PUBKEY 54758f98c3e2557f9f4e3bcae674047bf7e177b06cdcb9c445eac96bcce9fc4f
+	NAME ELMILIANO
+	IP 186.122.181.141
+	STAT first:28207665 last:28207665
+
+PUBKEY 544db7335a67a5bba37ebd515b3d0ea413120fd0c3880d746d6d226f45ae8a26
+	NAME negovelho
+	IP 177.36.81.55
+	STAT first:28189378 last:28189378 minconn:2 minact:2
+
+PUBKEY 55057846ebad9290fa4b8a4745cf2279d60d3aa5ef3700181c49ce264c86ff51
+	NAME Greenfield
+	IP 157.100.106.125 157.100.106.122 157.100.112.158
+	STAT first:28190949 last:28254221 minconn:31 minact:31 frags:33 deaths:48 tks:2 suicides:1 damage:4837 ff:684
+
+PUBKEY 56197f0b39cc89be7cd68a2b5df16c21569e3ec76354836cddfaf77adae8c21b
+	NAME Val
+	IP 45.226.136.67 45.226.136.2 45.226.136.22 45.226.136.72
+	STAT first:28190707 last:28258411 minconn:62 minact:62 flags:24 frags:90 deaths:72 tks:1 damage:10456 ff:44
+
+PUBKEY 5759a0e0d421dd340b5cec0a6d37eca7b235947c6b54d5c47752a1499699bc14
+	NAME MinuX Merlin
+	IP 92.130.245.210 92.130.243.225
+	STAT first:28230761 last:28267542 minconn:56 minact:55 flags:17 frags:67 deaths:96 tks:1 damage:11466 ff:22
+
+PUBKEY 574da1dcdcd48677f59da8472ace84d894a3ef39f80ccc2ade95e5286603adf3
+	NAME KenjiTheFriend
+	IP 173.27.72.149
+	STAT first:28211280 last:28211280 minconn:41 minact:40 flags:24 frags:98 deaths:62 tks:3 suicides:1 damage:12387 ff:402
+
+PUBKEY 588d0f09896a5ebc626686f8a28496f3f5d80999f3449d9518ac590a3baeb7d3
+	NAME motherfucker NARUTO
+	IP 196.189.241.199 196.189.240.203
+	STAT first:28211761 last:28238832 minconn:34 minact:34 flags:15 frags:22 deaths:79 tks:5 damage:4388 ff:488
+
+PUBKEY 58753d160723a84144fcbf08ef9ce0b764e4574444cc50a1864ad38b894edd55
+	NAME CHUCHODEFRIO
+	IP 190.188.13.130
+	STAT first:28188077 last:28258703 minconn:98 minact:77 flags:3 frags:104 deaths:144 tks:3 damage:17093 ff:601
+
+PUBKEY 59c1f742b6ffe4de7f50e78835034f73796672cd827a877aebe3c07bb61fbd76
+	IP 203.32.119.2
+	STAT first:28190928 last:28190929
+
+PUBKEY 5a2172d2d9e9305bbf558846c51dd3cd94bf497e4b132787b6a73b9b060e311e
+	NAME Carabinier Knifer
+	IP 109.252.8.255
+	STAT first:28190516 last:28232105 minconn:59 minact:58 flags:8 frags:150 deaths:128 tks:4 suicides:3 damage:19723 ff:403
+
+PUBKEY 5d41bbf9630539f251dd45fd2ae50b7d0f899da92f8baff38b46bd43c8adc1f1
+	NAME edit.undo TWOJA_STARA r narazicho
+	IP 31.183.111.10 31.183.111.160
+	STAT first:28267527 last:28269007 minconn:18 minact:18 flags:1 frags:45 deaths:51 tks:1 damage:5000 ff:178
+
+PUBKEY 5d89f3e3fc4bf560e4aff43b8377fc00893f9d43f428abc75993c53437389454
+	NAME juliocs2
+	IP 45.179.129.127
+	STAT first:28254224 last:28254335 minconn:168 minact:166 flags:27 antiflags:1 frags:327 deaths:309 tks:2 suicides:2 damage:38642 ff:260
+
+PUBKEY 5e31a8488df18cc8cdf8420146d271dda6cc652fc427a8bc876455ac307820b0
+	NAME otherside666
+	IP 5.173.240.60
+	STAT first:28211664 last:28211669 minconn:16 minact:16 frags:32 deaths:43 tks:2 damage:4404 ff:372
+
+PUBKEY 61e172493a2b0ed854db1e8574de1cac3a6ac519ec9b271e8566aadb7676c3bf
+	NAME gay234
+	IP 201.71.165.159
+	STAT first:28192325 last:28192325 minconn:3 minact:3 frags:3 deaths:3 tks:5 damage:246 ff:410
+
+PUBKEY 61394e0d096866c6dec0c1a0449f03ea88081191fc785a05c8123cd142fedf30
+	NAME SiberianFox
+	IP 79.113.112.30
+	STAT first:28181798 last:28225828 minconn:26 minact:26 frags:58 deaths:82 tks:2 damage:6571 ff:176
+
+PUBKEY 620d2fc0d32bd621fb0db3fafe4c1b78a8762497b4f85a56cc8ffbf957d166e2
+	NAME pola
+	IP 171.4.219.179 171.4.251.193 171.4.219.77
+	STAT first:28215493 last:28270663 minconn:83 minact:82 flags:31 frags:187 deaths:175 tks:6 damage:24070 ff:1029
+
+PUBKEY 65ad715fba64598960d99aa10f120a2309047866c193ad467c9cb3704e8a1ea0
+	IP 190.2.130.177 190.2.130.164
+	STAT first:28215045 last:28215048
+
+PUBKEY 68914bbd26ff21022ba98d32ae34ee1b5d917eb770b2c80ee849b9cd00e17343
+	NAME Shuja
+	IP 72.255.42.222
+	STAT first:28187319 last:28187319 minconn:2 minact:2 frags:1 damage:121
+
+PUBKEY 69055592a5e8266000a93fd553de8e1d906335291ab74f83aa773ffa2321bc89
+	NAME Alex
+	IP 177.182.149.16
+	STAT first:28194940 last:28194940 minconn:5 minact:5 frags:4 deaths:5 damage:328
+
+PUBKEY 691557ce01b7824a61fd725bd8038ce65ca2d71626fc07f8df7bf9c42b18eb9c
+	NAME KaTTeL
+	IP 134.0.148.26 5.32.210.84 5.32.246.190 37.41.249.220
+	STAT first:28177291 last:28191836 minconn:1
+
+PUBKEY 6de58f63636c6f3219aec403080ff0cbc816b17a8357381a2c0a0304893a9545
+	NAME Wy6|bitKiller
+	IP 74.195.235.200 74.195.244.37 74.195.246.34
+	STAT first:28179561 last:28270417 minconn:94 minact:86 flags:27 frags:203 deaths:261 damage:36685 ff:207
+
+PUBKEY 7071130c31a90db5ad5aa427294bf2a6b6f03a794db3a44c8eb794d8fbb4baab
+	NAME dante
+	IP 181.47.211.230
+	STAT first:28258487 last:28258487 minconn:1 minact:1 deaths:5 damage:40 ff:66
+
+PUBKEY 736951ef0e6303be690ca87efeb7e20169dc1e84ab06831cd03bcb768f9a11d2
+	NAME [ED]Colombiano
+	IP 186.146.124.196
+	STAT first:28190947 last:28190947 minconn:48 minact:47 flags:3 frags:248 deaths:88 tks:4 suicides:2 damage:40379 ff:762
+
+PUBKEY 7595942afcbab24877d15c10e1b878980d789e23e98cbf3ba7e32e1079fdadba
+	NAME a
+	IP 213.186.148.252
+	STAT first:28176880 last:28176880
+
+PUBKEY 79ade8fa3e0e71c43a29f639d3446cec8ec3fdcf2fbdaccba1324bb2429c2f14
+	NAME zx81
+	IP 79.101.169.86
+	STAT first:28211800 last:28211800
+
+PUBKEY 7acdd9944454fcd462d09100381452543b12b98fb42daf266a7e13a43f6569a7
+	NAME unarmed
+	IP 61.19.79.94
+	STAT first:28221620 last:28221620 minconn:10 minact:10 frags:22 deaths:26 damage:3271
+
+PUBKEY 7cad67581a374c6ae31d8cfd648c8aaa1216b50f9ce658c98f2bafb16a93630d
+	NAME unarmed
+	IP 188.113.193.239
+	STAT first:28214253 last:28214253 minconn:1 minact:1 flags:4
+
+PUBKEY 7f2955e1de61ccc4d0148e1a739b0386fcd9d45d0ce5571b4ab1b6b47b1d2d1a
+	NAME [BR]
+	IP 187.181.103.179
+	STAT first:28186657 last:28188092 minconn:10 minact:10 flags:3 frags:26 deaths:24 damage:4091 ff:68
+
+PUBKEY 82d52f2ee8d4e14b13723ed298b5331f8e620f56d80f66228870fdf725411b7d
+	NAME PSYk1ll4h
+	IP 74.75.31.0
+	STAT first:28190722 last:28190945 minconn:59 minact:59 flags:2 frags:188 deaths:159 tks:1 damage:38276 ff:264
+
+PUBKEY 8815a8aca19fc363fd37c3fdb07852a1f95a1b1002ec0de82587c1672a3a28cb
+	NAME Doomas\\
+	IP 73.187.9.250
+	STAT first:28179472 last:28179472 minconn:2 minact:2 frags:2 deaths:4 damage:160 ff:66
+
+PUBKEY 8ad9c32f5dfb603b3758d4b5aac1ae7ceaf8fd533c4b968f54537a4b202d1583
+	NAME ferro
+	IP 82.63.78.144
+	STAT first:28232391 last:28232391 minconn:1 minact:1
+
+PUBKEY 8df11ea0527acf0e57542c5d775d67797dab6f4426e8a1b9f60cf2380b66556c
+	NAME carlos
+	IP 201.211.138.245
+	STAT first:28183214 last:28183214 minconn:21 minact:21 flags:2 frags:46 deaths:44 damage:5679
+
+PUBKEY 8e2988d630dc58c4d99a0a67b2942d8f0f2ca1ff7d7434d951ec685e3bdf43b9
+	NAME Mcjef
+	IP 189.113.210.104 189.113.210.69
+	STAT first:28188091 last:28258485 minconn:46 minact:45 flags:2 frags:121 deaths:127 tks:5 damage:17337 ff:790
+
+PUBKEY 8f89ae88b3a43122cadf29f7b7f8e0afd11fb7bc826345f71f72e8b939bf43ba
+	NAME LSDCL
+	IP 213.5.73.2
+	STAT first:28238649 last:28238649
+
+PUBKEY 8f99353009d011e7d7f0f5c2e61dd79ff4fa79f4b8addb6806de3cae394b68f1
+	NAME Zarachote
+	IP 45.228.191.65
+	STAT first:28215545 last:28215545 minconn:1 minact:1 frags:5 deaths:6 damage:523
+
+PUBKEY 8fb9049829cf75922e728379b0038ea60612d33af9e14b6fad2e862395dc57f4
+	NAME HQD ZZlmoto
+	IP 109.252.164.199
+	STAT first:28186307 last:28186658 frags:2 damage:306
+
+PUBKEY 9199552c1b63bfcfeca3243505f0ac9997f887ca729c55be5dbdf993de2246e0
+	NAME arco
+	IP 188.30.216.107
+	STAT first:28190862 last:28190863 minconn:2 minact:2 deaths:7
+
+PUBKEY 9795bae988769835ffcb63226b739b1f1cadb19f609f028dd35efd9aa0e5ce1f
+	NAME Dude
+	IP 84.154.31.239
+	STAT first:28258397 last:28258475 minconn:7 minact:3 frags:3 deaths:9 damage:446 ff:82
+
+PUBKEY 996dea2515f420e456da6be2438c64dbaf6d1096cfe9cd1712eb0087bea04d03
+	NAME Boulder
+	IP 172.56.201.216
+	STAT first:28186925 last:28186925 minconn:2 minact:2 frags:6 deaths:6 damage:1246
+
+PUBKEY 9af115b7e74feb413544e2673a64d5ed7c3fbf7dc6b0ff834f471e1c640c9bda
+	NAME unarmed
+	IP 86.8.131.61
+	STAT first:28228171 last:28228171
+
+PUBKEY 9a458a4918197debd5f96415c94c8fa5f3cb11ea08de14877fe8dc8f2503664b
+	NAME pacho
+	IP 181.65.25.113 181.65.25.206 190.239.178.78 190.43.5.222
+	STAT first:28179474 last:28238636 minconn:35 minact:28 flags:1 frags:50 deaths:55 tks:1 damage:5186 ff:205
+
+PUBKEY 9d25ff886d090802c3da3c669ae84c8a4a7ac41130139c1e75ccc9f043d1d0e2
+	NAME dinozo
+	IP 77.144.39.29
+	STAT first:28241617 last:28258589 minconn:11 minact:11 flags:1 frags:19 deaths:44 tks:1 damage:3387 ff:64
+
+PUBKEY 9e8db25fbd9d4ead79965ac97ae33203c6cd2827709cd1caa34ddd00c0f5ee2f
+	NAME Ultrachango
+	IP 189.51.168.82
+	STAT first:28212642 last:28212642 minconn:1 minact:1 flags:4 damage:108
+
+PUBKEY 9ff94c7ef1b8d8499ff6d02926fd76c0b9c46664d21d9bf1a587da9100db25d6
+	NAME 122122
+	IP 61.19.79.94
+	STAT first:28241692 last:28241692 minconn:73 minact:73 frags:11 deaths:15 damage:1946
+
+PUBKEY 9f09e7b70f8831ffe9bd658a54cf77f496e56156d5c7ff1734beee670b314d56
+	NAME newbie Hannan(pro) Hannan(newbie) Hannan(legend)
+	IP 103.137.24.236 103.137.24.65 103.137.24.195 103.137.24.141
+	STAT first:28201892 last:28225866 minconn:64 minact:60 flags:2 frags:59 deaths:178 tks:2 damage:7915 ff:312
+
+PUBKEY a1c94f230fa22688524798e8d12382782dba223a2ea1593d2459dfc9f98a571b
+	NAME [STU]zedocusujo
+	IP 95.94.181.33
+	STAT first:28186886 last:28186886 minconn:2 minact:2 flags:4 frags:4 deaths:1 damage:656
+
+PUBKEY a6ad8a6a436c84133fc4c226b19a0549cf4a7d5e71b3e7d46d9333628e7971e2
+	NAME unarmed
+	IP 147.234.66.45
+	STAT first:28199026 last:28199026 minconn:8 minact:7 deaths:7 damage:176
+
+PUBKEY aa8da664ca837d6b1128c8af9d820befa9c873b746e504c8962e43628e6afe88
+	NAME urmomstinks
+	IP 72.23.213.250
+	STAT first:28268995 last:28268995 minconn:20 minact:20 frags:18 deaths:63 suicides:1 damage:2457
+
+PUBKEY ab79c414ae2f375f62785023ee839e68f1b0e79f1d1317e85808a9e82ebc499c
+	NAME ETING
+	IP 151.45.18.146
+	STAT first:28237956 last:28237956 minconn:1
+
+PUBKEY b331c8aba3bb3f786d53c712124757e96f4a2a0e5f74c86868b59332c150924a
+	NAME Opss
+	IP 191.254.183.145
+	STAT first:28226288 last:28226289 minconn:4 minact:4 frags:7 deaths:5 damage:574
+
+PUBKEY b489cb99f5abd176322655d3a952d4b566c1191b26076a995eb856482426b3f9
+	NAME Berlin
+	IP 154.192.35.214
+	STAT first:28209879 last:28211698 minconn:7 minact:7 flags:2 frags:7 deaths:25 tks:1 damage:1361 ff:156
+
+PUBKEY b5bd84c3005e49e420b6de84daf1d062b6032aaa0be86628a5f2521eed6b6da9
+	NAME <Matrix>
+	IP 86.26.142.68
+	STAT first:28215067 last:28215079 minconn:13 minact:13 frags:7 deaths:28 damage:1601 ff:60
+
+PUBKEY b65946ee39dd0e7f4ba40bc8d1194cc0d5b272414dc9a95a481658ac859dcf32
+	NAME Exilion
+	IP 79.53.230.149
+	STAT first:28188049 last:28188073 minconn:53 minact:53 flags:4 frags:56 deaths:104 tks:5 damage:9654 ff:1072
+
+PUBKEY b7dd382d553897b3a29cb478d563d4bfdcfa6aa252513b99d257dea4870b31f2
+	NAME Nobodyok?
+	IP 152.171.136.43
+	STAT first:28215373 last:28268504 minconn:47 minact:43 flags:4 frags:56 deaths:68 suicides:2 damage:13108 ff:93
+
+PUBKEY b809695e6e63c909c209c562c456a11d92a82a2bc1c6078f6b04ed2ace92bac0
+	NAME shidopop
+	IP 117.245.246.106 117.245.166.80 117.199.152.184
+	STAT first:28184430 last:28204606 minconn:19 minact:19 frags:10 deaths:27 damage:1598 ff:2
+
+PUBKEY b8ddc9181e94cf2d2156131712099cb31e09c44c856530d0fcc96083ec5154c8
+	NAME unarmed ThanksMan Raizen
+	IP 186.249.140.100 186.249.141.137 186.249.142.162
+	STAT first:28179411 last:28267492 minconn:228 minact:223 flags:50 antiflags:2 frags:618 deaths:503 tks:20 suicides:9 damage:92774 ff:3945
+
+PUBKEY bac5bcafd5102d39a4d085b4ee27ae9133aa734d3e154c3758f3e7570dec8ed6
+	NAME ohio
+	IP 90.201.225.109
+	STAT first:28263965 last:28263965 minconn:2 minact:2 deaths:1 suicides:1 damage:54
+
+PUBKEY bbf573f85bee4042101686b0df2263c0f2bf453135e168b8505f40098c27b740
+	NAME Chameleon
+	IP 151.200.34.96
+	STAT first:28258415 last:28258552 minconn:20 minact:20 flags:8 frags:38 deaths:44 damage:5638
+
+PUBKEY bfa97982d0b8383e8294f09a85d1c5e2c1ee75300b1e6e8811b684c7e833bd70
+	NAME pu-erh
+	IP 97.115.126.215
+	STAT first:28230741 last:28230741 minconn:10 minact:10 frags:11 deaths:4 damage:1648
+
+PUBKEY c011ae6cc9c8d6a9bd889da947c7158689633cba3267dbb1a4e340910f08178c
+	NAME denek
+	IP 188.132.191.106
+	STAT first:28258390 last:28258390 minconn:6 minact:5 frags:6 deaths:14 tks:1 damage:904 ff:219
+
+PUBKEY c0219c5b23b328ca34c88353a6fb7234470febabc7aa76f1ff222c403487e926
+	NAME GerMan[NRW]
+	IP 83.135.189.50
+	STAT first:28211666 last:28211733 minconn:16 minact:16 frags:27 deaths:51 tks:2 suicides:1 damage:3990 ff:152
+
+PUBKEY c261ba2ca5dac231847bc0c294ae9b62cd4246131567a2ea873ecc7920104aeb
+	NAME Depressio
+	IP 88.132.58.38
+	STAT first:28186952 last:28188536 minconn:21 minact:21 frags:19 deaths:52 tks:2 damage:3058 ff:96
+
+PUBKEY c3996d040349a2eebb1645449ee4472bd4902fb30cbcf66c85a1e27119516186
+	NAME HazyCrzayyy
+	IP 74.139.199.73
+	STAT first:28188035 last:28188046 minconn:28 minact:26 frags:49 deaths:59 tks:3 damage:8282 ff:408
+
+PUBKEY c49943c861f040527ca93bf3624b034b51c6ca3ee8d84eb6fb112e3d399794d2
+	NAME NotThatSilent
+	IP 89.173.228.3
+	STAT first:28211712 last:28211712 minconn:69 minact:67 flags:13 frags:181 deaths:238 tks:4 damage:21975 ff:659
+
+PUBKEY c7a57e06e2ad0dca2fbd10a9dab89269e6952dbd0391f8366641954e1e31ed8d
+	NAME Zac
+	IP 81.56.3.43
+	STAT first:28239590 last:28239591 minconn:2 frags:1 deaths:3 damage:36
+
+PUBKEY c7fdb8aeca7609ea4a3249760bdc4557f8de1792f29b8243db8f74f21517f1ad
+	NAME AlienBlaster LoLiTa's_lover
+	IP 109.252.164.199
+	STAT first:28179194 last:28181820 minconn:17 minact:17 frags:32 deaths:45 damage:2460
+
+PUBKEY ce35cd44b622c0039d1ecb756b717da0c40476f1e5c77a18be7f467f610b5f60
+	NAME unarme
+	IP 24.49.141.50
+	STAT first:28224402 last:28224403 minconn:1 minact:1
+
+PUBKEY cffd42567a256fa5ed7f7c8af003bfbc605dedb6af750b5ad8fa9736a9b122a3
+	NAME FuriosFucker666
+	IP 45.224.190.34 45.224.190.35
+	STAT first:28209872 last:28254287 minconn:20 minact:18 flags:1 frags:11 deaths:33 tks:1 suicides:1 damage:1356 ff:186
+
+PUBKEY d09d089ba744bd63ab85abc34e832fe3affb074ed1d30d979cee51fadb628b99
+	NAME pimpelpooper:)
+	IP 109.43.115.35
+	STAT first:28268604 last:28268604
+
+PUBKEY d0a50d20b953f3b354678cff30b4011ad9421a24a715f03c9697ebf6eb069cf6
+	NAME ees24
+	IP 181.46.144.161
+	STAT first:28194884 last:28194911 minconn:22 minact:20 frags:12 deaths:29 damage:1913
+
+PUBKEY d2c1b182530a96120ffe00ccc8f89bd39bc3c11229200b19c4c127906041e832
+	NAME KGB
+	IP 47.63.10.154
+	STAT first:28233503 last:28233503 minconn:3
+
+PUBKEY d4153c7ceaba039b0ceede4a68555dfeb3fec6cd3c00003523d7040f256dfcc9
+	NAME Xolotl
+	IP 91.173.41.16
+	STAT first:28228170 last:28228170 minconn:1 minact:1 frags:1 damage:110
+
+PUBKEY d88de13f1eb01778d2231987a93b23be07602edf288309930693cda216ed524f
+	NAME Tigercubi
+	IP 142.127.4.184
+	STAT first:28215051 last:28215051 minconn:11 minact:11 flags:1 frags:12 deaths:25 damage:2153 ff:28
+
+PUBKEY d8e1d8cf4a1ab3c09aef9a9195c8fe20233c562f9c3c3caf7ed537b601eeb0ac
+	NAME Roland
+	IP 24.191.18.74
+	STAT first:28179176 last:28199498 minconn:7 minact:7 frags:8 deaths:14 damage:1859
+
+PUBKEY dac1b933a53c35e52c7f4763f989ad663aa02d4f4adf8f0dc7e463ce7a4e1494
+	NAME wombat
+	IP 109.125.114.34 46.128.187.161
+	STAT first:28177347 last:28233516 minconn:94 minact:93 flags:28 frags:252 deaths:183 tks:1 damage:33566 ff:308
+
+PUBKEY ddb948c85de771f98a1585907dd2c04d34185497c6a29c38953b5ff97fa566aa
+	NAME RodrigoRitta
+	IP 179.189.130.239 179.189.128.225
+	STAT first:28258452 last:28268337 minconn:19 minact:18 flags:1 frags:24 deaths:46 tks:5 damage:3266 ff:653
+
+PUBKEY df656ecb1824a13ba52712df5a35c3f1454713b837ba3b1f2fd32ed29fbe8785
+	NAME unarmed
+	IP 191.217.33.122
+	STAT first:28252179 last:28252183 minconn:3 minact:3
+
+PUBKEY e04d69b41aa24df27c0ef43a1a04213f9336b404066f355a89876b19dab44698
+	NAME unarmed
+	IP 79.22.114.10
+	STAT first:28207658 last:28207658 minconn:1 minact:1 frags:2 deaths:2 damage:164
+
+PUBKEY e0452c3290d4518ebbbc5544b8f19505f058c0aad060695741e2b8bfc18a21ec
+	NAME platy[puss] drinking_bleach
+	IP 24.19.121.251
+	STAT first:28186655 last:28191005 minconn:161 minact:157 flags:13 frags:307 deaths:346 tks:8 suicides:1 damage:36846 ff:1200
+
+PUBKEY e179b041fc5377871085f4f68be2590a7a537a68d89e6800435aa1e564ae39fd
+	NAME Pulga!
+	IP 189.122.17.125
+	STAT first:28215530 last:28215530 minconn:24 minact:23 flags:4 frags:114 deaths:95 damage:13666 ff:86
+
+PUBKEY e10d963eb66577d7ce112266d0ed02f46b9c3852a4b133651c47ebb95e0e682a
+	NAME ZZ|Nieukerk
+	IP 93.238.49.55 91.2.131.140 91.2.139.33
+	STAT first:28177073 last:28211777 minconn:82 minact:81 flags:35 frags:471 deaths:227 tks:7 suicides:1 damage:52984 ff:1116
+
+PUBKEY e7c59fcd0c6ee01f13e6ce096ddc3485fc12605a87cf92c1d5690b01aa52a19a
+	NAME MisticAries
+	IP 176.200.172.200
+	STAT first:28226747 last:28226747 minconn:10 minact:7 frags:7 deaths:12 damage:1286 ff:128
+
+PUBKEY e7fd25be963502269884a2ee3ca0783283d501b33f96c470b4093259c6a75743
+	NAME I-PORRA
+	IP 85.247.13.168
+	STAT first:28181820 last:28232129 minconn:13 minact:13 flags:7 antiflags:1 frags:23 deaths:22 tks:3 suicides:1 damage:4120 ff:773
+
+PUBKEY ec790e8ae40517c74bc018bfdb97f13339cc69dc2cd48ab3cc869ee8ae799b2a
+	NAME w
+	IP 89.211.180.20
+	STAT first:28236207 last:28236207 minconn:4 minact:4
+
+PUBKEY f0756689577e949c247ba2c4de68d99ce4c333a3360574aedb497f4c775429fd
+	NAME CARL|drumstick
+	IP 193.234.117.34
+	STAT first:28185103 last:28185103 minconn:30 minact:30 flags:1 frags:49 deaths:51 damage:7617
+
+PUBKEY f15160567391906cfb3d49c8a53bb9e593a30fdd1f5da8b1983b1666c29b1bb1
+	NAME Lady_Connie
+	IP 91.229.208.193
+	STAT first:28258386 last:28270611 minconn:16 minact:16 flags:1 frags:26 deaths:46 damage:4166 ff:53
+
+PUBKEY f19512e86c8a48e31eab8e45d6f04eeadd8b26e5b15dfce5ceaab14df5f89115
+	NAME DeathadderV2
+	IP 46.34.192.17 46.34.195.114
+	STAT first:28176832 last:28181828 minconn:6 minact:5 frags:2 deaths:7 damage:237
+
+PUBKEY f2b5dfd48b26e1598579d71f33484858f4a30b602aa2db9707278dbdf928495a
+	NAME O*abyss
+	IP 177.142.12.119
+	STAT first:28258666 last:28258666 minconn:7 minact:7 flags:1 frags:29 deaths:22 damage:4160
+
+PUBKEY f30d88e109663e8feed6d86ef45830a7ac9a88f374bb200ecf893c280a84b8bb
+	NAME Ultrachango
+	IP 189.51.168.82
+	STAT first:28212636 last:28212637 minconn:1 minact:1
+
+PUBKEY f5a1cf0cb5c222c3aded4edd5ddc8a1bbf122f379e3c824a44e77f0ea2101575
+	NAME Eduuardo
+	IP 83.4.95.69
+	STAT first:28179377 last:28179380 minconn:3 minact:2 deaths:4
+
+PUBKEY f679b484bfaa42e30f798e76546b3424af0ca60d0494e764a773541f5bea37cd
+	NAME LAPER
+	IP 180.254.70.15
+	STAT first:28211469 last:28211469 minconn:1 minact:1
+
+PUBKEY f6b10d37161bc8288a4c97cfd1e3b3ae91782a3db49ae22b29e4e401a46ac7f8
+	NAME Roland
+	IP 24.191.18.74
+	STAT first:28206614 last:28266995 minconn:136 minact:136 flags:15 antiflags:2 frags:135 deaths:304 tks:18 suicides:1 damage:19967 ff:3477
+
+PUBKEY f7718ff8689ec90c53dc8ea55c326675f2114989ff44e9456c47b80f0f3557f5
+	NAME astro
+	IP 62.28.211.14
+	STAT first:28179345 last:28188024 minconn:79 minact:76 flags:15 frags:260 deaths:186 tks:8 suicides:3 damage:32840 ff:1188
+
+PUBKEY fa750952a3311baad8eebcfd7097b94c59431caf2137cbce4d21101a383e6d6d
+	NAME TatitaDios
+	IP 181.229.110.52
+	STAT first:28215532 last:28215539 minconn:10 minact:10 frags:2 deaths:11 suicides:1 damage:526 ff:51
+
+PUBKEY fa9976e4637d6e2d267914182c1e159d0fb98b07fb3368214900064f7889dbe3
+	NAME ZZ|Fatso
+	IP 49.37.241.222
+	STAT first:28211763 last:28211763 minconn:12 minact:12 flags:1 frags:56 deaths:33 tks:1 damage:6005 ff:384
+
+PUBKEY fa0dd027f59e14504f413784e9d5755e012246bfb71d04e9fbc417041932553b
+	NAME elvergafea
+	IP 187.224.112.157 187.143.8.37
+	STAT first:28178071 last:28218494 minconn:34 minact:34 flags:6 frags:48 deaths:77 suicides:1 damage:6955 ff:116
+
+PUBKEY ff91f19a152910a98e6d28de3040c220c8f3efee1c5d35e8d06e43fc6e128b87
+	NAME Elyaber
+	IP 190.97.234.132
+	STAT first:28179373 last:28179373 minconn:3 minact:3 frags:1 deaths:5 damage:82
+
+PUBKEY 0086c03bb7ee0fd87b3e9fee0e4c295b6474b759f60152f0f4ef161835b6e12e
+	NAME 1w HORACIO
+	IP 190.211.91.66
+	STAT first:28179184 last:28193584 minconn:24 minact:19 frags:8 deaths:62 suicides:2 damage:1493 ff:66
+
+PUBKEY 0146cff53d770008ca968a0134329d8adb4faeb20efa5e04f40ec595ac8b740a
+	NAME COWBOYAKOZzz
+	IP 186.27.128.181 191.92.46.148
+	STAT first:28178098 last:28255709 minconn:119 minact:119 flags:20 frags:378 deaths:277 tks:9 suicides:2 damage:51525 ff:1727
+
+PUBKEY 02927d4fee87d0db53dd6b0cc76d34a246e1d90b35a745dc59a89d0db6be9b01
+	NAME ECCO2K unahmet
+	IP 88.230.156.153 88.230.159.22
+	STAT first:28188341 last:28194926 minconn:1 deaths:1
+
+PUBKEY 034a48e6ecfcd07f97f1beee24326cef4f60ec5360001cb48a5dd8642dea6873
+	NAME O*
+	IP 88.163.73.146
+	STAT first:28194912 last:28194934 minconn:3 minact:2 frags:3 deaths:3 damage:214
+
+PUBKEY 065af6a10911eac856ed6351d42222a70fbf89318ea6988f6afdb3419e3877ee
+	NAME MysticX
+	IP 89.143.15.78
+	STAT first:28258421 last:28258421 minconn:7 minact:7 flags:2 antiflags:1 frags:12 deaths:14 tks:2 damage:1610 ff:198
+
+PUBKEY 070239e41218c3a3c9b1a78ad8e2babc72e06bc3855990cc5a8ff05a0b3a2da5
+	NAME stali
+	IP 79.254.20.244
+	STAT first:28179640 last:28215097 minconn:3 minact:3 frags:1 deaths:3 damage:278
+
+PUBKEY 09d6a63dcadaaa2c8af0adff27a49dfe5818cfa48d6a1ad9e2b1c9b24c6e56aa
+	NAME Grace
+	IP 23.127.55.195
+	STAT first:28264020 last:28264020
+
+PUBKEY 0aee45fd99b0f286483be4e05a770b725ef6381d4682701f0ad59ec55554c27e
+	NAME M3hdi
+	IP 196.127.149.56
+	STAT first:28249494 last:28249494
+
+PUBKEY 0aa260fd6da10898082e13c24705af695929e465d0f8112ef7a2ce7e0fe4b2f3
+	NAME jaggo
+	IP 95.248.217.150
+	STAT first:28230958 last:28230958 minconn:3 minact:3 deaths:1 suicides:1 damage:180
+
+PUBKEY 0aaabc0397f1ea244555e30df657798bde26fafc3138795f1642929ef35f26a7
+	NAME real testing
+	IP 101.115.141.140
+	STAT first:28207666 last:28207667
+
+PUBKEY 0cbe89c63ab717489a3c66c3515b9640288f5427716aa74d9526778e980b61bf
+	NAME Lu1a13 Silvestre
+	IP 168.227.17.86 168.227.17.59
+	STAT first:28192310 last:28258448 minconn:19 minact:19 flags:4 frags:57 deaths:57 tks:1 damage:7630 ff:215
+
+PUBKEY 0dc2d8d503c3a3460363996c48e25ab856ee8ab478591042d0a5f05024ba75d1
+	NAME Wy6!Nightmare
+	IP 112.134.190.128
+	STAT first:28185610 last:28185610 frags:1 damage:246
+
+PUBKEY 0f4a8b6ad73ae12b2a2bae085f6db8e9c178473a90845b092aa61396fbbd6ec3
+	NAME lxpnh98
+	IP 89.114.101.156
+	STAT first:28206823 last:28258577 minconn:130 minact:130 flags:30 frags:347 deaths:366 tks:7 suicides:6 damage:53259 ff:2120
+
+PUBKEY 0fda1448326e31bdb70c691a30619bd4c9f071255e271fc6e0ed27ab32a8ae0c
+	NAME Barato
+	IP 177.54.207.202 45.177.78.232
+	STAT first:28179408 last:28238680 minconn:11 minact:11 frags:20 deaths:32 tks:1 damage:3448 ff:139
+
+PUBKEY 10f27f9b8f516fedabac5bff4e5e084442da1ecc05167e3016e16f719529489d
+	NAME philo
+	IP 198.72.214.176
+	STAT first:28179536 last:28179536 minconn:1 minact:1 frags:1 deaths:3 damage:220
+
+PUBKEY 1002ea5c82280c93864c04ce76bccfcdbbebea2eed3320cb8550bf828b414753
+	NAME Eichimit
+	IP 200.219.2.32
+	STAT first:28179353 last:28179353 minconn:9 minact:9 frags:12 deaths:8 damage:1148
+
+PUBKEY 11beeea24f04457912b2087f5d38c0f9b6eeba63a14d1563de1256764a1d238f
+	NAME Servetus_Michel Lazarus
+	IP 65.129.64.244
+	STAT first:28179295 last:28179307 minconn:58 minact:45 frags:62 deaths:72 tks:2 damage:5244 ff:164
+
+PUBKEY 118a53231e4016509f13f9ef48a426982b05867c8db1529cabe0252d2ac1ab9c
+	NAME yt34Antonio
+	IP 190.61.57.105
+	STAT first:28179183 last:28179193 minconn:5 minact:5 deaths:8 tks:1 damage:286 ff:167
+
+PUBKEY 13de358fc8f9c51dc005532bc3435415edaef2c0ad59dfaf1ddb137fd8785ed0
+	NAME jConnor |LAG|jConnor/t/ |LAG|jConnor
+	IP 177.191.84.228 179.126.211.213
+	STAT first:28258451 last:28258587 minconn:141 minact:141 flags:10 frags:410 deaths:421 tks:28 suicides:18 damage:60777 ff:4403
+
+PUBKEY 13fa9bec558562d06f560172b8a0e06f7e20b3740b7f492d0c170cd68aa58c68
+	NAME EricD
+	IP 77.171.2.176
+	STAT first:28181786 last:28181786 minconn:1 deaths:1
+
+PUBKEY 1836b03bd757ee271ef44f1a5e0f69d35e0597cf30b14a13c15446c13a19321f
+	NAME Femboi
+	IP 89.64.185.55
+	STAT first:28268317 last:28268317 minconn:9 minact:9 frags:12 deaths:23 damage:2115
+
+PUBKEY 1adebda3fcc88825e5459cc88aa0e5ac0ac6077631788394346f3ef4637f33ae
+	NAME MerdoMerdo?
+	IP 176.234.88.23
+	STAT first:28237981 last:28237981 minconn:16 minact:16 flags:3 frags:14 deaths:6 suicides:1 damage:2246
+
+PUBKEY 1a2ef966e4c25fc8379932bf69b30e0f2769f64bd9fc900eb3ea84f1ad8551f7
+	NAME Bllly
+	IP 174.86.150.184
+	STAT first:28179445 last:28179452 minconn:33 minact:33 flags:5 antiflags:1 frags:51 deaths:74 tks:9 damage:7003 ff:1289
+
+PUBKEY 1b9eaf4683e4d72c1135088d1194fcc7a87e18d194af62fff16893bf932b336d
+	NAME Motley
+	IP 24.131.9.160
+	STAT first:28254307 last:28254375 minconn:4 minact:2 deaths:3 tks:1 ff:82
+
+PUBKEY 1caa74e8d0a94997f80afd0734b72895ad11acf34c38bb3a6c20ce474366ed77
+	NAME musician
+	IP 217.24.161.53
+	STAT first:28270634 last:28270635 minconn:2
+
+PUBKEY 1ca60c35bb2d743cae9e12f0adf9f1b52f20da5b79a17e3576289f78964226cd
+	NAME mahmoud
+	IP 41.47.121.212
+	STAT first:28255135 last:28255135 minconn:2 minact:2 flags:1 frags:1 deaths:1 damage:176
+
+PUBKEY 1dc6a9c43c777a4cd52870da38363707c485a5d983d7dfb8c0e158d979599ad8
+	NAME unarmed ZZ|Ketar*
+	IP 188.218.156.78
+	STAT first:28228832 last:28270661 minconn:14 minact:13 flags:1 frags:57 deaths:39 tks:1 damage:5990 ff:160
+
+PUBKEY 1f666c40f883c88d2c837fc7a11d0fed0a9daa47797c86a828e84cdc899bcf52
+	NAME Terror
+	IP 88.168.40.164
+	STAT first:28186269 last:28186269 minconn:2 minact:2 flags:5 frags:2 damage:226
+
+PUBKEY 21be3411f4dc78b58bc873dfff4fee7fdbb203de67ed29739b9b879ab1b1bc08
+	IP 95.94.245.229
+	STAT first:28229154 last:28229154
+
+PUBKEY 244a342b91b3863f43ba8d1a57f84c6bded2d454c12b76d4e9357585ab5bc6b4
+	NAME spidey
+	IP 103.160.27.97
+	STAT first:28250340 last:28250340
+
+PUBKEY 25e222edfb7bb41c08701d08c8eb184ddd0d224a13f64a991f28d25fefa5bb25
+	NAME WeakHunter
+	IP 92.169.231.218
+	STAT first:28254240 last:28254240 minconn:12 minact:12 flags:1 frags:15 deaths:17 damage:2200
+
+PUBKEY 26f220215905723a9d46b2f77f1dc7320de0707943c1d35603223c897a0dee53
+	NAME Jessica
+	IP 151.71.86.30
+	STAT first:28190541 last:28190559 minconn:6 minact:6 flags:1 frags:7 deaths:3 damage:903 ff:12
+
+PUBKEY 277e16ad00cfc33f68d9aff23cc910828620c5ce0db12cee1c20947aa55339a9
+	NAME Goose
+	IP 5.194.128.204
+	STAT first:28258516 last:28258516 minconn:9 minact:9 frags:19 deaths:23 tks:3 damage:2302 ff:462
+
+PUBKEY 27320c16b3d34ba213b88af0a96952a0334bf49c123953f7ecb7c1dff2d1ec00
+	NAME Mas
+	IP 92.170.136.6
+	STAT first:28211744 last:28211746 minconn:7 minact:6 frags:6 deaths:17 tks:3 damage:942 ff:150
+
+PUBKEY 28fedc5e5231333b8c70144aaba2f5224cdb78a23fafac89a0842aba79c0665b
+	NAME Ced
+	IP 86.249.233.27
+	STAT first:28181755 last:28190504 minconn:3 minact:2 frags:13 deaths:4 damage:1002
+
+PUBKEY 28ea43a224295f8b1bc33b02981ed3f791b0eded073915e14526674996231ee1
+	NAME BIlly MartinBurger
+	IP 174.86.150.184
+	STAT first:28179451 last:28179451 minconn:31 minact:31 antiflags:1 frags:43 deaths:85 tks:3 damage:6816 ff:795
+
+PUBKEY 2aeee77814e494789dd6b43bae7f08879651cedd9c0f3c72e000467ab450a6f2
+	NAME tintin
+	IP 82.122.68.129 2.15.110.242
+	STAT first:28181741 last:28258409 minconn:58 minact:57 flags:11 frags:121 deaths:117 tks:2 suicides:1 damage:15350 ff:504
+
+PUBKEY 2b3ef63d94fa868d312f03b1441db1abc06bfee3bd7728f544134ce4345c3d27
+	IP 180.244.161.63
+	STAT first:28237207 last:28237207
+
+PUBKEY 2eda32989ac1b71ffa95072bc49d06e6aa76747521681d45fff4d1d675deffea
+	NAME Ando
+	IP 74.206.149.170
+	STAT first:28258376 last:28258376 minconn:25 minact:25 frags:47 deaths:57 tks:3 damage:5993 ff:515
+
+PUBKEY 2f629789408abcb82c489a118892ca835a53a66c10b688a8050107769b01ecf0
+	NAME DAVID_CAMPEADOR
+	IP 185.72.112.167
+	STAT first:28181739 last:28201923 minconn:11 minact:11 flags:1 frags:24 deaths:20 damage:2892 ff:16
+
+PUBKEY 3086726114c94e2d59f21047c8cd9cbb2ee3867c98f2ada629c39955d49e5807
+	NAME BlueSucks EatMyPoop` HelpPoopInEye SlipperyWoman
+	IP 98.186.223.14 98.186.220.153 98.186.216.56 70.162.229.63
+	STAT first:28226716 last:28244488 minconn:51 minact:51 flags:7 frags:37 deaths:50 damage:6478 ff:67
+
+PUBKEY 315a353a53b32b913e44de0bf1956da82c889c5ee29ef7efeaac683f610b2109
+	NAME drflower admin DiscordMod BasementDweller
+	IP 108.208.45.28
+	STAT first:28188030 last:28188070 minconn:36 minact:35 frags:11 deaths:76 tks:10 suicides:1 damage:1954 ff:1120
+
+PUBKEY 33aecf552155272c96b01d5adccf144967a8723d7636ffdc1c9a4b459e9d3ca9
+	NAME Jirka
+	IP 178.255.168.126
+	STAT first:28181741 last:28241629 minconn:24 minact:24 flags:2 frags:44 deaths:56 tks:1 damage:4214 ff:214
+
+PUBKEY 35ceb8a5c7d7cd40d043679c191d68c068a5061b8f175ca422d33afb9150e4f5
+	NAME chrisp
+	IP 68.207.242.201
+	STAT first:28239584 last:28239584 minconn:14 minact:14 flags:6 frags:14 deaths:25 tks:1 damage:2156 ff:66
+
+PUBKEY 36ca6c97d1d5a2cc6b05d8c61875b7370646eb86c071f0b38ca5d7fa6a2a0403
+	NAME r!zz202 pussyeater
+	IP 95.94.181.33 188.37.62.143
+	STAT first:28186307 last:28187541 minconn:10 minact:9 flags:28 frags:1 deaths:4 damage:246
+
+PUBKEY 3b7aea7de51b6fbfea47cf302a014afe6bd9abbf3844451d6b25d796267f5f2a
+	NAME ShotGunWillie Just.Score
+	IP 72.177.164.241
+	STAT first:28179121 last:28267254 minconn:241 minact:239 flags:34 frags:186 deaths:621 tks:1 suicides:1 damage:30174 ff:749
+
+PUBKEY 3cd258e0da68f844051b704b66798dd27c0566f4884f919dbf6860fc53d7c152
+	NAME flag
+	IP 45.229.26.145
+	STAT first:28258720 last:28258720 minconn:15 minact:13 frags:40 deaths:47 tks:2 damage:5499 ff:273
+
+PUBKEY 41fe6928484c5e067b1d7582d279dcb3b5c5697911cbe4362a3dcede56b2bdad
+	NAME [ED]Colombiano
+	IP 186.146.124.196
+	STAT first:28258655 last:28268317 minconn:52 minact:52 flags:4 frags:232 deaths:104 tks:2 damage:33918 ff:586
+
+PUBKEY 4172c4e792c0856560e07f3ffcfe7c6937d93c39ea11bb68611be2acee2d1aab
+	NAME spaceamoeba
+	IP 69.129.193.227
+	STAT first:28198230 last:28198230 minconn:4 minact:3 flags:7 damage:90
+
+PUBKEY 4242fd6a33f77e72b9ec74182394dfc062972f1c24f4fa1b626629c1f2418382
+	NAME ant Cobra
+	IP 83.76.189.228
+	STAT first:28226712 last:28226755 minconn:41 minact:26 flags:1 frags:44 deaths:17 damage:5517 ff:88
+
+PUBKEY 423eaa5b6290be64e27576cfe2132dd7a75b37f5a5948fde664f10210f317da7
+	NAME unarmed
+	IP 190.61.57.105
+	STAT first:28179405 last:28179418 minconn:40 minact:39 frags:29 deaths:109 tks:2 damage:5021 ff:437
+
+PUBKEY 4422710d7209c6dbe4ba0b747d5be6626ba19f639b5c018fe179846938c0a1ec
+	NAME lastreetszer
+	IP 78.112.33.107
+	STAT first:28211663 last:28211678 minconn:14 minact:13 frags:5 deaths:28 tks:1 damage:751 ff:51
+
+PUBKEY 45924964ab3f9270b8a78a201d7ac05b4b73b20cd98790d74d415420699c2e6b
+	NAME rad
+	IP 103.181.97.241
+	STAT first:28211767 last:28211767 minconn:29 minact:29 flags:1 frags:57 deaths:88 tks:2 damage:8395 ff:273
+
+PUBKEY 4676bde153f3b9aa86c5b490a369bc9c6845b952d84401f19ae27ac0454b9409
+	NAME Dr_Coomer3 GeneAutry Dr_Coomer Not_A_Doctor
+	IP 108.44.147.88
+	STAT first:28176808 last:28181259 minconn:242 minact:236 frags:5 deaths:19 suicides:1 damage:788 ff:82
+
+PUBKEY 47b6bf9bd7fa90af43e21acf17f2021a5fbf7a7a718bd7bf36ae1f5e211b0757
+	NAME Prooooooooooooo
+	IP 206.84.144.45
+	STAT first:28216182 last:28216182 minconn:2 minact:2 flags:1 frags:1 deaths:4 damage:300
+
+PUBKEY 475a27b3015662ccf9d9d55b8e77fb224df77439f8bb50edfebcb83e2a04b65a
+	NAME gameritis [Hole]gameritis
+	IP 76.176.190.51
+	STAT first:28202726 last:28209883 minconn:60 minact:60 frags:208 deaths:116 tks:2 damage:21288 ff:222
+
+PUBKEY 47e658ea5b9054b237236d85fb50fc12fd3a94443d7a28183afc9f83011779fa
+	NAME Bruninho_01
+	IP 217.119.152.163
+	STAT first:28200526 last:28200529 minconn:3 minact:3 frags:5 deaths:3 damage:704
+
+PUBKEY 4af217f6d5a4ee9f60acf48d90056b59f0fe25a357ac6fd77fc769a7d532c255
+	NAME unarmed
+	IP 200.8.121.124
+	STAT first:28179385 last:28179385 minconn:1 minact:1 deaths:1 damage:44 ff:44
+
+PUBKEY 4bcafb36f2df9e8e916f49f2a5502369a5543093bc070ed72d03b533d1948b4f
+	NAME RustInPeace
+	IP 198.48.142.204
+	STAT first:28176776 last:28176776 minconn:6 minact:5 frags:3 deaths:14 damage:246
+
+PUBKEY 4c2add4c6250a0220ebae115d83c9949d0b14cd4bfea18e47a4ed4281d37607d
+	NAME northstar . {CoE} ~Zarathustra~
+	IP 168.228.202.134 168.228.200.82 168.228.200.134
+	STAT first:28226717 last:28270201 minconn:40 minact:39 flags:4 frags:68 deaths:67 suicides:1 damage:9996 ff:243
+
+PUBKEY 4f864b1bdee7228930a5f55a93f9af1883a98fb54b1752840489ca0d91e3f095
+	NAME Zobrist Crazy Noob DojaCat
+	IP 179.99.140.197 187.56.190.239 189.68.102.52 189.46.29.69
+	STAT first:28181777 last:28221174 minconn:300 minact:244 flags:26 frags:496 deaths:610 tks:3 damage:52603 ff:710
+
+PUBKEY 53121eb8c01f15b64364f33f41336591daefbcbec5d42ef6cdf488d3174d980a
+	NAME Joppa
+	IP 88.121.41.7
+	STAT first:28238206 last:28270669 minconn:3 minact:3 frags:8 deaths:4 damage:831 ff:32
+
+PUBKEY 547231286f391819b35ab8413e0683026b9d1b6f6e3eb68a79831e1e85faaf08
+	NAME nobody_special
+	IP 70.105.250.156 70.105.245.162 70.109.164.113 70.109.132.199
+	STAT first:28190528 last:28268319 minconn:73 minact:73 flags:25 frags:150 deaths:133 tks:6 damage:19134 ff:893
+
+PUBKEY 5576d5317efac39d1b7e5bdfd852b7d122a205bbc5bc72e6ccd7ccff2832ef1d
+	NAME sexo
+	IP 181.176.209.242
+	STAT first:28192378 last:28192378 minconn:16 minact:16 frags:1 deaths:8 tks:1 damage:154 ff:66
+
+PUBKEY 553656dc04ac2b0836256b51174a589e2efdf731afeea50d48f059c7ca8f6c0c
+	NAME Inelegivel
+	IP 191.177.153.69
+	STAT first:28192298 last:28258459 minconn:38 minact:38 flags:1 frags:103 deaths:110 tks:5 damage:12829 ff:653
+
+PUBKEY 57d62a011712efb97e889f91445e7d833bc9e5b6bb0426e15545e01687fa1764
+	NAME akim
+	IP 24.95.53.137
+	STAT first:28188152 last:28188152 minconn:4 minact:4 frags:2 deaths:4 damage:608 ff:16
+
+PUBKEY 5f921ff0b7df52b65250706d7ac3bd6a7934b11b495ede902282bfa20f8a8995
+	NAME ShotgunNoob
+	IP 73.51.244.137
+	STAT first:28211283 last:28211294 minconn:22 minact:10 flags:2 frags:20 deaths:22 tks:1 damage:2804 ff:78
+
+PUBKEY 5fb6e63485392ce353500121dc74e326a2c05b1cad0a071a59675439a906eb50
+	NAME scorch908
+	IP 65.129.64.244
+	STAT first:28179308 last:28179342 minconn:45 minact:36 frags:25 deaths:76 tks:2 damage:2428 ff:132
+
+PUBKEY 605a7743496c7ec5e1d6256767d861d6bb1af3d55ddc8d95a8c03daeed29007c
+	NAME alvaresz
+	IP 164.163.209.48 164.163.209.55
+	STAT first:28254220 last:28258638 minconn:261 minact:261 flags:11 frags:496 deaths:716 tks:16 suicides:1 damage:77854 ff:2709
+
+PUBKEY 63fe1dd98896473def27f071d3637aec3579e791c4bf292288ee1c7d932ff865
+	NAME jiraiyasec
+	IP 170.78.26.27
+	STAT first:28258601 last:28258605 minconn:4 minact:4 deaths:2 tks:2 damage:88 ff:154
+
+PUBKEY 64fa47e631d528131cb40ad1d29e17a88a93b56af565d4ea28d28d14d90f7fb4
+	NAME SAMO
+	IP 31.60.149.17 37.225.73.114
+	STAT first:28194942 last:28211760 minconn:20 minact:20 frags:62 deaths:49 tks:2 damage:7419 ff:383
+
+PUBKEY 652a7c54ba5d06c9edbcb3903e3a4c957412cd41db4c5d36d4385505f3dcb539
+	NAME ZZ|ShootMup ZZ|sMuppy
+	IP 98.143.186.154
+	STAT first:28178069 last:28179558 minconn:35 minact:28 flags:15 frags:126 deaths:54 tks:1 damage:13942 ff:101
+
+PUBKEY 677ad915cb1683e599fad3a3f4e593f32293b9ea8e184996bd3b917c594a052b
+	NAME Chubby
+	IP 190.89.31.47 190.89.31.49
+	STAT first:28231055 last:28233503 minconn:28 minact:28 frags:68 deaths:95 damage:9186
+
+PUBKEY 685e76768c5ae4e9952506423f90ed15058dd4f2d6332c0185b87ffce5e29fb5
+	NAME pidor
+	IP 45.151.239.14
+	STAT first:28256664 last:28256664 minconn:1 minact:1
+
+PUBKEY 68eaacef3a71e58d227f4e6dc9c372a45917cbe0fec62c0841d7e9bfc70f4051
+	NAME ZZ|RKTnoob
+	IP 86.33.74.73 86.33.86.22
+	STAT first:28215563 last:28249443 minconn:1 minact:1 flags:1 frags:4 damage:384 ff:16
+
+PUBKEY 69524bb2d6874f2e6592566fc672521fbe86b707bb171d41c997893458a26f39
+	NAME Zombie
+	IP 179.214.188.23 191.184.199.171
+	STAT first:28190921 last:28192274 minconn:41 minact:31 flags:11 frags:45 deaths:100 damage:5650 ff:122
+
+PUBKEY 6a9ec120bd206630076b9d9b9be86dc81f1364bf36be569dbbbcc7bdf8aec24c
+	NAME gogopowerranger AstralNova
+	IP 185.70.172.83
+	STAT first:28184732 last:28190525 minconn:1 frags:1 deaths:1 damage:150
+
+PUBKEY 6eb240beb8e61ac31416300d6bf9ddd17bfd6f3d2c7e75e456d220ba8dfd3396
+	NAME Machine
+	IP 91.243.98.34
+	STAT first:28258393 last:28258393 minconn:8 minact:6 frags:15 deaths:15 tks:2 damage:2626 ff:168
+
+PUBKEY 6fcae39b94d07001dcd50f6147279aa120368ad889ae40165c216784916177a1
+	NAME Time
+	IP 78.190.231.66
+	STAT first:28200406 last:28200407 minconn:13 minact:12 flags:5 frags:28 deaths:18 damage:3373 ff:112
+
+PUBKEY 6fd2ede4540bc68d64c58f227cf43116c76bcc67bde9ea7c4d0066eb377b136d
+	NAME Oni
+	IP 90.221.83.38
+	STAT first:28194929 last:28194929 minconn:5 minact:5 frags:20 deaths:17 damage:1740
+
+PUBKEY 707e14d37f32267fc9cca7b84174e3b4b0a8007d0666cadcdebfe5617fd32410
+	NAME DEADPOLL
+	IP 59.89.47.199 117.220.142.76
+	STAT first:28176729 last:28176757 minconn:40 minact:40 frags:32 deaths:97 tks:2 suicides:1 damage:2965 ff:164
+
+PUBKEY 7146c2dc553d33d04888a84602a35dd0ac836a729db8c4ed0c3eff8b44cddc2e
+	NAME kal xphos30 xphos3 xphos38
+	IP 99.254.23.214
+	STAT first:28209864 last:28209864 minconn:32 minact:32 frags:88 deaths:80 damage:7872
+
+PUBKEY 722a433faba440e3b6028c3202fb315276a4d9796a899bb96de4ea7f2fcd7616
+	NAME Soul
+	IP 108.44.42.201
+	STAT first:28258376 last:28258376 minconn:25 minact:25 frags:63 deaths:78 tks:4 damage:8769 ff:537
+
+PUBKEY 72625818530d7bc7a6f84f44359849316ab6bc3a4792cd52e44e74663853a617
+	NAME unarmed
+	IP 196.190.62.240
+	STAT first:28253637 last:28253637 minconn:1 minact:1
+
+PUBKEY 733ee9161cbb501e63ae1e6f70f194a48488a5afc5deb82796a77ce8526d2057
+	NAME dth SCP173
+	IP 66.131.188.9
+	STAT first:28179346 last:28254402 minconn:215 minact:205 flags:23 frags:345 deaths:415 tks:3 suicides:3 damage:32353 ff:591
+
+PUBKEY 787217be7a95f6226b54fdca1dc39290bff865ae3605cc7c90669cc293998e75
+	NAME Dain|ZZazd Dain|ZZ
+	IP 159.196.169.50
+	STAT first:28188027 last:28270373 minconn:245 minact:241 flags:45 frags:1067 deaths:644 tks:13 suicides:1 damage:136425 ff:2562
+
+PUBKEY 799a9e3217379f45ccc470927c0f79576b8eba034a9a1f8bfe8df78bf65fd6ec
+	NAME AimForTheAnus [SS]HitIer
+	IP 202.153.214.190
+	STAT first:28181740 last:28190962 minconn:127 minact:126 flags:14 frags:333 deaths:341 tks:4 suicides:3 damage:36317 ff:762
+
+PUBKEY 7b66f7ca23e876fab39f4c0db0bbe04c854155ddcf617aa3abeb1f4f132e865c
+	NAME JoharDudaev
+	IP 188.163.80.76
+	STAT first:28215011 last:28215035 minconn:65 minact:63 flags:2 frags:29 deaths:115 tks:1 damage:7320 ff:82
+
+PUBKEY 7b92af4c6338c5c0656a88dfbcfadb3f673152365f2877bd045fdb0f60f96722
+	NAME FFSE
+	IP 179.25.18.173 179.25.200.61 179.25.196.126
+	STAT first:28192283 last:28254370 minconn:73 minact:69 flags:12 frags:136 deaths:161 tks:4 damage:19562 ff:678
+
+PUBKEY 7ee6d766c16395bdcb1a5d8dd0034a87388b5376c2c07030c2272eabc963735c
+	NAME luyonii
+	IP 187.101.0.62
+	STAT first:28238767 last:28238767 minconn:6 minact:6 frags:1 deaths:4 damage:269
+
+PUBKEY 7e122456b175144c443a33f5b6d3d35ecdc3d3104271f9b6a9623fa052c6e356
+	NAME Tatakae
+	IP 190.176.19.207 190.176.61.172
+	STAT first:28226710 last:28233526 minconn:39 minact:38 flags:6 frags:55 deaths:87 suicides:1 damage:8313 ff:197
+
+PUBKEY 88b65a165505f2288c0b1773094ca063bf50c29402082e6ffab131a1f9243c05
+	NAME escobar
+	IP 190.148.128.202
+	STAT first:28188060 last:28188068 minconn:5 minact:5 frags:1 deaths:15 tks:7 damage:296 ff:879
+
+PUBKEY 8d22ca57084fe5a0533aa8fe42f0e7158b8b422642254ecc638ed2e60a674e04
+	NAME BOLSONARO
+	IP 138.97.187.162
+	STAT first:28215613 last:28215613 minconn:18 minact:17 flags:2 frags:74 deaths:38 tks:3 damage:10697 ff:718
+
+PUBKEY 8daad7ffc1ed377879308614cef04c124df9955dc7e1166d523e83f9afd85e5c
+	NAME unarmed *S|AT-00 Wy6!jogador01
+	IP 189.105.231.253
+	STAT first:28176732 last:28188356 minconn:39 minact:21 frags:56 deaths:57 tks:1 suicides:1 damage:7202 ff:225
+
+PUBKEY 8ece5e3e4c92f6369fe9d45a44b18ffc2743292977389eef6ce0001ac0651b10
+	NAME hi
+	IP 122.42.250.157
+	STAT first:28209911 last:28211800 minconn:14 minact:13 frags:4 deaths:2 damage:1692 ff:44
+
+PUBKEY 901640280b2ef7df5d21a76b69278820bfb9174fcb569bb1374b93ec299249b5
+	NAME Manhunt cyberjunk Painkiller)*
+	IP 84.25.135.115
+	STAT first:28179334 last:28269418 minconn:202 minact:196 flags:18 antiflags:1 frags:501 deaths:548 tks:21 damage:74303 ff:3259
+
+PUBKEY 90126cb05e1e29ed767c895b51cc9ab14bb58b0f0e75775706e639e8cc371dd1
+	NAME MccThiccens
+	IP 68.96.107.144
+	STAT first:28176751 last:28176751
+
+PUBKEY 91a2134094fcc429d3711af8a9f8a972a7009bcad99efb461bf49f617bf044bb
+	NAME Nonameadsf
+	IP 112.135.66.9
+	STAT first:28263579 last:28263579
+
+PUBKEY 91ba58e30f50bfb8e9618925b9ac39a5fa8b87856edbe8d7701ab1fbc5a0cae8
+	NAME unarmed
+	IP 45.172.34.7
+	STAT first:28244175 last:28244175 minconn:1 minact:1 flags:4 frags:1 damage:120
+
+PUBKEY 956edc8af91c846021fb69a8c7bd954ecaf5cb76f47dd71ad1e0c58e1bc6ea17
+	NAME ToadBoat ToadBoate
+	IP 69.178.117.252
+	STAT first:28210266 last:28214009 minconn:4 minact:4 frags:7 deaths:7 suicides:2 damage:1057 ff:145
+
+PUBKEY 95168ecc4a32e07527304a70906ccc482889f4a5cb60497c0569ea0ef452bf55
+	NAME FFFFFFFFFFFFFFF
+	IP 81.10.4.151
+	STAT first:28179181 last:28190507 minconn:16 minact:16 frags:49 deaths:49 tks:1 damage:6260 ff:32
+
+PUBKEY 9bfa46e7ad21357499733846a91497924010aa2eb12d05ad2da960b27d50cacc
+	NAME 5lawek zelter ZZFFBBGG
+	IP 87.207.53.204
+	STAT first:28176787 last:28252180 minconn:13 minact:4 flags:1 frags:7 deaths:8 damage:926
+
+PUBKEY 9cd2e5b7bbe8c19c3aaf8ad299d4deb5751ad9dff30042de2debbde4e11e9f30
+	NAME Friend_0f_P
+	IP 162.156.76.148 162.156.135.157
+	STAT first:28179300 last:28258695 minconn:364 minact:360 flags:25 frags:522 deaths:829 tks:7 suicides:5 damage:77464 ff:1308
+
+PUBKEY 9ebe961117c28e0bf40971d555a85854f30d1a071c7e423e588f7e122e77b20d
+	NAME devil
+	IP 223.178.210.248
+	STAT first:28270633 last:28270633 minconn:39 minact:39 frags:43 deaths:98 tks:3 damage:7102 ff:725
+
+PUBKEY 9f8ab40276692944e3052001b33e960f3410a0b155cec92e28549669b1472f2f
+	NAME jngfbfdd
+	IP 133.106.177.169
+	STAT first:28267540 last:28267542 minconn:5 minact:2 deaths:4 ff:70
+
+PUBKEY 9f2e5462b25f23626b1101ace402a28be3aae141e6a0c622c80bae746a07117e
+	NAME zx81
+	IP 79.101.169.86
+	STAT first:28207708 last:28207710 minconn:9 minact:6 frags:23 deaths:17 damage:1886
+
+PUBKEY 9f1ed887002f46c3abd5a293999a10a5f2b6002129f3b3e92394c403abc7843e
+	NAME wolfman
+	IP 84.64.37.139 81.79.160.189
+	STAT first:28190549 last:28270660 minconn:16 minact:16 frags:13 deaths:28 damage:1581
+
+PUBKEY 9f06f0e038170ac97c511b9948b5cd043b22eb968bee9eb3dd977297a7aeda70
+	NAME hotshot
+	IP 167.100.12.44
+	STAT first:28179403 last:28258462 minconn:125 minact:124 flags:2 frags:128 deaths:240 tks:2 suicides:3 damage:18703 ff:764
+
+PUBKEY a276582c6582e47dd9d2b73f619ef92ce072a131012a935be421e2932cdb2833
+	NAME unarmed blloop
+	IP 63.229.17.161
+	STAT first:28186938 last:28188190 minconn:92 minact:92 flags:2 frags:193 deaths:195 tks:10 suicides:2 damage:25091 ff:1714
+
+PUBKEY a262b31e5cbaf5cc74340cfaf2500cdf4a4411672bc8ca95b5904276d6c6e345
+	NAME Wy6!Noobicus
+	IP 70.59.195.131 174.24.101.29
+	STAT first:28179523 last:28258526 minconn:29 minact:28 flags:3 frags:47 deaths:64 damage:6603 ff:167
+
+PUBKEY a43a17517daaef576411719d02a229d0ce280c0ead7303bc73072b9d1597be7d
+	NAME Rina
+	IP 187.63.220.132
+	STAT first:28258488 last:28258488 minconn:2 minact:2 frags:1 deaths:3 tks:1 damage:308 ff:18
+
+PUBKEY a4fedb6ac2a313eb48d924a73b5f1488cc164867b4f96d8299ce66ee855707e0
+	NAME bobukls
+	IP 181.87.105.90
+	STAT first:28188666 last:28188666
+
+PUBKEY a72abad4968b5e34c217ce044eb764567b2fb666619542e0584a6bf44de27e6a
+	NAME soot
+	IP 179.6.199.177
+	STAT first:28179530 last:28179538 minconn:29 minact:29 flags:1 frags:93 deaths:66 tks:1 damage:10601 ff:468
+
+PUBKEY a84e51098ebb04f1ce11efb0ecca185258e62ad9bf4c7006c36c8bae2bfb4f5e
+	NAME LORD
+	IP 112.134.241.68
+	STAT first:28211674 last:28211688 minconn:131 minact:131 flags:34 frags:274 deaths:441 tks:9 damage:43501 ff:1477
+
+PUBKEY acbe1fb5a9e1d64359a4ef7ceb3802a024d48c36b1726e8328b184d9fe725539
+	NAME T-m4c*!Wy6
+	IP 77.4.111.134 95.117.27.140
+	STAT first:28211799 last:28233513 minconn:4 minact:4 frags:20 deaths:18 damage:2676
+
+PUBKEY ae1e5d85076f062bf6ad11f492e6d968c42bf6b9889af60c0878d1523d71f40e
+	NAME unarmed
+	IP 179.37.229.12
+	STAT first:28268324 last:28268324 minconn:5 minact:4 frags:12 deaths:13 damage:1862
+
+PUBKEY af8e0652898825a33517b46f886537d0f0931523bc05121d4da1e70b0a026132
+	NAME MerdoMerdo
+	IP 176.234.88.23
+	STAT first:28237982 last:28237982 minconn:17 minact:16 flags:1 frags:4 deaths:12 damage:1308
+
+PUBKEY b17e9a72a0b1dbebf8600166dec669bbebb2271b370f8d713aaedd27cb005a2c
+	NAME ILP Lakshan ILP12 noname
+	IP 112.135.71.249 112.135.68.164 112.135.78.13 112.135.66.175
+	STAT first:28200382 last:28238656 minconn:58 minact:57 flags:11 antiflags:1 frags:102 deaths:109 tks:2 suicides:1 damage:20772 ff:504
+
+PUBKEY b1b2ff71c3392646798e25a7e78a6c9051639470fdce39078d01b86d6f7f73f1
+	NAME 5BEC-PVH-RO 5BEC ninguem
+	IP 189.11.244.216 200.219.66.18
+	STAT first:28179466 last:28201930 minconn:42 minact:41 flags:6 frags:53 deaths:100 tks:12 damage:7524 ff:1239
+
+PUBKEY b3aa1b8a64c98d3247a46d2247b2101296bae76aa5269d1798535be6464d4719
+	NAME DAEMON
+	IP 172.59.153.226
+	STAT first:28190999 last:28192294 minconn:60 minact:59 flags:1 frags:61 deaths:133 tks:3 suicides:1 damage:9084 ff:707
+
+PUBKEY b32af5689e6224ad01af08dfeb2f0b27c2f9b7ae5d3737069febf716ddae463e
+	NAME tyou tyo *happycat SlowPoke
+	IP 187.184.98.126 187.184.96.99
+	STAT first:28179322 last:28221153 minconn:102 minact:101 flags:8 frags:225 deaths:235 tks:1 suicides:4 damage:36261 ff:629
+
+PUBKEY b492282ef6e8fb54a0acaf913d1e3f14f53db77c31d9db466d6f8af11d37683a
+	NAME Raim
+	IP 122.164.85.185
+	STAT first:28230754 last:28230754 minconn:3 minact:3 frags:9 deaths:4 damage:738
+
+PUBKEY b5de39b7aa4f82fc761d2329d37b1172e188f3871f445e5dde9248f3b9adcd6c
+	NAME unarmed
+	IP 103.166.29.117
+	STAT first:28225834 last:28225834 minconn:1 minact:1 deaths:3 damage:22
+
+PUBKEY b7a26b540774edf93911649ea9785d031716edc90deed815e156edec72706a3c
+	NAME Ice58225
+	IP 24.17.43.160
+	STAT first:28178083 last:28188190 minconn:145 minact:130 flags:12 frags:314 deaths:333 tks:10 suicides:1 damage:46074 ff:1973
+
+PUBKEY b82e584404e69c22add7c65c30e81ca94a2645f10c6f454378cc7d6c88933628
+	NAME www
+	IP 154.182.104.114
+	STAT first:28215724 last:28215724
+
+PUBKEY ba223353dce23e992df255e3da16b1b7a7a249fd0c84c2318a113f5d6af06540
+	NAME M3G4
+	IP 70.106.223.84
+	STAT first:28179422 last:28188153 minconn:165 minact:161 flags:69 frags:596 deaths:349 tks:9 suicides:1 damage:67757 ff:1716
+
+PUBKEY bc62c64626014e093fe5e221e6864040ea76bb64e4730fd43a4a33af3f24e1ca
+	NAME Sisu
+	IP 84.3.158.193
+	STAT first:28190371 last:28190371 minconn:1
+
+PUBKEY bd8e49cbe3591370f05409b25764eadf0b146e4d49373f85ec9caf55dd9ea8ea
+	NAME Rafaelito:)
+	IP 181.46.166.249
+	STAT first:28232682 last:28232682 minconn:3 minact:3 flags:1 frags:2 deaths:10 damage:507 ff:16
+
+PUBKEY c262ee558662934a61a809eb3e48f633d291be7c2ab94bec660d17b570238522
+	NAME Nezuko
+	IP 94.238.144.175
+	STAT first:28230763 last:28230763 deaths:1
+
+PUBKEY c35608fa02515ffaf0cd5aa7f7d957a5a762302789e83f75d6dc382cd2e3773a
+	NAME Animal
+	IP 24.91.9.177
+	STAT first:28254245 last:28258524 minconn:21 minact:21 flags:3 frags:17 deaths:41 damage:3728 ff:16
+
+PUBKEY c302a33c8ced58fcd7214bb3611b5044ecfcc92f525584e49a0cc2bddcc35b51
+	NAME Hobbit
+	IP 45.11.114.112
+	STAT first:28211655 last:28211736 minconn:56 minact:56 flags:12 frags:147 deaths:173 tks:4 damage:19058 ff:1038
+
+PUBKEY c3862d6b7c2acae90887afc0d1cc8e461f4ff277f7cbf43ab6cc0a07d5255a1b
+	NAME BIGCACABALL
+	IP 35.149.27.147
+	STAT first:28192669 last:28192669 minconn:2 minact:2 deaths:1 suicides:1 damage:158
+
+PUBKEY c316d12bfb336557834c7304417783d0edcb43059ade62b1ceb39273c9d84695
+	NAME KillerFrog
+	IP 186.156.94.217
+	STAT first:28179453 last:28258668 minconn:152 minact:150 flags:17 frags:224 deaths:346 tks:7 damage:28660 ff:1085
+
+PUBKEY c52efb8cfc9a5e130ec313665432907451342a95e7361e76bdd64241d4f42456
+	NAME roger
+	IP 189.62.143.68
+	STAT first:28190581 last:28190581 minconn:2 minact:2
+
+PUBKEY c58e70834d2412fe82339fd05017a9a1ca21d7f48f6f7efe45994d6a48728202
+	NAME crash
+	IP 186.54.161.73 167.56.51.173 186.55.161.176 186.48.129.73
+	STAT first:28181811 last:28230772 minconn:62 minact:60 flags:15 frags:174 deaths:95 tks:1 damage:23664 ff:178
+
+PUBKEY c63a38acb0442a000013da3187a40cec1089374cacd38dad4df09052b5d8ec1b
+	NAME Ax
+	IP 5.130.156.146
+	STAT first:28228842 last:28267524 minconn:20 minact:20 flags:8 frags:63 deaths:36 tks:4 damage:7326 ff:426
+
+PUBKEY c6da18895d0b5b01dfb18b0eb8760377c30df0f41ce2fa4db0fd75ad8335434c
+	NAME wioenena
+	IP 213.186.151.61
+	STAT first:28212517 last:28212517 minconn:1 minact:1 frags:2 deaths:1 damage:220
+
+PUBKEY c73a19a9639d0cd4bf3decbbf67bbd58356e0c4600abcabc48b7b3f93bf8b478
+	NAME pexe_
+	IP 190.123.193.184
+	STAT first:28255672 last:28255672
+
+PUBKEY c9ee5384bc87b07468db8e5892bd421c366c7d210b9bef323b35ef40e4837ee1
+	NAME unarmed
+	IP 84.139.25.92
+	STAT first:28211701 last:28211701 minconn:1 minact:1 flags:2 deaths:1 tks:1 damage:66 ff:22
+
+PUBKEY c91694ee848fb677d96ec45b18e74643583592d43572c9d6e4580a5d28510d1b
+	NAME VINIZIN
+	IP 187.84.32.188
+	STAT first:28207687 last:28207687 minconn:3 minact:3 frags:4 tks:2 damage:328 ff:164
+
+PUBKEY ca36c0e6a80f19162d99e73228211f1255389236a897012fa1aee201c77cf1fa
+	NAME #EZRP
+	IP 118.87.214.183
+	STAT first:28181755 last:28211688 minconn:12 minact:12 flags:2 frags:6 deaths:21 tks:1 damage:960 ff:200
+
+PUBKEY ccc6a013e4274b6f86bf8a4808dae048b4b57b7f205c581617fbb963a7fb8411
+	NAME Bob
+	IP 75.80.106.43
+	STAT first:28270459 last:28270459 minconn:2 minact:2 frags:5 deaths:4 damage:764
+
+PUBKEY cc821cb1532404945366caf25c08261c546f2c9842db9705df95cd943a5ee941
+	NAME Death
+	IP 67.242.185.198
+	STAT first:28241217 last:28254301 minconn:26 minact:26 flags:3 frags:63 deaths:47 damage:7135
+
+PUBKEY ccdecaf1129c62e4c0a7ecf4455583c1175ad5d364dcbdf7d5a31e611ab64003
+	NAME JK|2 Duckman
+	IP 90.218.70.219
+	STAT first:28200392 last:28233535 minconn:47 minact:46 flags:11 frags:90 deaths:92 suicides:1 damage:12946 ff:201
+
+PUBKEY cd264571ac36e81073f8f98226e7789bd412a56c5984a0185d2134dadf7ee492
+	NAME Skyops
+	IP 91.175.18.43
+	STAT first:28190523 last:28221155 minconn:6 minact:6 flags:2 frags:15 deaths:21 tks:2 suicides:1 damage:2344 ff:298
+
+PUBKEY cd3ef01a71c8419fd71a20c72d59d3eca61ac40fb960afefec66895cfad10ca0
+	NAME Montecristo
+	IP 83.83.123.69
+	STAT first:28183324 last:28200635
+
+PUBKEY ce9ed3886b60e8d5d6ec55e072dcd96807e63aafdb981dd1e009a353bb784766
+	NAME Hester
+	IP 94.30.89.246
+	STAT first:28254237 last:28254237 minconn:1 minact:1 deaths:2 damage:164 ff:82
+
+PUBKEY cf5af7fa79bca5f8faa8cf3997b0de40b9e7374e5f0779158b72c59b26cf9262
+	NAME |IDG|buga
+	IP 187.120.26.19 187.120.29.92 187.120.29.160
+	STAT first:28179389 last:28190882 minconn:39 minact:37 flags:12 frags:164 deaths:48 tks:2 suicides:3 damage:18961 ff:303
+
+PUBKEY d1d2ca8d99dfafa5060749367f9ac7ed11b6585d29fced09557392b6f633d48b
+	NAME unarmed
+	IP 37.8.163.200
+	STAT first:28266877 last:28266877 minconn:5 minact:5 flags:1 deaths:1 suicides:1 ff:108
+
+PUBKEY d2b2d514521cd4845760beecd60e0a155ce6124e48f79227beb8220d7d659282
+	NAME AliBaba-KOB AliBaba-KOB.ru!
+	IP 100.2.209.6
+	STAT first:28181768 last:28258733 minconn:132 minact:130 flags:37 frags:314 deaths:243 tks:17 damage:43780 ff:1698
+
+PUBKEY d32e4394ef5a23d7a8f3766a312e1608397fe3ca3fdd14f844d35901d9e78f75
+	NAME an_idiot
+	IP 157.46.109.95
+	STAT first:28211758 last:28211766 minconn:6 minact:6 frags:14 deaths:13 tks:1 damage:1954 ff:78
+
+PUBKEY d5a260a843842efde29b6774b9a22672abe91332750035e13723fe11f5ede914
+	NAME mm38dias
+	IP 191.255.75.166
+	STAT first:28226720 last:28226720 minconn:1 minact:1
+
+PUBKEY d69ee4abfbc711f002a04b12e6e24df8cc38cbcc6c003086e5f764a912d26ade
+	NAME Talanos
+	IP 181.176.209.242
+	STAT first:28192375 last:28192380 minconn:17 minact:16 flags:4 frags:6 deaths:13 tks:1 suicides:1 damage:1345 ff:329
+
+PUBKEY d6be634dfc098e1cbfa29ed9e40f4657c6e4bf7e3abaf7274d5f2da586072fe1
+	NAME MccSucculent MccThiccens
+	IP 68.96.107.144
+	STAT first:28176764 last:28182087 minconn:294 minact:191 flags:15 antiflags:1 frags:381 deaths:387 tks:14 suicides:28 damage:49830 ff:1685
+
+PUBKEY d6a2398763ba82260b75a0a51700b6c16654001ac827bb78fab9a810167013d9
+	NAME YOKIMOI160
+	IP 177.236.4.191 177.236.11.148
+	STAT first:28178048 last:28205183
+
+PUBKEY d9b60fdc591e3e596e967c006cd7129d9df1df0bf1ce6d2ae5b795e3bc135ecc
+	NAME Thomas-Anderson
+	IP 176.137.110.53
+	STAT first:28215012 last:28215017 minconn:5 minact:5 flags:4 frags:15 deaths:8 damage:2112
+
+PUBKEY dc967679aae2ece03425f7924ed082beab62828df689d9522bf3d3454fd85378
+	NAME H3X|ZZ
+	IP 197.225.64.185
+	STAT first:28270665 last:28270665 minconn:7 minact:6 flags:3 frags:18 deaths:12 damage:2128 ff:50
+
+PUBKEY dceae92a3ad3a005a3c96972aa7f32f25b98965891a32b6fe9221ca47b79f379
+	NAME KAGE
+	IP 102.176.65.180
+	STAT first:28179532 last:28179532 minconn:3 minact:3 deaths:7 tks:1 damage:59 ff:66
+
+PUBKEY de321a9d9842aaf18fdf5e26e3b1b2a9cf947923e68e7640747fe9517912dced
+	NAME HyperV
+	IP 45.162.100.2
+	STAT first:28215578 last:28215600 minconn:52 minact:52 flags:3 frags:113 deaths:149 tks:2 suicides:3 damage:18440 ff:398
+
+PUBKEY de1eab5c535cf71ea85da64477723007015e96a72189daa6eaf3aaf640b63949
+	NAME Santiago
+	IP 47.53.189.141
+	STAT first:28190524 last:28211757 minconn:36 minact:35 frags:102 deaths:97 tks:4 suicides:1 damage:12747 ff:644
+
+PUBKEY df56a4b6a4fc59d09829d3f7043db0c9369a6d85f6900e05d0c0e2b869939dae
+	NAME Helbra-Clanless
+	IP 79.203.7.121 79.203.8.118 84.188.115.55 79.203.10.72
+	STAT first:28184430 last:28253706 minconn:18 minact:16 flags:9 frags:18 deaths:25 damage:2760 ff:22
+
+PUBKEY e0de9dab04df89c4acacfb627dc8110c88e39257a6bde94fc45647327eaa003e
+	NAME londonlamb
+	IP 35.146.206.151
+	STAT first:28244175 last:28244175 minconn:2 minact:2 deaths:1 damage:22
+
+PUBKEY e132b49eced0fede14f0fba6544c93626f16e082221b68d457bc8e8c4bb0d946
+	NAME s. sEx. sExYgUy.
+	IP 190.30.122.148 181.91.162.35 181.91.160.44 190.138.182.142
+	STAT first:28191057 last:28241637 minconn:35 minact:33 flags:2 frags:100 deaths:91 tks:1 suicides:2 damage:13295 ff:173
+
+PUBKEY e25e5b8c729f201164916cb03104cd539ec4b74e25074ded2b1d7497be8c08ff
+	NAME Wy6!Nightmare
+	IP 112.134.190.193 112.134.185.182 112.134.189.206 112.134.186.38
+	STAT first:28228838 last:28235747 minconn:32 minact:30 flags:7 antiflags:1 frags:80 deaths:65 suicides:3 damage:12532 ff:153
+
+PUBKEY e3ee77ac397a852e6917725e46c0e161557cedb57e359283f09987ac220fa60c
+	NAME tvremote
+	IP 171.226.79.130 116.103.90.53 116.103.89.146 1.55.71.191
+	STAT first:28177673 last:28235739 minconn:31 minact:30 flags:1 frags:52 deaths:95 tks:1 damage:7068 ff:16
+
+PUBKEY e41e4c487f208b33640cf529b1e26add5765fe4c2a0ed8716e3cc1367ca82244
+	NAME Robot2D21
+	IP 116.206.40.95
+	STAT first:28188355 last:28188355
+
+PUBKEY e60263c6df2b104e72ecfecaacf28c9ef825a9e424a069779ac00193357b0c36
+	NAME coonass73
+	IP 199.68.59.241
+	STAT first:28230499 last:28270106 minconn:205 minact:190 frags:7 deaths:70 damage:1364 ff:88
+
+PUBKEY ea7ad88831321121f571479754b04a21bd4ae293f8d6fce917c98a6453bd2d2d
+	NAME nd
+	IP 45.191.117.246 45.191.118.89
+	STAT first:28230764 last:28254309 minconn:38 minact:36 flags:7 frags:145 deaths:52 suicides:2 damage:21933 ff:17
+
+PUBKEY eacebd6e9d5345a929cef196286700202b84cb2537a11ab99b9350248524437d
+	NAME doodooman
+	IP 129.22.21.196
+	STAT first:28229610 last:28229630 minconn:1 minact:1
+
+PUBKEY ea1265d1aa593ed6b32da114741feb51bb14a3448234c765a91ee4cf01a96fa9
+	NAME WhiteCatBones PhoSea~ i'm_Noooooooob Demon
+	IP 132.154.63.185 223.181.106.223 132.154.39.236 106.211.4.231
+	STAT first:28176823 last:28247220 minconn:304 minact:257 flags:34 frags:347 deaths:536 tks:11 suicides:19 damage:58059 ff:3093
+
+PUBKEY eb0e62161d3e5e19c900fc56427ebba98e4bdf42632972953ed50446fc5c9f27
+	NAME EmperorX
+	IP 68.151.224.100
+	STAT first:28254352 last:28254400 minconn:19 minact:19 flags:7 frags:26 deaths:39 damage:3975 ff:48
+
+PUBKEY ec62c8f0fd08e7a8d3918c094ece9f5f46a61e8c70b0cf310ed640cf24e096db
+	NAME Wy6!jogador01
+	IP 189.105.231.94
+	STAT first:28258381 last:28258381 minconn:8 minact:8 flags:1 frags:32 deaths:29 damage:4797
+
+PUBKEY ef2e64a24954de640cb897acbe7ca690a948cfcf6ef2e7f25da8ba90ec9d71d9
+	NAME NERFSmArT
+	IP 193.28.84.122
+	STAT first:28237982 last:28237982 frags:1 deaths:2 damage:229
+
+PUBKEY f17ea9dc9a76549c414aa1f8dbf565d3129d9058991ea04cd4b461717aa030d4
+	NAME unarmed
+	IP 95.250.117.40
+	STAT first:28228150 last:28228157 minconn:1
+
+PUBKEY f11e2ddbf0ce0e149a4768345d1cdd6153b5c3d65b88d3128f7677abe86721e0
+	NAME TomTom
+	IP 62.98.114.165 151.73.131.7
+	STAT first:28201924 last:28226744 minconn:2 minact:1 frags:2 deaths:4 damage:524
+
+PUBKEY f246dbebe323a9fa17478d267b7e6161ce1b4a0e1cd520774d95aefe8a6da2eb
+	NAME MasterItSLAM
+	IP 37.175.239.158 37.175.225.142 37.175.238.126 37.175.226.118
+	STAT first:28201901 last:28270616 minconn:36 minact:36 flags:9 frags:66 deaths:122 tks:4 damage:9122 ff:717
+
+PUBKEY f3cee27065d67a51ec2ba0bb149b64d0e361df47d2d2a64e05b37be706caa41c
+	NAME x69CHEXT
+	IP 1.4.193.58
+	STAT first:28206875 last:28206875 minconn:3 minact:3 flags:7
+
+PUBKEY f382b9ea73c8219a88420115dbc848d16bfa50da973e8590de5bd1236115088c
+	NAME Omega EmberDancer ZZ|Infinity FrostWarden
+	IP 185.70.172.83
+	STAT first:28190528 last:28242280 minconn:130 minact:85 flags:18 frags:306 deaths:171 tks:3 damage:35219 ff:470
+
+PUBKEY f4fef8c7a9be3469fdb5d5058bff0d4f39e9966e52fa23342f6bf79702334d74
+	NAME Nealio
+	IP 76.37.166.1
+	STAT first:28258377 last:28258377 minconn:25 minact:24 frags:55 deaths:82 tks:2 damage:7912 ff:198
+
+PUBKEY f45a1ead4a2d11da1df287de88fae6e0d1eced18170832b5413099f5ab47087d
+	NAME memati polatalemdar SNPER
+	IP 88.230.143.50 88.230.141.19 88.230.140.120 88.230.132.209
+	STAT first:28179175 last:28239597 minconn:97 minact:92 flags:1 frags:153 deaths:176 tks:5 suicides:2 damage:21272 ff:738
+
+PUBKEY f576f0053920944eba4317cbbecafea7ddd606dd327b4dd98efe1650c20a56e5
+	NAME Anons
+	IP 38.68.160.148
+	STAT first:28248711 last:28248711 deaths:1 suicides:1 damage:102
+
+PUBKEY f6c657388f6a3234b5d7058c955d7b8be13a620482fbec4d17a789321df07c57
+	NAME unarmed
+	IP 189.138.141.165
+	STAT first:28192299 last:28192303 minconn:9 minact:9 frags:5 deaths:17 tks:5 damage:574 ff:432
+
+PUBKEY f8b289bbe82c447baf12662c6ddff282e913a6fe5cecb798b03a5d643dc1de56
+	NAME tenga0218
+	IP 174.204.67.222 76.178.191.155
+	STAT first:28186925 last:28211008 minconn:11 minact:11 frags:1 deaths:11 suicides:1 damage:323 ff:22
+
+PUBKEY f8524314b86c5510cc6e2095af33ab7738f65865537f57a928cef3dc6d6733fd
+	NAME sicness
+	IP 201.121.242.59
+	STAT first:28179418 last:28179422 minconn:41 minact:41 flags:5 frags:40 deaths:85 tks:5 damage:6138 ff:979
+
+PUBKEY f8de5b3db33c732c2b885b22ad92931dc5d11f408fd67ed367948b19e434f5cc
+	NAME Lamb_of_God
+	IP 24.13.23.40
+	STAT first:28178100 last:28238163 minconn:122 minact:121 flags:8 frags:314 deaths:367 tks:1 suicides:3 damage:50975 ff:613
+
+PUBKEY fa967354e81aa9cd270966f8262d7e217745a4191ac90e4465cd8e0a9a2bdeff
+	NAME SnowDonut SnowDonut15
+	IP 45.27.130.166
+	STAT first:28209864 last:28209864 minconn:24 minact:24 frags:32 deaths:72 damage:3166
+
+PUBKEY fc724c666b5872525d41a8ed87f1794f832fe60ead41f9db251dad95b17917e0
+	NAME Dizzy
+	IP 74.137.211.101
+	STAT first:28201886 last:28229994 minconn:24 minact:23 flags:3 frags:91 deaths:89 damage:10860
+
+PUBKEY fdb26e6724ca06dba5310049fafdee3cb47b0a7b89e0bbec32360f2b509c9d55
+	NAME zmw
+	IP 36.249.246.238
+	STAT first:28241582 last:28241605 minconn:22 minact:21 flags:3 frags:20 deaths:63 damage:3687 ff:614
+
+PUBKEY fff67c62302b851429f25d363ac3c3f6e56a56089ff7b7feffe7646655eb224e
+	NAME Microsoft_$ucks
+	IP 47.148.193.80
+	STAT first:28224375 last:28250227 minconn:65 minact:65 flags:7 frags:180 deaths:253 suicides:6 damage:28334
+
+PUBKEY fff23298b673a9e9cd115284436c393272d5759b7d79e4ed4affb67482044219
+	NAME Outux
+	IP 179.63.132.248
+	STAT first:28195982 last:28195982 minconn:1 minact:1
+
+PUBKEY 007755fc24d63cbadafeb00973c673296caad24fcafe26a353a7219b1d3c014a
+	NAME recap.exe .exe Argento.exe pola.exe
+	IP 45.238.182.46
+	STAT first:28254411 last:28254411 minconn:9 minact:6 flags:1 frags:11 deaths:13 tks:1 damage:1289 ff:85
+
+PUBKEY 01b34e5d74367e22fdd3c5db8ebb636f17d7b95309e60b9d2c99732c94d0c133
+	NAME jaboteca
+	IP 179.176.188.90 177.204.145.135 187.113.227.173 179.185.246.25
+	STAT first:28188117 last:28206839 minconn:43 minact:42 frags:6 deaths:81 tks:3 suicides:1 damage:1709 ff:278
+
+PUBKEY 09431d8b3f8fc1e7bd3b3851d509a84faa9f8835100a7d319a42f740a999b5a3
+	NAME unarmed
+	IP 184.153.244.143
+	STAT first:28186941 last:28186957 minconn:9 minact:8 frags:1 deaths:9 tks:1 damage:198 ff:198
+
+PUBKEY 0a33c7916a2eb094cd10cab504b121d39fd8001ae479b25a58bd2448417161a7
+	NAME M1racl
+	IP 99.162.0.54
+	STAT first:28197465 last:28197465 minconn:1 minact:1
+
+PUBKEY 0bff702f58243b00d93c28a6e5a2950f0751c4c26da6d61fb2639422e5a4bddf
+	NAME Roger
+	IP 88.23.75.69
+	STAT first:28216590 last:28216590 minconn:4 minact:4 frags:1 deaths:1 damage:192
+
+PUBKEY 0b2f594ed44594be70d08a521fce22ab496b32f3212daad59a68fcd1674c5571
+	NAME Atrimos
+	IP 181.233.160.23 190.73.203.214 190.73.80.200 190.73.164.41
+	STAT first:28179382 last:28258494 minconn:205 minact:203 flags:54 frags:704 deaths:544 tks:15 suicides:5 damage:82307 ff:2890
+
+PUBKEY 0d5f1c7149d495cbab274e2b1ddd41a20484fbc50e9982d8eb7c9df5d95d236f
+	NAME PotatoButter
+	IP 45.51.59.2
+	STAT first:28202727 last:28203892 minconn:34 minact:33 frags:53 deaths:95 tks:1 suicides:2 damage:7348 ff:145
+
+PUBKEY 0d5b1950dc25515b7772c5b1603cce1a08dec605b0fea3a4bd37979aa79011b5
+	NAME ookla BAKKON
+	IP 200.66.124.15 200.66.126.46
+	STAT first:28190877 last:28226741 minconn:21 minact:21 flags:1 frags:51 deaths:61 tks:2 suicides:2 damage:6856 ff:146
+
+PUBKEY 10f75af36866f4a7b36e066b094960659050a38e02453da208ac9b6a9dc8498f
+	NAME Goku
+	IP 49.36.214.234
+	STAT first:28270662 last:28270662 minconn:9 minact:9 frags:22 deaths:28 tks:2 damage:2860 ff:190
+
+PUBKEY 113b3d98b630001d0e5654f642bd5119fe669fd52814cf0e055a96024c19856b
+	NAME Sherminator
+	IP 195.22.43.210
+	STAT first:28227865 last:28227865 minconn:4 minact:4 frags:5 deaths:7 damage:781
+
+PUBKEY 131ff2097d4c6517aafe6daf7cec5d4417a361add89ab964a0c4b031d7d1bc74
+	NAME diocanezzz
+	IP 151.71.225.35
+	STAT first:28230790 last:28230790 minconn:1 minact:1 deaths:2 ff:66
+
+PUBKEY 190b067d93455205a49d65833fe1349de38b521424e083436abe4a1911aefafc
+	NAME unarmed
+	IP 88.230.169.34
+	STAT first:28181759 last:28181759 minconn:1
+
+PUBKEY 1bc70cf086792f7d93bf6f88dace6eff8bd314202a338987af72ce269c146599
+	NAME Wy6!meanduck
+	IP 49.204.161.235 49.204.163.169 49.204.162.77
+	STAT first:28207688 last:28241622 minconn:21 minact:20 frags:64 deaths:79 damage:7819 ff:27
+
+PUBKEY 1b43cdc6426bfffd08560926987e5c4f01153f5bd387412273642f6eb6629efc
+	NAME manuchoo29
+	IP 181.94.234.25
+	STAT first:28207662 last:28207662 minconn:1 minact:1
+
+PUBKEY 1ba3a13f3ba8b53cdcd65bf6d4dfd694f0bd33bdc702b852dcc8614cc5676a50
+	NAME unarmed shahid
+	IP 117.245.246.106 117.245.166.80
+	STAT first:28184430 last:28187298 minconn:21 minact:21 flags:10 frags:6 deaths:1 damage:802
+
+PUBKEY 1d97080efa356e6f589befeb7bd6b22d055a00dffe0188ee93c4956cab937739
+	NAME ThisIsATest
+	IP 116.250.215.163
+	STAT first:28209872 last:28254362 minconn:57 minact:56 flags:3 frags:99 deaths:146 tks:2 damage:12307 ff:103
+
+PUBKEY 23e3d7ec271a0217b251486d5822b36f7819f83b580e16be0cfb35361d246c04
+	NAME Wy6!Emoposer
+	IP 73.89.243.178
+	STAT first:28191001 last:28215603 minconn:78 minact:75 flags:18 frags:328 deaths:205 tks:2 suicides:3 damage:45136 ff:529
+
+PUBKEY 26b7f46497d141d2084700bcfcbbc1afbe5187186fd82efc83047fc5a368d3a5
+	NAME JoyStrap
+	IP 177.73.194.215
+	STAT first:28258415 last:28258595 minconn:79 minact:78 flags:18 frags:196 deaths:199 tks:1 damage:26736 ff:585
+
+PUBKEY 267348e81d23a668d9d520535b230b59aadad687eb4d30b3f3521177827d7d34
+	NAME Elpartetotona
+	IP 186.89.214.73
+	STAT first:28242637 last:28242637 minconn:22 minact:22 flags:7 frags:33 deaths:38 tks:1 suicides:1 damage:4773 ff:88
+
+PUBKEY 2a33fb97aeb2449ab047d627f2b272008fed835264e414b7a2a5691252862340
+	NAME csdcjsdcjsdncj
+	IP 109.82.167.112 213.209.148.4
+	STAT first:28217992 last:28218024 minconn:1 minact:1
+
+PUBKEY 2b2315c7f663a056ccd2036a8d0114a83814510a8e0202a7de5f627ade3464d4
+	NAME DDD
+	IP 64.251.170.89
+	STAT first:28190869 last:28190869 minconn:1 minact:1 deaths:6 damage:224
+
+PUBKEY 2dc32192b71262990c033865b25a908b21db878ae7dc528509beed161a7972cc
+	NAME Venom
+	IP 88.130.60.10 94.134.182.138
+	STAT first:28228832 last:28233515 minconn:4 minact:4 frags:18 deaths:14 tks:1 damage:1848 ff:66
+
+PUBKEY 2e07f11e2d120f481414e9e203a27636941ee701204db696b07ce2b7aa8dc548
+	NAME unarmed
+	IP 37.19.199.143
+	STAT first:28258726 last:28258730 minconn:23 minact:21 frags:21 deaths:50 tks:1 damage:4072 ff:85
+
+PUBKEY 2f0f365387460ce4039c2238518a7c3184f20a5413f6f6654ce201f7d68b39c7
+	NAME hot_gril WilfordBrimley KimKardashian
+	IP 24.43.123.72
+	STAT first:28215550 last:28260300 minconn:29 minact:28 flags:2 frags:60 deaths:66 suicides:1 damage:8784 ff:176
+
+PUBKEY 302b75b45793d6ae688a4a0060e392a2e31375825e65fb26e38ad1c86026744a
+	NAME Shredder
+	IP 177.137.215.220
+	STAT first:28190975 last:28192118 minconn:18 minact:18 frags:27 deaths:44 tks:4 damage:3881 ff:750
+
+PUBKEY 33177846ecd56e4d66a4c2e5f9e10af5d840ecb6b80493c58fd0ad36e2b07e94
+	NAME XX|DEADPOOL
+	IP 59.89.33.27
+	STAT first:28258618 last:28258618 minconn:24 minact:24 flags:3 frags:36 deaths:67 tks:1 damage:4694 ff:366
+
+PUBKEY 33cf5c7a42a31841d0c187f74abd73e7831ac75b951e5ebd82afff59a5773025
+	NAME El_Bolo
+	IP 181.130.231.137
+	STAT first:28247231 last:28258683 minconn:120 minact:119 flags:15 frags:302 deaths:354 tks:6 damage:39534 ff:1505
+
+PUBKEY 345734087145476dfc51947fd6cba427994a882e0e30f7a7eb5ceec4fb166738
+	NAME seb<
+	IP 74.126.102.52
+	STAT first:28215462 last:28215586 minconn:6 minact:2 frags:1 deaths:11 damage:497
+
+PUBKEY 3447c9f8229d4571d7277b1298d7f596323cd394f8f6cbca7adfe4459e8c6d8b
+	NAME Wy6!Halo unarmed
+	IP 50.4.136.62
+	STAT first:28179564 last:28191010 minconn:2
+
+PUBKEY 34c78e3702c114655f9c94e437d80e147bc1c0b2462c9493bd97acbb9b529ef5
+	NAME MccThiccens
+	IP 68.96.107.144
+	STAT first:28176744 last:28176744 minconn:4 minact:4 frags:11 deaths:7 damage:1198
+
+PUBKEY 374ffa2c9efbf7b23d34e6023019af7745426fc9a3d4ed08513f5b8fa44ae6f9
+	NAME -Sofiane=MyS=
+	IP 91.168.246.47
+	STAT first:28258427 last:28258427
+
+PUBKEY 377352dd6bc6a49228672aec78d3a526e8624b123cb376d0b442cb58bcf4e643
+	NAME WeylandCorp TacoStand TacoDuke
+	IP 69.8.166.245
+	STAT first:28176851 last:28190879 minconn:66 minact:61 flags:9 antiflags:1 frags:110 deaths:174 tks:3 suicides:2 damage:16605 ff:342
+
+PUBKEY 392b139c93669a5d91ba914cad2639df0f5bc364ca97fde67c0c616bc3ae9d3d
+	NAME PetraKelly
+	IP 174.206.227.0
+	STAT first:28188004 last:28188042 minconn:15 minact:15 flags:3 frags:29 deaths:36 tks:2 damage:3893 ff:352
+
+PUBKEY 3ab30ffb7af664071a3be3d20eb2c2b6f7caf10beb2be017c596f1ad757cbb96
+	NAME NostalgiaBait
+	IP 90.127.157.38
+	STAT first:28268335 last:28268335 minconn:1 minact:1 frags:2 deaths:2 damage:144 ff:16
+
+PUBKEY 3bdb765ca70311e1ce0075185e687b10654a2c1be856fceeaa120b71e2f11520
+	NAME Smookinhow
+	IP 201.175.62.242
+	STAT first:28254375 last:28254375 minconn:16 minact:16 frags:38 deaths:13 tks:1 damage:4120 ff:82
+
+PUBKEY 3b27dfd035b3497a521a83a35b45cd469d7293ac1f82a0247e536feb67e68f87
+	NAME Ajax THIRSTY_KNIFE moto
+	IP 189.217.92.86 189.217.92.246
+	STAT first:28238678 last:28267485 minconn:49 minact:48 flags:24 frags:138 deaths:113 tks:1 damage:20023 ff:195
+
+PUBKEY 3c478cbf88fe75bc4e4d0f015a979f91ef1710a0fbc29f25722c19571318cd0c
+	NAME Hybrid(PT)
+	IP 94.61.205.52
+	STAT first:28179393 last:28258526 minconn:11 minact:11 flags:2 frags:34 deaths:26 tks:2 damage:3818 ff:144
+
+PUBKEY 3d8fce64d4153701316c9fa534476241733ca507ca66ec26842717240599710a
+	NAME ^7AG^2r^7ESYWNY
+	IP 91.224.185.190
+	STAT first:28215472 last:28215472 minconn:71 minact:68 flags:7 frags:121 deaths:126 tks:2 damage:21046 ff:586
+
+PUBKEY 3ff707b3c0de358fe0821cc3d10b96fcdde7a331377f730b6c452b4334ea0b3f
+	NAME fishandchips
+	IP 45.191.7.58 45.191.7.100 45.191.7.7
+	STAT first:28209895 last:28258492 minconn:128 minact:125 flags:6 antiflags:1 frags:267 deaths:267 tks:6 suicides:3 damage:47211 ff:928
+
+PUBKEY 3f2ba7ad6ceaa7692a04d08719ccfc19de8da2707edc3cdfd609cb22e3364e12
+	NAME ZZ|Keettu
+	IP 172.7.172.128
+	STAT first:28179316 last:28258676 minconn:111 minact:105 flags:3 frags:551 deaths:405 tks:3 damage:86964 ff:408
+
+PUBKEY 40c7f7d9eb6a27139acc693f6f431fb0c649ba73278ae390b34a46a30a1472ee
+	NAME NIK AlienBlaster Las-Vegas_TOP! General_MkNelle
+	IP 109.252.164.199
+	STAT first:28184707 last:28215020 minconn:5 minact:5 deaths:2
+
+PUBKEY 4153798d6b2eb6f6a3f0fcf30d2d6dadf382c2153746a88ff2fa2acee6a067c0
+	NAME Namellews
+	IP 187.122.56.255
+	STAT first:28267505 last:28267511 minconn:18 minact:18 frags:27 deaths:40 tks:1 damage:4279 ff:248
+
+PUBKEY 4197bfe41b551b4cbf262294530a7a3d45cad8a4f0a495907e2eb5b0746a2b68
+	NAME udhup
+	IP 89.64.30.210 31.60.246.111
+	STAT first:28201886 last:28211787 minconn:20 minact:20 flags:3 frags:22 deaths:39 tks:2 damage:3416 ff:232
+
+PUBKEY 43071374153c73901a35f415cc15b693086dbe7d22c1425b8ac146a3760b30ee
+	NAME unarmed
+	IP 73.215.93.44
+	STAT first:28179466 last:28179466 deaths:1
+
+PUBKEY 441ffa9f7e72b58daa35577ea21e7e829b185c6a40279b54ae964fd74429b010
+	NAME LOVE=MyS= LuCk=MyS=
+	IP 73.47.148.97
+	STAT first:28215502 last:28258474 minconn:13
+
+PUBKEY 443fe8ed4b677b37dea3dabc1ad7630360899de2039f7ccd00510054efbaba47
+	NAME hiei .
+	IP 177.220.173.54 177.220.173.153 177.220.172.230
+	STAT first:28215474 last:28270409 minconn:27 minact:27 flags:9 frags:156 deaths:50 tks:1 damage:17884 ff:212
+
+PUBKEY 44433bec48089b9bdc273766b0013c8ac5dee010668f3397cccd4ccceee260ed
+	NAME kkkamer
+	IP 70.173.110.212
+	STAT first:28215470 last:28258734 minconn:40 minact:39 flags:5 frags:106 deaths:96 tks:1 damage:15339 ff:154
+
+PUBKEY 446f224318eb51df1213c7eccf3682e99bf1368700b7ca92ce62d090f792922f
+	NAME ZZ|madcatz
+	IP 212.42.113.145
+	STAT first:28211720 last:28211720 minconn:10 minact:9 flags:3 frags:39 deaths:21 damage:6045 ff:113
+
+PUBKEY 44cfaa01b6f92194fbac93b2f7597dc7c1bafefe14ca378a7c6f566b9c918e6b
+	NAME strelok
+	IP 95.165.25.179
+	STAT first:28186943 last:28266894 minconn:13 minact:13 flags:1 frags:28 deaths:27 tks:1 damage:4642 ff:166
+
+PUBKEY 48f317c26e16bc4fd123f4b3bf066f9d7118c4e7b4ce1c1d77c850d6753c5add
+	NAME Wy6!shad-99
+	IP 95.205.6.78
+	STAT first:28266895 last:28266895 minconn:1
+
+PUBKEY 4a5739019009ea7e657bfb532f324bc97db3e6e9b5654183d944734e7b30051f
+	NAME unarmed
+	IP 203.192.212.119
+	STAT first:28262013 last:28262013 minconn:6 minact:6
+
+PUBKEY 4a8b4eb3bc07dc95834e2d9b4309b8a6016ff261796e8f62641f7ab0e8a2c68c
+	NAME VEN*Chubby
+	IP 190.120.253.52
+	STAT first:28258433 last:28258433 minconn:33 minact:32 flags:5 frags:45 deaths:86 tks:3 damage:9271 ff:518
+
+PUBKEY 4b1b9d8d7238c0b54811cd2fce6f0e991f0751ed945490d7de07716551f1e18b
+	NAME DzhokharDudayev
+	IP 188.163.80.76
+	STAT first:28236656 last:28267550 minconn:3 minact:2 frags:3 deaths:4 damage:656
+
+PUBKEY 4dcfa60e9d8df8b15cc4cd13f9622aa1c342df7daa63951563b0b86cbe85d5f5
+	NAME unarmed
+	IP 49.204.162.77
+	STAT first:28233510 last:28233510 deaths:1
+
+PUBKEY 4d77092d3e7c61f16fb2929631cfed95a42dba9f3910ace226d75e3bf0fc9561
+	NAME Argento
+	IP 181.44.116.4 181.44.116.5
+	STAT first:28179393 last:28254408 minconn:80 minact:79 flags:12 frags:158 deaths:192 tks:9 damage:22656 ff:1405
+
+PUBKEY 4eaff659500e5f5a354f8d0199761b0dae6a05c0f21be5a8c9abeda5ac7be476
+	NAME O*KaM! O*Ainz
+	IP 41.103.137.13 105.111.221.231 41.102.162.191 41.103.118.135
+	STAT first:28190528 last:28221179 minconn:27 minact:26 flags:5 frags:91 deaths:47 suicides:1 damage:12178 ff:63
+
+PUBKEY 507bac84a1599ffc3690e38b265cd560e071d92b98581ea54edf267ef95d67f2
+	NAME Tsuno
+	IP 37.65.31.69
+	STAT first:28269203 last:28269203 minconn:1 minact:1
+
+PUBKEY 504764cfe964e37153902934d0daeb436900666cafda939552aec86d65d327c7
+	NAME ToRiToWaPo
+	IP 5.159.147.95
+	STAT first:28211731 last:28211731 minconn:19 minact:19 flags:2 frags:48 deaths:69 tks:3 damage:7317 ff:201
+
+PUBKEY 5407b173d0614d28bad7427805daf64b1f686dde8708d44c83bd56dfcac1e694
+	NAME sbcl
+	IP 93.86.208.243 178.221.116.186
+	STAT first:28189118 last:28227789
+
+PUBKEY 553fe5e0890d844f79572fb4bc1f8ecc3fa18b90504651d5bc460784c537b67f
+	NAME MFF_F52 aligator77 JacarePapaTatu
+	IP 179.100.75.132 201.42.166.230 177.27.194.32
+	STAT first:28190520 last:28237956 minconn:39 minact:38 flags:4 frags:160 deaths:103 tks:1 damage:22088 ff:580
+
+PUBKEY 55b33cdedbab1acd8c3f738b2e3e042153ae7136c540d9328af648ce4892db41
+	NAME CMPTHA-KA3HA
+	IP 178.220.219.4 178.223.46.154
+	STAT first:28181809 last:28215053 minconn:4 minact:4 frags:7 deaths:7 damage:616 ff:73
+
+PUBKEY 56efb2ba548b2e0c0e8abd97b7990a30c0696ee40291d33587a8fd312d601530
+	NAME Parabellum
+	IP 207.253.147.62
+	STAT first:28258400 last:28258538 minconn:56 minact:56 flags:24 frags:115 deaths:110 damage:16223 ff:542
+
+PUBKEY 5703b5ee285510dd35cdc91e475e6e530f1a322bdd960b4d7f5821ab764bb6cd
+	NAME AAAAA
+	IP 126.92.26.129
+	STAT first:28216926 last:28216926 minconn:2 minact:2
+
+PUBKEY 5907defe897d22c1559a6f46d2b03c6d8452182657bd9ffead5015104655eada
+	NAME Zetaliano
+	IP 186.89.214.73
+	STAT first:28242637 last:28242637 minconn:23 minact:23 flags:3 frags:16 deaths:37 tks:1 damage:2472 ff:62
+
+PUBKEY 59af06a8f6dd459a128cd4b236eb06669743148394c053990989df8c727677af
+	NAME Dani
+	IP 89.246.96.195
+	STAT first:28226817 last:28226817 minconn:1 minact:1
+
+PUBKEY 5c3b48ea10596e275575d700320f932142a454166f7f09f079b4a5016d092f19
+	NAME Artemis
+	IP 81.77.235.18
+	STAT first:28242647 last:28242647 minconn:20 minact:11 flags:1 frags:3 deaths:9 damage:690
+
+PUBKEY 5eef8e220d9f5113478926ecd81b76654197a3f8d96138850ab82ae85b44b68e
+	NAME unarmed
+	IP 180.252.243.10
+	STAT first:28238772 last:28238772 minconn:7 minact:6 flags:1 frags:1 deaths:5 damage:141
+
+PUBKEY 5e932e4fba259949617a0844b6eccfd1fc8c50e25d4797a553191e37b4a2d2cb
+	NAME unarmed
+	IP 61.19.79.94
+	STAT first:28221620 last:28221620 minconn:10 minact:10 frags:22 deaths:27 damage:3236
+
+PUBKEY 5eb7540e0b71858d5f70113f6b502cc49185fea442d35a82e8a7941e3ac83f93
+	NAME nemo
+	IP 82.130.20.156
+	STAT first:28211799 last:28211799 minconn:3 minact:3 frags:15 deaths:7 damage:1510
+
+PUBKEY 5e73db654785f0836054fb90b044069b5aa79ace0c180985c30b0ba7a553a052
+	NAME blackstar
+	IP 78.180.10.252
+	STAT first:28177090 last:28177090 minconn:11 minact:11
+
+PUBKEY 5f575c13b4037e56d7dae539eb524c36d2ad91f3d9b486940783f70f917a4bbe
+	NAME XX|SNIPERLORD XX|DEADPOOL
+	IP 117.210.160.46
+	STAT first:28270641 last:28270641 minconn:29 minact:29 flags:1 frags:55 deaths:99 tks:2 damage:7810 ff:200
+
+PUBKEY 5f93ed6919d268651120566afe3e49f87d7cb23c1520bcf4a2dd86e10309cf00
+	NAME NinjaJet
+	IP 187.84.244.234 187.84.245.195
+	STAT first:28183231 last:28232121 minconn:16 minact:15 flags:21 frags:61 deaths:23 tks:1 damage:10402 ff:296
+
+PUBKEY 644bb659904b0a4c0b6c7bc2aa2334a8b26814f003b12bbf2e036294659f3a3b
+	NAME TiAg0
+	IP 170.79.220.161
+	STAT first:28190877 last:28192297 minconn:7 minact:3 frags:14 deaths:10 damage:2552
+
+PUBKEY 6603e100254f941ae44c68b090c5863db56f1adf12fb517f2cfcd738c11f7370
+	NAME unnammmeeed
+	IP 96.28.1.22
+	STAT first:28188082 last:28211766 minconn:60 minact:59 flags:9 frags:260 deaths:128 tks:4 damage:33260 ff:509
+
+PUBKEY 67036f50e46a5b688ec9a6463a8572fe2fa93885d3a876961cac3e0a8f100785
+	NAME arthas
+	IP 182.253.87.226
+	STAT first:28215587 last:28215587 minconn:4 minact:3 frags:8 deaths:7 damage:1160
+
+PUBKEY 6a67c014f14369708b0a7ca4e625c14334aa8a91ee8d713f58325a78167f59a7
+	NAME unarmeda
+	IP 77.38.118.158
+	STAT first:28211742 last:28211742 frags:1 damage:22
+
+PUBKEY 6a3b231cce3e3ffe85101e96b3c84c05fcff5e60d0f634c92a6de5c5cec192e7
+	NAME mlp9090
+	IP 201.7.165.58
+	STAT first:28207654 last:28207654 minconn:1 minact:1
+
+PUBKEY 6affa1a813d02c46022f5bb3dbbac678a774269ebda7331a6b1d05645ea941ef
+	NAME NIKITA hawk1
+	IP 188.251.192.183
+	STAT first:28186886 last:28201903 minconn:15 minact:13 flags:1 frags:12 deaths:14 damage:1644
+
+PUBKEY 6c237548ebcc84adbb192a9a7840c638f57e0c19979ff2ec25a511428feb234c
+	NAME kakhaber
+	IP 92.51.95.194
+	STAT first:28239577 last:28239577 minconn:9 minact:8 flags:19 deaths:3 damage:44
+
+PUBKEY 6d07825036e9f5ba187058bdb45a44909db926e73e5307756296ebc2d218c18c
+	NAME RyanMcLaren8
+	IP 212.70.110.246
+	STAT first:28225851 last:28225851 minconn:8 minact:8 frags:19 deaths:37 damage:2876
+
+PUBKEY 6f1f5a762091fe086a1f6d6de34b190e12eaeff420a6d5c8748f92ef6ca5d804
+	NAME dawgg
+	IP 179.209.133.125
+	STAT first:28232664 last:28232664 minconn:2 minact:2 frags:1 damage:110
+
+PUBKEY 73ffcf0c97707af209d6e421185bb014259f513a47e74e24b2cc6631670dd0f9
+	NAME Pirate
+	IP 67.181.188.24
+	STAT first:28211280 last:28211280 minconn:41 minact:40 flags:5 frags:34 deaths:85 tks:4 damage:5614 ff:460
+
+PUBKEY 762ff72f665f92a72b87189f0536f3dd783dc885fdbfc4e15edbe519a084d91d
+	NAME Test ZZ|sMuppy ZZ|ShootMup
+	IP 98.143.186.154
+	STAT first:28187467 last:28254418 minconn:38 minact:36 flags:11 frags:140 deaths:63 suicides:1 damage:20867 ff:303
+
+PUBKEY 7ed3744c34263a5914030c9e76ae279049c80678fe111ac9f8598d403a89a55e
+	NAME nithin
+	IP 223.181.217.5
+	STAT first:28238710 last:28238710
+
+PUBKEY 838b6a3a8f9d6453ebcc00bc2b7b5d7f7c151b9a5d9319fdd44810ccd76d403a
+	NAME abhijeet
+	IP 106.211.92.66
+	STAT first:28228839 last:28228839 minconn:9 minact:9 frags:3 deaths:23 tks:1 damage:1135 ff:167
+
+PUBKEY 837f4719644df113871b32cc93ab1847503ac24f2cf80d34fe39ab8ccd7720ed
+	NAME unarmed Wy6!Nightmare
+	IP 112.134.189.163 112.134.186.190 112.134.185.83 112.134.185.229
+	STAT first:28209931 last:28221509 minconn:170 minact:169 flags:30 frags:452 deaths:550 tks:6 suicides:6 damage:70950 ff:1327
+
+PUBKEY 8393d80a4dcd9eddedb2fc01a5c3d8f57fa564ce4f0aec987fd0e2f13fcbd5d3
+	NAME Drifter
+	IP 66.131.188.9
+	STAT first:28199069 last:28199069
+
+PUBKEY 8437d6ffa49fc9a285446b5874501e5b986bf23578c055db01daacec54663b9d
+	NAME DNA
+	IP 138.186.162.112
+	STAT first:28254397 last:28254397 minconn:1 minact:1 deaths:2 damage:176
+
+PUBKEY 84336bb0ee43b1689baa9e3b5abd126232ce5588689b7d0988698aece21abd2a
+	NAME unarmed
+	IP 105.156.133.203
+	STAT first:28179619 last:28179620 minconn:2 minact:2 flags:3 frags:1 damage:110
+
+PUBKEY 854bc4331e20fb7532e0350a655ddd79386a3f53b37ac3723304224f4b4258f8
+	NAME felipe
+	IP 187.169.48.21
+	STAT first:28241601 last:28241601 minconn:1 minact:1 frags:1 deaths:5 damage:66 ff:176
+
+PUBKEY 8623974a649b418d8dd3afad993990be8d998ea28225fe2731b13867fa79ca88
+	NAME tms1003
+	IP 98.164.17.120
+	STAT first:28227260 last:28227260
+
+PUBKEY 8ff30f06e350325c6cc903464aab51a93911efa5226ed91b557a72fdb4fd2397
+	NAME mojo
+	IP 159.192.141.205
+	STAT first:28241606 last:28241606 minconn:8 minact:8 flags:1 frags:6 deaths:11 tks:3 damage:1143 ff:395
+
+PUBKEY 8f474b0c7b1c0378efa90c95e69904f4e563f98a70e4238555e63b03832e794f
+	NAME Fencer
+	IP 109.171.221.191
+	STAT first:28194894 last:28194901 minconn:11 minact:10 frags:5 deaths:14 damage:805
+
+PUBKEY 8f771c373e64f030a7c7aa8fb6e2106fd6125d7632e67a50c917426035bc4ddd
+	NAME ZZ|SeaTacMike
+	IP 73.225.79.76 67.183.192.93
+	STAT first:28186939 last:28267520 minconn:105 minact:104 flags:54 frags:243 deaths:219 damage:31908 ff:272
+
+PUBKEY 8fd716ea0b25c09454996db719716b1a09942cf25ff4d30c483e550f5372863c
+	NAME Chobbz
+	IP 92.169.231.218
+	STAT first:28179298 last:28254243 minconn:24 minact:24 frags:62 deaths:23 suicides:1 damage:6928
+
+PUBKEY 920f588aa11df165f260ac0491cb41eefd2366fbddc5f3a89ecfb5098a2e4209
+	NAME iloveu
+	IP 2.182.253.21 5.210.54.135 5.216.214.59
+	STAT first:28230771 last:28235852 minconn:25 minact:24 frags:16 deaths:52 damage:3162 ff:48
+
+PUBKEY 95fba074414468f5bd64ec14c7b21158f671c0942282fccc8d55628906e367e3
+	NAME mogus Yutoob12
+	IP 75.159.193.40
+	STAT first:28209596 last:28241590 minconn:58 minact:54 flags:7 frags:54 deaths:156 tks:3 suicides:1 damage:10838 ff:407
+
+PUBKEY 951303d0ef97ca509e4a299c74e1fd6d1de986ee8c3e6b839b85423437579e6e
+	NAME MccThiccens
+	IP 68.96.107.144
+	STAT first:28176749 last:28176749
+
+PUBKEY 96d7d85ec5ee838c611fe5c902bbe2f3420d8270a60287017917b48e8b1a3329
+	NAME wraps
+	IP 178.43.251.24
+	STAT first:28215577 last:28215577 minconn:9 minact:9 flags:1 frags:28 deaths:26 damage:4040 ff:48
+
+PUBKEY 9b632fa7601c8e08e5f18c6ccd7ed07b6a9b3a5e34237bb57cb20da6a36b3e1f
+	NAME Ark74
+	IP 38.25.27.99
+	STAT first:28229981 last:28229981 minconn:1 minact:1 deaths:2 damage:82
+
+PUBKEY 9e63e61fcb13323d1461f1a8d8e795de08a823a1459c39f698cf6422501586f0
+	NAME Houdini
+	IP 99.110.220.237
+	STAT first:28188536 last:28238687 minconn:54 minact:46 flags:10 frags:159 deaths:53 damage:22421 ff:191
+
+PUBKEY 9e373f8d7b4bd855eb28577ac1f1652286959cf0eadc0660bbe8c8fbaa2a5ba0
+	NAME wtf
+	IP 37.238.32.30
+	STAT first:28183230 last:28183230 minconn:2
+
+PUBKEY 9edfd4e77b453469864da862d40014635c6dc18807281ba828d232940ee75511
+	NAME mesori
+	IP 98.168.139.94
+	STAT first:28177349 last:28179333 minconn:38 minact:37 flags:28 frags:87 deaths:49 tks:1 damage:8604 ff:82
+
+PUBKEY 9f374eeed8973312687d2c6360687eb81f7b8f65b11365cd91069074ec2d1119
+	NAME VIEJO
+	IP 190.143.242.61 208.96.134.216
+	STAT first:28179385 last:28258724 minconn:106 minact:76 flags:12 antiflags:1 frags:227 deaths:169 tks:10 suicides:4 damage:31822 ff:2514
+
+PUBKEY a22f5d48420341013df01e95835d41e9ee9afe4135ac3c83cfc9bfbc02bec44e
+	NAME k.nealon
+	IP 98.147.180.116
+	STAT first:28179456 last:28179456 minconn:29 minact:29 flags:1 frags:65 deaths:62 tks:2 damage:10277 ff:427
+
+PUBKEY a483bcee539c7a1bc7641540a35765b15890b94a285f4127ca9cbce0e7ee3391
+	NAME 233424 t67r 12345 what
+	IP 45.180.4.138 45.180.4.130 45.180.4.177
+	STAT first:28242651 last:28269499 minconn:5 minact:4
+
+PUBKEY a4bfe5e5b72be63d5de06c21ebbcf500e70de7a57a8467215104e6408d4ae12e
+	IP 186.233.185.171
+	STAT first:28192484 last:28192484
+
+PUBKEY a4eb84d218ad6eadaef0269eb11e152dce8f3d3fad165b644121c3416e4ffcd5
+	NAME oddball porkchop
+	IP 222.152.203.238 222.152.202.168
+	STAT first:28182859 last:28270652 minconn:260 minact:258 flags:41 antiflags:1 frags:511 deaths:694 tks:19 suicides:8 damage:86794 ff:3409
+
+PUBKEY a5bb20beacac1ef276ff9350ff9d0b1177c0b3ec0d9140f0a11cb59dea03e2a0
+	NAME nigu
+	IP 117.199.152.184
+	STAT first:28204606 last:28204606 minconn:11 minact:11 frags:23 deaths:11 damage:3193
+
+PUBKEY a693ac567129ff989373692df278dff96258acd258b5dfafdc84ff7f6b52c11d
+	NAME Stilinsky
+	IP 190.80.151.36
+	STAT first:28229979 last:28229989 minconn:13 minact:13 flags:13 frags:13 deaths:6 damage:1678
+
+PUBKEY a7d7abdc78113c6519372791aba958c79aafb31ba998abdb410ab637a2e734b1
+	NAME |\\|X|ElDorado
+	IP 103.99.13.134
+	STAT first:28230745 last:28230745 minconn:2 minact:2 frags:2 deaths:4 damage:521
+
+PUBKEY a7f7be4af36b6ebea7b7b120de6a36a8d865e1f699e82422855f758a30df21b4
+	NAME Java
+	IP 178.246.142.238 78.174.222.118
+	STAT first:28181739 last:28201566
+
+PUBKEY a9eb53248276243f6cca335f5e2aae4d692605f92b74856b10a0f18b5e047f1c
+	NAME iddqd
+	IP 194.144.155.10
+	STAT first:28233497 last:28233497 minconn:21 minact:21 frags:55 deaths:86 suicides:1 damage:7878
+
+PUBKEY a91315743daf6b95e9dae5a0341b044bcd22f0a1f1290a03ed26096bec61344d
+	NAME jacbob
+	IP 65.129.64.244
+	STAT first:28179315 last:28179315 minconn:39 minact:39 frags:23 deaths:84 tks:9 damage:2598 ff:734
+
+PUBKEY ab4b9a7b43ed49d8d4a8157328ccaad8f9023f34f51e0bcb0658cca4cca06969
+	NAME bloodyballsack
+	IP 50.93.6.121
+	STAT first:28238640 last:28238640 minconn:2 minact:2 frags:2 deaths:3 damage:480
+
+PUBKEY ada7f0c103e733dbd8acdeff5b11efa27a5d2e9b4a2cab842006fd8f90a5b551
+	NAME Damage A&D_jamz
+	IP 85.119.83.38 149.71.104.234
+	STAT first:28241600 last:28270397 minconn:43 minact:38 flags:9 frags:74 deaths:60 suicides:1 damage:12670 ff:24
+
+PUBKEY af57f94bb79e85976aade5ea733503d86afe49c9457972741e5793e4bb205d1b
+	NAME Saintzy66
+	IP 192.141.191.40
+	STAT first:28241622 last:28241624 minconn:5 minact:5 flags:4 frags:6 deaths:17 tks:1 damage:1376 ff:110
+
+PUBKEY af336ff03aa84017c988d29d1eae549f95889c9ae285f68727e6ab095bcbddd6
+	NAME BLACK
+	IP 51.36.221.149
+	STAT first:28232129 last:28232129 minconn:2 minact:2 deaths:3 damage:154 ff:88
+
+PUBKEY af4b6b3073695359cfdeadda420f5ffed553a521e61e488f48103f6eff973c87
+	NAME Vit:UA
+	IP 176.119.233.146
+	STAT first:28202742 last:28270605 minconn:33 minact:33 flags:2 frags:72 deaths:99 tks:1 damage:10599 ff:163
+
+PUBKEY af97b060559fbbd805b6cc8fa638dce551c289932e83eaa6adad00e795a2d2b2
+	NAME [SS]HitIer
+	IP 202.153.214.190
+	STAT first:28200397 last:28270652 minconn:186 minact:145 flags:22 antiflags:1 frags:384 deaths:510 tks:8 suicides:4 damage:55464 ff:1354
+
+PUBKEY b0b3d5ba29532e5c87cb3012227afb7f41b334bd7c42a3e8f93b0c0ba102250b
+	NAME DEADPOOL
+	IP 59.89.34.246
+	STAT first:28221630 last:28221630 minconn:1 minact:1 frags:2 deaths:1 damage:128
+
+PUBKEY b1f78bf362c118f4fb5cec09776064b5a1b84c05f714b9f58db6e551fa1ac36d
+	NAME gibbed_scorpion Enemy
+	IP 213.91.213.25
+	STAT first:28211777 last:28211777 minconn:20 minact:20 flags:3 frags:51 deaths:56 tks:2 damage:7619 ff:306
+
+PUBKEY b117a68e3201040919c7a1c53f368f96bef2bd75cb895acb841fa4e62137ef1f
+	NAME Huevus-Fritus Am_I_Webon? Am_I_Evil?
+	IP 190.51.3.180 190.51.23.200 190.51.24.140 190.51.24.252
+	STAT first:28179492 last:28258720 minconn:234 minact:230 flags:73 frags:519 deaths:429 tks:15 suicides:6 damage:82037 ff:3719
+
+PUBKEY b34755b7a67f96289f9ff8a91130bfb4711b300e74c1bf8a93269a265ba52d90
+	NAME CARL|Clippo
+	IP 104.63.85.103
+	STAT first:28185103 last:28185103 minconn:30 minact:28 frags:34 deaths:50 suicides:3 damage:5033
+
+PUBKEY b433179d62989a9c045cff89e9c83a7743b3431156efc08e8ad2536af75cc5d4
+	NAME unarmed
+	IP 117.245.246.106 117.245.166.80
+	STAT first:28184430 last:28187298 minconn:23 minact:23 frags:1 deaths:7 damage:176
+
+PUBKEY b62b6e42a9772de9aec659fbb0f19c8a0b938212ce514f14ab2555f055bc2bb6
+	NAME JeffRedd
+	IP 172.88.244.160
+	STAT first:28245422 last:28245422 minconn:3 minact:3
+
+PUBKEY b77fbd896c3bfecd84700ea9f8ddd68c640ca027b832ee4c084b0c4717e7a33d
+	NAME ZZ|CR7
+	IP 88.168.106.222 37.174.29.177
+	STAT first:28201924 last:28228126 minconn:2 minact:1
+
+PUBKEY ba3b000fc264c2737b22f940cca56ca17c8ee0d49749bd1531b3e69889a831f4
+	NAME Nsfrvr
+	IP 190.104.121.155 181.174.107.155
+	STAT first:28179416 last:28258670 minconn:146 minact:142 flags:11 frags:452 deaths:419 tks:7 damage:68122 ff:1203
+
+PUBKEY bf9714859853ec719e98e724e29e6993dc068eddc71d0c35c756307182401532
+	NAME FraggleRock
+	IP 60.57.63.201
+	STAT first:28192109 last:28192118 minconn:8 minact:8 flags:11 frags:14 deaths:1 damage:1812
+
+PUBKEY c0b721d55578fc42cfab6ae8bace5d61474538af1626cf84fa06313c42761c11
+	NAME pablo
+	IP 179.1.192.137
+	STAT first:28188025 last:28188142 minconn:8 minact:8 frags:12 deaths:20 tks:2 damage:1948 ff:282
+
+PUBKEY c427a0e54e4798792915f3667d20d85158773e00ca969cfa18619d22868d22d1
+	NAME REUSPECT REUS REUSN!PER
+	IP 187.18.140.180
+	STAT first:28221161 last:28258691 minconn:20 minact:18 flags:5 frags:62 deaths:58 tks:1 damage:10142 ff:246
+
+PUBKEY c5139b85268860f548b5054a41856c68e8c432067c7c3f1bf859f6d4725c72b1
+	NAME Servily
+	IP 98.34.176.240
+	STAT first:28194892 last:28233506 minconn:33 minact:33 flags:10 frags:94 deaths:85 tks:1 damage:13907 ff:805
+
+PUBKEY c7a3a4c960b1f38a4211e815a3f4aec793f97e25af0ee3e5fb84a6b998dd93fc
+	NAME STRIKE_ZONE
+	IP 68.51.53.41
+	STAT first:28190516 last:28190518 minconn:6 minact:5 frags:7 deaths:18 tks:2 damage:1452 ff:176
+
+PUBKEY c9f3bacc96b5259864e607bb0b6ecb67fc670dbb215ab879ed6024a5213c9b15
+	NAME qura
+	IP 94.25.173.58
+	STAT first:28188047 last:28188047 minconn:1 minact:1 frags:1 deaths:1 damage:154
+
+PUBKEY cb1f3717bc7854f2e632c61feccad8258fa4686466ddb4c35c07288cb64e207d
+	NAME unarmed
+	IP 190.186.49.254
+	STAT first:28238831 last:28238831 minconn:1 minact:1 deaths:1
+
+PUBKEY cb331c1ec7276604e9f8ea1e74c3a47582b5d66bef151ac2023e15bc62f5c21b
+	NAME Alis2006
+	IP 109.252.164.199
+	STAT first:28194884 last:28194901 minconn:92 minact:92 flags:3 frags:129 deaths:158 suicides:1 damage:14270 ff:22
+
+PUBKEY cf03b0c57b60ca8aae7bf9a8ad7eddda28ad635fab2bf2a810ff9279b6630f76
+	NAME DrDingleDucky
+	IP 130.250.144.185
+	STAT first:28258678 last:28258678 minconn:8 minact:8 frags:28 deaths:27 tks:3 damage:3590 ff:196
+
+PUBKEY d02352775cb40770cb70aff482f403a3104d167413946ae228caca2215b62188
+	NAME JoharDudaev
+	IP 188.163.80.76
+	STAT first:28190524 last:28194949 minconn:54 minact:54 frags:33 deaths:115 tks:2 suicides:1 damage:6060 ff:375
+
+PUBKEY d1cfef76e19e85d4456ba444d738c05b00c29cfaae83cae6fc51e9cd44233a2b
+	NAME jOHNWICK
+	IP 191.209.11.251
+	STAT first:28192249 last:28226725 minconn:19 minact:19 frags:46 deaths:49 damage:6486
+
+PUBKEY d3ebdfacf11bdcddc9de449d4f4bb4e44f09d896a772b70b13d125ced9273977
+	NAME NOOB#DESTROYER
+	IP 207.47.253.45
+	STAT first:28258385 last:28258385 minconn:17 minact:17 frags:49 deaths:38 tks:3 damage:6372 ff:308
+
+PUBKEY d3afd2dd84627748b68fa09e091f8fd235154c8a13f1e09ddc8463e9f2d87617
+	NAME GoatedCube
+	IP 184.65.181.29
+	STAT first:28202727 last:28202727 minconn:32 minact:32 frags:82 deaths:103 damage:7932 ff:98
+
+PUBKEY d5bfcaf6bc752b969849a84bcdaa75449a4b173488678376f2a80908a10a2224
+	NAME teri
+	IP 78.148.122.83
+	STAT first:28230779 last:28230781 minconn:3 minact:2 deaths:6 damage:198
+
+PUBKEY d54ff484002d863d58d5d3d1f2a567eaa51d5db4456312fffe664286a6f394e0
+	NAME lazlow linkboy
+	IP 99.62.245.105
+	STAT first:28209865 last:28209865 minconn:32 minact:31 frags:113 deaths:82 damage:10377 ff:44
+
+PUBKEY d5d7fa84a1ef564707a393ae207405f46e8516dc989c4a4d74a748b0feb7bb69
+	NAME MANDOLORIAN
+	IP 186.206.185.227
+	STAT first:28200405 last:28247907 minconn:22 minact:21 flags:3 frags:34 deaths:36 tks:6 damage:4327 ff:429
+
+PUBKEY d633c586acb8339416b759d1c95795dc841f11c99456ba390115e4cc2ec4cc9a
+	NAME acastrobr
+	IP 187.59.104.161
+	STAT first:28221140 last:28221158 minconn:24 minact:23 flags:12 frags:28 deaths:39 tks:1 damage:4328 ff:246
+
+PUBKEY d66f34d0fbe0a2ac06ff7607dfccdbee866e529a2ff49559578d4fc3737fdb17
+	NAME CP ' unarmed
+	IP 67.162.138.59
+	STAT first:28179426 last:28218321 minconn:95 minact:94 flags:4 antiflags:1 frags:169 deaths:154 tks:8 damage:23189 ff:976
+
+PUBKEY d9ebe12a002234e577320d2ccfd737745a1f323ddf21eddc7c26ecf61308d09a
+	NAME CTF
+	IP 65.203.48.58
+	STAT first:28188141 last:28258513 minconn:35 minact:35 frags:103 deaths:88 tks:4 damage:12862 ff:502
+
+PUBKEY da2b08e1b08cb1a0ce3cef4e90cd957aa05a399704298c5287ab9ddd11c5add3
+	NAME bane
+	IP 87.116.135.32 87.116.132.85
+	STAT first:28187540 last:28215031 minconn:4 minact:4 flags:7 frags:3 deaths:3 damage:572
+
+PUBKEY db33eb1fa95d291f929196e5d2d465a0a39d7f2d6c862a76573979001763f0e0
+	NAME unarmed
+	IP 179.222.9.246
+	STAT first:28215585 last:28216146 minconn:2 minact:2 flags:1 frags:7 deaths:7 damage:944 ff:48
+
+PUBKEY dbf3f04d59e2627f23fef445b3cd8ad9bb60af4c28c290c3d5ebd9b2062dfa2e
+	NAME GPU
+	IP 191.185.79.224
+	STAT first:28215048 last:28215084 minconn:14 minact:13 frags:24 deaths:17 suicides:1 damage:4656 ff:149
+
+PUBKEY de03f756fb701e20d9dd9425f829d6ec3dffeb2849f005828af8bd32bc062160
+	NAME billy
+	IP 158.247.173.213
+	STAT first:28257044 last:28259663 minconn:2 minact:2
+
+PUBKEY df972cde0ff8680b2dd4c5e17efcf027edadc788042c170dd76d08cba308ad7a
+	NAME what whatd whatdd whatddd
+	IP 147.129.163.246
+	STAT first:28269551 last:28269551 minconn:3 minact:3
+
+PUBKEY dfab9a76b3bda46e94e218bd4d68955c74e9f83bcb0eeae1ac0a0eed4b6ccd08
+	NAME unarmed
+	IP 61.19.79.94
+	STAT first:28221533 last:28221533 minconn:2 minact:1 frags:3 deaths:6 damage:352
+
+PUBKEY df438d8a1ea2b4cfa7b8ed61e53874c3c968a7290854280f20aba9246f0d3096
+	NAME O*Tea
+	IP 71.69.37.213
+	STAT first:28192278 last:28258553 minconn:124 minact:124 flags:19 frags:665 deaths:280 tks:6 damage:80730 ff:884
+
+PUBKEY e013efca6517874c1efdd778620db379b856dcbae375a1231d4a40acb4ba442a
+	NAME Django
+	IP 95.116.253.230
+	STAT first:28258482 last:28258482 minconn:11 minact:11 frags:17 deaths:19 damage:2064 ff:172
+
+PUBKEY e033d30afeecd32f4062673dbed9029694dd8a36e67db008582dde1daa85f71e
+	NAME unarmed
+	IP 61.19.79.94
+	STAT first:28241692 last:28241692 minconn:10 minact:10 frags:13 deaths:11 damage:2008
+
+PUBKEY e117f541b3f15d54b4bef43344ad1943032dc9bc7e41f80e08cd9ac118cadfe0
+	NAME Hann
+	IP 36.72.213.56
+	STAT first:28270459 last:28270459 minconn:13 minact:12 flags:1 frags:21 deaths:31 damage:2869
+
+PUBKEY e3778a1488028a41461669a8bd4bb67c06427f25253df2437374f77ddb1e4aa6
+	NAME koverplay
+	IP 178.49.194.24
+	STAT first:28270373 last:28270397 minconn:24 minact:24 frags:31 deaths:78 damage:6304
+
+PUBKEY e76befd6049cd468d172e8c6651d21f41aeafd603accfdbbb1f189577536a114
+	NAME parliament parlamat parmalat timbrlycrambaly
+	IP 79.173.88.158
+	STAT first:28177307 last:28228840 minconn:12 minact:11 frags:9 deaths:19 tks:1 suicides:1 damage:1480 ff:218
+
+PUBKEY e8bb4e22af8c1568613c0d36c2695926ad74dc5ae87c29fae1d8da29b1dd5a31
+	NAME tuk TUKANO
+	IP 201.242.237.88 190.200.0.104
+	STAT first:28207660 last:28258641 minconn:66 minact:66 flags:4 frags:97 deaths:203 tks:9 damage:11969 ff:1048
+
+PUBKEY e9ab7711a26101fd74754637728d96b7940362702918ce96096deb3c4f5f9b68
+	NAME SchiZ972
+	IP 95.138.17.124
+	STAT first:28258525 last:28258544 minconn:86 minact:86 flags:7 frags:153 deaths:207 tks:14 damage:20873 ff:1717
+
+PUBKEY e98f0d830e67ec791f4f6c72e419a95fafdd5720c430701b96c2ac1171cad14c
+	NAME bigus-d1ckus
+	IP 81.77.235.18
+	STAT first:28254341 last:28254399 minconn:54 minact:53 flags:4 frags:82 deaths:93 tks:1 damage:9613 ff:60
+
+PUBKEY e9cf08cef60f54004bae01c970827b205b94decc03a4cbb7c613b1c81011ff1b
+	NAME AlbertRammstein
+	IP 179.25.240.196 190.135.77.11
+	STAT first:28190722 last:28254247 minconn:31 minact:31 frags:44 deaths:74 damage:6905 ff:198
+
+PUBKEY ec17aa451c0947c152a86235c39a43485754d191f62c9e39d69b22d978fa4785
+	NAME krishnk0001
+	IP 1.38.180.40
+	STAT first:28255134 last:28255134 minconn:4 minact:4 flags:8 frags:1 deaths:2 suicides:1 damage:237
+
+PUBKEY eccfa7189c72ecb383dd0fb79e7c1fba60247a3312471b2b7ba34bf8be435f01
+	NAME RufusXaverSarsp
+	IP 100.43.10.41
+	STAT first:28215070 last:28215070 minconn:30 minact:30 flags:14 frags:11 deaths:25 tks:2 damage:3531 ff:98
+
+PUBKEY f1733d72b34da9dfa2d80a4707fd4c99f3bc36567cff786a71fa8f69200a0793
+	NAME Nagato
+	IP 186.93.3.39
+	STAT first:28254319 last:28254340 minconn:2 minact:2 frags:2 deaths:3 damage:164
+
+PUBKEY f2f70288d343f24c0c51826103cdd8055f2f4bcc1cfcd72c68d4de9620b82fd1
+	NAME NIGHT-HAWK
+	IP 179.253.253.198
+	STAT first:28268330 last:28268330 minconn:13 minact:13 flags:7 antiflags:2 frags:13 deaths:12 suicides:2 damage:1965 ff:109
+
+PUBKEY f4afb2b9e2f1a296643ecaf04622ac7fd2d65dfc82e0646606a6ebe7166624ea
+	NAME FCWAGENINGENNL
+	IP 213.93.62.53
+	STAT first:28188536 last:28188536 minconn:3 minact:3 frags:3 deaths:12 damage:994
+
+PUBKEY f5db2619680eaa8b200df2215cdf1f32e76640c3ecee6b82d7089d65ef703332
+	NAME notme
+	IP 84.24.155.82
+	STAT first:28215036 last:28215036 minconn:14 minact:13 antiflags:1 frags:11 deaths:20 tks:2 damage:1876 ff:148
+
+PUBKEY f517e0b85e75ee14464820dc58825919d1ddb21a9979248556839c212a889030
+	NAME .rC|mise
+	IP 109.158.84.55
+	STAT first:28177349 last:28177349
+
+PUBKEY fb7fd5dac56be64854de91e1467ab9a2512e71598e3fead4a62be857987c141b
+	NAME Dammit!
+	IP 186.64.128.67
+	STAT first:28210597 last:28232106 minconn:98 minact:97 flags:62 frags:184 deaths:138 damage:41415 ff:1100
+
+PUBKEY fdb7370f2f7d1a4350d999d446256a2cfa63ead42fc30dd7b52ff407e8d1958e
+	NAME halloween
+	IP 179.98.55.114 191.8.19.128
+	STAT first:28178110 last:28188085 minconn:77 minact:28 flags:1 frags:51 deaths:64 tks:1 suicides:1 damage:7037 ff:402
+
+PUBKEY fe5fb9a3c956c5ad8b756d5ad39cb205cd20674651bd498513be88b332c231b4
+	NAME ZZ|jiba
+	IP 203.211.105.19 203.211.105.41 203.211.104.151
+	STAT first:28228696 last:28270607 minconn:127 minact:124 flags:30 frags:317 deaths:296 tks:5 suicides:1 damage:39845 ff:508
+
+PUBKEY fea30b2f47db6a69b785cfce0d09d11e9ff2fc854b50cf712105230adb046c4c
+	NAME orindo1945
+	IP 103.186.213.9
+	STAT first:28207704 last:28207704 minconn:1 frags:1 deaths:2 damage:82
+
+PUBKEY ffaf6dcb95434d8a8b6a4f7c17f6e723d764fe1205b69e7cb04339d283ea3004
+	NAME SideBrPe
+	IP 45.168.141.25 45.168.141.88
+	STAT first:28179364 last:28201907 minconn:9 minact:9 frags:35 deaths:28 damage:3572
+

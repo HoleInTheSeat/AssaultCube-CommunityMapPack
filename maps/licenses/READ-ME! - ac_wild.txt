@@ -1,0 +1,11 @@
+// ac_wild
+// version 2.0
+// by Raizen and mariana
+
+// Mode recommendation:
+//  	CTF, HTF:        up to 4 players
+
+// License:
+//      1) It is allowed to edit the map, to modify mapmsg you have to keep the previous authors.
+
+// This map do not use custom Media!

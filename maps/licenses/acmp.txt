@@ -1,0 +1,88 @@
+AC Community Map Pack
+
+Version 1.0.3
+
+Some maps have licenses in the the maps' .CFG (open in Notepad or Wordpad).
+
+You may not alter these maps without the authors permission.
+
+The most I have done to edit these maps is change some upper-case letters that fail on MAC/UNIX,
+or get rid of unknown commands in a .cfg.
+
+The maps in this pack are the original versions released for ac 1.0(.4). There may be updated
+versions of these maps in SVN version of ac.
+
+//-- Included maps
+
+- ac_2fast2furious
+- ac_africa
+- ac_alcove
+- ac_arid
+- ac_asperate
+- ac_bank
+- ac_blarg
+- ac_brick
+- ac_bunker
+- ac_cairn
+- ac_casa
+- ac_casa2
+- ac_culvert
+- ac_debris
+- ac_deltaforce
+- ac_department
+- ac_desecration
+- ac_dimp
+- ac_dioura
+- ac_dune
+- ac_edifice
+- ac_egypt
+- ac_fabrik
+- ac_fold
+- ac_fracht
+- ac_gridlock
+- ac_hovel
+- ac_iced
+- ac_iceroad
+- ac_industrialisies
+- ac_ingress
+- ac_iran
+- ac_iron
+- ac_komplex
+- ac_lost
+- ac_midnight
+- ac_nest
+- ac_nightshift
+- ac_noct
+- ac_oasis
+- ac_ore
+- ac_outpost
+- ac_parkour
+- ac_rayjid
+- ac_rialto
+- ac_riverdry
+- ac_riverside
+- ac_riverside2
+- ac_rubble
+- ac_ruinas1.0
+- ac_safari
+- ac_sanctuary
+- ac_savana
+- ac_silence
+- ac_spaceport
+- ac_stellar1.1
+- ac_stockade1.3
+- ac_stoops
+- ac_sylang
+- ac_tone2.0
+- ac_vent
+- ac_werk
+- ac_wild_2.0
+- ac_zanka
+- apache
+- apollo_arabicnight1.4
+- apollo_facility
+- deserted_v1.20
+- dm_canicule_night
+- mp_apollo_desertcity
+- mpx_desierto
+- mpx_logistica

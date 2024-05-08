@@ -1,0 +1,11 @@
+These files were originally downloaded from http://www.freesound.org. All of these sounds are licensed under a Creative Commons Sampling Plus 1.0 License. http://creativecommons.org/licenses/sampling+/1.0/
+
+*********************************|Authors|***************************************
+|calmwater.ogg - Originally created by Pogotron from http://www.freesound.org   |
+|                                                                               |
+|furnace.ogg - Originally created by daveincamas from http://www.freesound.org  |
+|                                                                               |
+|windynight.ogg - Originally created by Dynamicell from http://www.freesound.org|
+*********************************************************************************
+
+These sounds were converted and edited by DES|optus for AssaultCube, for use in the map ac_culvert by DES|Bukz & DES|optus.

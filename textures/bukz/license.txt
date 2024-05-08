@@ -1,0 +1,8 @@
+These door textures are provided in the default texture package for AssaultCube in packages/textures/mitaman/3dcafe,
+and have been slightly edited to align to the editor's grid differently, for use in the map ac_stellar by DES|Halo & DES|Bukz
+
+Thanks to mitaman for making the original textures, and copyrights (if there is any) are still owned by him.
+
+Original licenses for the original textures by mitaman below:
+
+www.3dcafe.com

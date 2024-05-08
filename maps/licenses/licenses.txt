@@ -1,0 +1,186 @@
+//---------------------------------------------------------------------------------------------------------------------//
+// The DES Map Pack - v1.0.2                                                                                           //
+//---------------------------------------------------------------------------------------------------------------------//
+// The mappers...                                                                                                      //
+//---------------------------------------------------------------------------------------------------------------------//
+// -Bukz:      ac_alcove, ac_culvert, ac_edifice, ac_safari, ac_stellar1.1                                             //
+// -Cleaner:   ac_egypt                                                                                                //
+// -Dreamer:   ac_fold, ac_noct                                                                                        //
+// -Halo:      ac_alcove, ac_debris, ac_outpost, ac_stockade1.3, ac_wasteland, ac_stellar1.1                           //
+// -jiba:      ac_outpost                                                                                              //
+// -Mr.Floppy: ac_bunker, ac_fabrik, ac_fracht, ac_nest, ac_outpost                                                    //
+// -optus:     ac_culvert, ac_edifice                                                                                  //
+// -R4zor:     ac_asperate, ac_ingress, ac_outpost, ac_wasteland, ac_cairn                                             //
+// -Ruthless:  ac_ingress, ac_oasis, ac_outpost, ac_desolate                                                           //
+// -sunnyD:    ac_outpost                                                                                              //
+// Current map count: 21                                                                                               //
+//---------------------------------------------------------------------------------------------------------------------//
+// Extra help...                                                                                                       //
+//---------------------------------------------------------------------------------------------------------------------//
+// -Cleaner    ac_outpost (models)                                                                                     //
+// -jamz:      ac_outpost (textures)                                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// Website: http://des-clan.net                                                                                        //
+// Forums:  http://forums.des-clan.net                                                                                 //
+// Maps:    http://des-clan.net/mapping                                                                                //
+// IRC:     #DedicatedEliteSoldiers - irc.gamesurge.net (DES IRC client: http://irc.des-clan.net)                      //
+//---------------------------------------------------------------------------------------------------------------------//
+// End DES  Map Pack - v1.0.2 License                                                                                  //
+//---------------------------------------------------------------------------------------------------------------------//
+// ac_asperate                                                                                                         //
+//---------------------------------------------------------------------------------------------------------------------//
+// License;                                                                                                            //
+// http://creativecommons.org/licenses/by-nc-nd/3.0/                                                                   //
+// You may;	distribute the work to others (under the license given)                                                //
+// You may not;	alter this work without my permission (R4zor)                                                          //
+//		use this for commercial purposes                                                                       //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Asperate License                                                                                                //
+//---------------------------------------------------------------------------------------------------------------------//
+// ac_cairn; pyramid/tomb map created by R4zor.                                                                        //
+// under license http://creativecommons.org/licenses/by-nc-nd/3.0/                                                     //
+// you cannot alter this work or use it for profit, however you can redistribute it, only under this license.          //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Cairn License                                                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// Culvert - By DES|Bukz & DES|optus                                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// Culvert is licensed under "Attribution-Noncommercial-No Derivative Works 3.0 Unported" creative commons.            //
+// http://creativecommons.org/licenses/by-nc-nd/3.0/                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// This means you are free to share, copy, distribute and transmit the work, under the following conditions:           //
+//   * Attribution:		    You must attribute the work in the manner specified by the author or licensor (but //
+// 				            not in any way that suggests that they endorse you or your use of the      //
+//                                          work)                                                                      //
+//   * Noncommercial:       You may not use this work for commercial purposes.                                         //
+//   * No Derivative Works: You may not alter, transform, or build upon this work.                                     //
+//---------------------------------------------------------------------------------------------------------------------//
+// However, attribution is not needed if distributed as part of the AssaultCube package, as credit is already given.   //
+// Exceptions to this license may be made if written permission is given by DES|Bukz and DES|optus.                    //
+//---------------------------------------------------------------------------------------------------------------------//
+// These files were originally downloaded from http://www.freesound.org. All of these sounds are licensed under a      //
+// Creative Commons Sampling Plus 1.0 License. http://creativecommons.org/licenses/sampling+/1.0/                      //
+//---------------------------------------------------------------------------------------------------------------------//
+// *********************************|Authors|***************************************                                   //
+// |calmwater.ogg - Originally created by Pogotron from http://www.freesound.org   |                                   //
+// |                                                                               |                                   //
+// |furnace.ogg - Originally created by daveincamas from http://www.freesound.org  |                                   //
+// |                                                                               |                                   //
+// |windynight.ogg - Originally created by Dynamicell from http://www.freesound.org|                                   //
+// *********************************************************************************                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// These sounds were converted and edited by DES|optus for AssaultCube, for use in the map ac_culvert by               //
+// DES|Bukz & DES|optus.                                                                                               //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Culvert License                                                                                                 //
+//---------------------------------------------------------------------------------------------------------------------//
+// Edifice - By DES|Bukz & optus                                                                                       //
+//---------------------------------------------------------------------------------------------------------------------//
+// Edifice is licensed under "Attribution-Noncommercial-No Derivative Works 3.0 Unported" creative commons.            //
+// http://creativecommons.org/licenses/by-nc-nd/3.0/                                                                   //
+//                                                                                                                     //
+// This means you are free to share, copy, distribute and transmit the work, under the following conditions:           //
+//  * Attribution:		You must attribute the work in the manner specified by the author or licensor (but     //
+//				not in any way that suggests that they endorse you or your use of the work).           //
+//  * Noncommercial:		You may not use this work for commercial purposes.                                     //
+//  * No Derivative Works:	You may not alter, transform, or build upon this work.                                 //
+//                                                                                                                     //
+// However, attribution is not needed if distributed as part of the AssaultCube package, as credit is already given.   //
+// Exceptions to this license may be made if written permission is given by DES|Bukz and optus.                        //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Edifice License                                                                                                 //
+//---------------------------------------------------------------------------------------------------------------------//
+// Egypt - By DES|Cleaner                                                                                              //
+//---------------------------------------------------------------------------------------------------------------------//
+// Map ac_egypt by DES|Cleaner.                                                                                        //
+// Please do not edit this map without notify me at: totally_shameless@hotmail.fr                                      //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Egypt License                                                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// ac_ingress; by Ruthless and R4zor                                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// Release Date;                                                                                                       //
+// 	 27/9/09                                                                                                       //
+//---------------------------------------------------------------------------------------------------------------------//
+// Bio;                                                                                                                //
+//---------------------------------------------------------------------------------------------------------------------//
+// 	ingress is a medium sized map, structured well for use in most gamemodes. The map features a simple            //
+// 	yet elegant and semi-symmetrical layout, as well as a good level of detail and strong gameplay.                //
+// 	ingress combines the well-known industrial style with the street type that is found in a few maps.             //
+//---------------------------------------------------------------------------------------------------------------------//
+// License;                                                                                                            //
+//---------------------------------------------------------------------------------------------------------------------//
+// 	ac_ingress uses the license that can be found at http://creativecommons.org/licenses/by-nc-nd/3.0/             //
+//	In short, you can freely share the work, but not sell it or alter it or the package                            //
+//	(with the exception of AssaultCube's /sendmap).                                                                //
+//                                                                                                                     //
+// Formalities aside, we really hope you enjoy ac_ingress, we worked together and our ideas are similar so hopefully   //
+// you enjoy playing the map as much as we did making it. gg                                                           //
+//---------------------------------------------------------------------------------------------------------------------//
+// R4zor+Ruthless                                                                                                      //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Ingress License                                                                                                 //
+//---------------------------------------------------------------------------------------------------------------------//
+// Noct - By DES|Dreamer                                                                                               //
+//---------------------------------------------------------------------------------------------------------------------//
+// Seamless Brick Texture by ~Paradise-Awaits http://paradise-awaits.deviantart.com/art/Seamless-Brick-Texture-95980492//
+// Licensed under Creative Commons Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/                 //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Noct License                                                                                                    //
+//---------------------------------------------------------------------------------------------------------------------//
+// ac_oasis by DES|RuThLe$$                                                                                            //
+//---------------------------------------------------------------------------------------------------------------------//
+// ! LICENSE !                                                                                                         //
+//---------------------------------------------------------------------------------------------------------------------//
+// ~ This map has a freeware license - which is it is completely free.                                                 //
+// However this map may not be distributed for any other game without my                                               //
+// personal permission, nor can it be edited and redistributed in any way                                              //
+// without my permission.                                                                                              //
+//---------------------------------------------------------------------------------------------------------------------//
+// -Ruthless                                                                                                           //
+//---------------------------------------------------------------------------------------------------------------------//
+// Contact Me                                                                                                          //
+//---------------------------------------------------------------------------------------------------------------------//
+// -DES forum - http://des-clan.net                                                                                    //
+// -IRC                                                                                                                //
+//    -#dedicatedelitesoldiers (gamesurge)                                                                             //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Oasis License                                                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// Safari - By DES|Bukz                                                                                                //
+//---------------------------------------------------------------------------------------------------------------------//
+// Safari is licensed under "Attribution-Noncommercial-No Derivative Works 3.0 Unported" creative commons.             //
+// http://creativecommons.org/licenses/by-nc-nd/3.0/                                                                   //
+//                                                                                                                     //
+// This means you are free to share, copy, distribute and transmit the work, under the following conditions:           //
+//  * Attribution:		You must attribute the work in the manner specified by the author or licensor (but     //
+//				not in any way that suggests that they endorse you or your use of the work).           //
+//  * Noncommercial:		You may not use this work for commercial purposes.                                     //
+//  * No Derivative Works:	You may not alter, transform, or build upon this work.                                 //
+//                                                                                                                     //
+// However, attribution is not needed if distributed as part of the AssaultCube package, as credit is already given.   //
+// Exceptions to this license may be made if written permission is given by DES|Bukz.                                  //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Safari License                                                                                                  //
+//---------------------------------------------------------------------------------------------------------------------//
+// Stellar - By Halo & Bukz from DES                                                                                   //
+//---------------------------------------------------------------------------------------------------------------------//
+// Stellar is licensed under "Attribution-Noncommercial-No Derivative Works 3.0 Unported" creative commons.            //
+// http://creativecommons.org/licenses/by-nc-nd/3.0/                                                                   //
+//                                                                                                                     //
+// This means you are free to share, copy, distribute and transmit the work, under the following conditions:           //
+//  * Attribution:		You must attribute the work in the manner specified by the author or licensor (but     //
+//				not in any way that suggests that they endorse you or your use of the work).           //
+//  * Noncommercial:		You may not use this work for commercial purposes.                                     //
+//  * No Derivative Works:	You may not alter, transform, or build upon this work.                                 //
+//                                                                                                                     //
+// However, attribution is not needed if distributed as part of the AssaultCube package, as credit is already given.   //
+// Exceptions to this license may be made if written permission is given by DES|Halo and DES|Bukz.                     //
+//---------------------------------------------------------------------------------------------------------------------//
+// End Stellar License                                                                                                 //
+//---------------------------------------------------------------------------------------------------------------------//
+// NOTE: All of the other maps are licensed and assumed copyright by the respective authors. Just because a map is     //
+//       packaged in this map pack and it is not mentioned in this license, does not mean that you are free to do      //
+//       whatever you want with it. You must gain permission from the authors of each map to modify or copy            //
+//       them.                                                                                                         //
+//---------------------------------------------------------------------------------------------------------------------//
